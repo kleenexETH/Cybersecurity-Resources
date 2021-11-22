@@ -2,7 +2,7 @@
                           
                           
                           
- ##                   Links and Resources to look at to teach you more about Programming, Hardware,Hacking, and Networking 
+ ##                   Links and Resources to look at to teach you more about Programming <https://github.com/themixedcoder/IT-Resources#programming> , Hardware ,Hacking <https://gist.github.com/themixedcoder/6eb7f3169951f0fe5911f14c8a546df3#hacking>, and Networking 
  ### Hacking 
 * https://null-byte.wonderhowto.com/   </br>
  * https://www.cybrary.it/video/introduction-8/  </br>
@@ -17,6 +17,7 @@
   Helpful sites to learn programming <br> 
 * https://www.edx.org/  </br>
 * https://www.freecodecamp.org/  </br>
+* https://www.udemy.com/               </br>
 * https://www.khanacademy.org/    </br>
 * https://ocw.mit.edu/courses/intro-programming/  
 * http://code.google.com/edu/languages/google-python-class/index.html
@@ -26,6 +27,20 @@
 * http://www.catonmat.net/blog/learning-python-programming-language-through-video-lectures/
 * https://cs50.harvard.edu/college/2020/fall/ well known free course for introduction to programming <br>
 * http://www.thenewboston.com/?cat=40&pOpen=tutorial <br> 
+* https://www.hackerrank.com/
+* https://www.sololearn.com/ 
+* https://www.codecademy.com/
+* https://www.khanacademy.org/
+* https://www.coursera.org/
+* https://devdocs.io/
+* https://www.w3schools.com/
+* https://github.com/
+* https://practicepython.org
+    Cloud programming websites
+ 
+* https://www.pythonanywhere.com/
+* https://www.cs50.io
+* https://codepen.io/
 ### Linux 
 * https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/ cheatsheet which shows the commands to many everyday useful command line tools  
 * https://tryhackme.com/ website for beginners and advanced users to teach about linux plus much more 
@@ -104,10 +119,13 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 * https://www.youtube.com/c/Freecodecamp Extensive web dev Videos
 * [SecurityTube](http://www.securitytube.net/) Security and hacking tutorials  
 * [Network Chuck](https://www.youtube.com/c/NetworkChuck/) Networking tutorials 
+* [Nahamsec] (https://www.youtube.com/c/Nahamsec/featured) bug bounties ctfs career advice and prepping 
+  Other video content 
+* Stok  https://www.stokfredrik.com/  bug bountry tutorial </br>
 ### Websites where you can practice hacking legally 
-* https://tryhackme.com/ 
+* https://tryhackme.com/  highly recommend for any beginners . they have many good free tutorials for a beginner 
 * https://www.hackthissite.org/   </br>
-* https://www.hackthebox.eu/    </br>
+* https://www.hackthebox.eu/    </br>  
 * https://juice-shop.herokuapp.com/#/     </br>
 * https://www.vulnhub.com/    </br> 
 * https://www.cyberseclabs.co.uk/ <br> 
@@ -120,7 +138,7 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 * http://demo.testfire.net/
 * http://hackme.ntobjectives.com/
 ## Capture the Flag/Wargames:
-
+* https://overthewire.org/wargames/ 
 * http://intruded.net/
 * http://smashthestack.org/
 * http://flack.hkpco.kr/
@@ -130,7 +148,7 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 * https://ctftime.org/ 
 * http://capture.thefl.ag/calendar/ 
 ### Vulnerable Software:
-
+* https://www.vulnhub.com/ 
 * http://www.oldapps.com/
 * http://www.oldversion.com/
 * http://www.exploit-db.com/webapps/
@@ -164,7 +182,6 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 * [Kali linux] https://www.kali.org  most commonly used for ethical hacking. made for beginners  </br>
 Best for all levels has the most tutorials and support and largest community  </br> 
 * [Parrot Security OS](http://www.parrotsec.org/) a kali linux ripoff. easy to use not as much support as kali  </br>
-
 * [BlackArch Linux](http://www.blackarch.org/) very customizable version of linux , very steep learning curve but still very powerful <br> 
  
   ISOS 
@@ -244,7 +261,9 @@ Instead of simulating internal Windows logic like a virtual machine or emulator,
 * [securityninja](http://www.securityninja.co.uk/) <br> 
 * [securityandrisk](http://securityandrisk.blogspot.com/) <br> 
 * [pentestit](http://www.pentestit.com/) <br> 
-  [Carnal 0wnage](http://carnal0wnage.attackresearch.com/) - [atom](http://carnal0wnage.attackresearch.com/feeds/posts/default) <br> 
+* [Carnal 0wnage](http://carnal0wnage.attackresearch.com/) 
+* [atom](http://carnal0wnage.attackresearch.com/feeds/posts/default) <br> 
+* Dfir blog(https://dfir.blog/) Digital forensics, web browsers, visualizations, & open source tools </br>
   ### Forums:
 
 Created for forums that will help in both tool usage, syntax, attack techniques, and collection of scripts and tools.
@@ -733,28 +752,10 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
   
 
 Things to add to sort out and add to  project 
-#learning
-Websites  to learn programming
 
-https://www.hackerrank.com/
-https://www.sololearn.com/ https://www.codecademy.com/
- https://www.khanacademy.org/
- https://www.coursera.org/
- https://www.edx.org/
-https://www.udemy.com/
- https://github.com/
-https://practicepython.org
 
-Guider
 
-https://devdocs.io/
-https://www.w3schools.com/
 
-Cloud programming websites
- 
-https://www.pythonanywhere.com/
-https://www.cs50.io
-https://codepen.io/
  
 Editor
 
@@ -764,9 +765,7 @@ https://www.jetbrains.com/
 https://wingware.com/
 https://www.anaconda.com/ https://visualstudio.microsoft.com/
 
-https://overthewire.org/wargames/ 
-DFIR Diva under blogs is a good addition. 
-more bug bounty ppl like 
-STOK 
-Frederik, 
-NahamSec
+
+
+
+
