@@ -1,4 +1,4 @@
-                          Getting Started in Programming, IT, Hacking, and Networking Guide 
+                        Getting Started in Programming, IT, Hacking, and Networking Guide 
                           
                           
                           
@@ -730,4 +730,43 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://www.cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf
 * http://www.spy-hunter.com/Database_Pen_Testing_ISSA_March_25_V2.pdf
 * http://perishablepress.com/press/2006/01/10/stupid-htaccess-tricks/
+  
+
+Things to add to sort out and add to  project 
+#learning
+Websites  to learn programming
+
+https://www.hackerrank.com/
+https://www.sololearn.com/ https://www.codecademy.com/
+ https://www.khanacademy.org/
+ https://www.coursera.org/
+ https://www.edx.org/
+https://www.udemy.com/
+ https://github.com/
+https://practicepython.org
+
+Guider
+
+https://devdocs.io/
+https://www.w3schools.com/
+
+Cloud programming websites
  
+https://www.pythonanywhere.com/
+https://www.cs50.io
+https://codepen.io/
+ 
+Editor
+
+https://notepad-plus-plus.org/
+https://atom.io/ https://www.sublimetext.com/
+https://www.jetbrains.com/
+https://wingware.com/
+https://www.anaconda.com/ https://visualstudio.microsoft.com/
+
+https://overthewire.org/wargames/ 
+DFIR Diva under blogs is a good addition. 
+more bug bounty ppl like 
+STOK 
+Frederik, 
+NahamSec
