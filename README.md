@@ -2,7 +2,7 @@
                           
                           
                           
- ##                   Links and Resources to look at to teach you more about Programming , Hardware ,Hacking , and Networking 
+ ##                   Links and Resources to look at to teach you more about ##Programming , ##Hardware ,##Hacking , ##and Networking 
  ### Hacking 
 * https://null-byte.wonderhowto.com/   </br>
  * https://www.cybrary.it/video/introduction-8/  </br>
