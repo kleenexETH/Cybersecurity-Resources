@@ -2,7 +2,7 @@
                           
                           
                           
- ##                   Links and Resources to look at to teach you more about Programming <https://github.com/themixedcoder/IT-Resources#programming> , Hardware ,Hacking <https://gist.github.com/themixedcoder/6eb7f3169951f0fe5911f14c8a546df3#hacking>, and Networking 
+ ##                   Links and Resources to look at to teach you more about Programming , Hardware ,Hacking , and Networking 
  ### Hacking 
 * https://null-byte.wonderhowto.com/   </br>
  * https://www.cybrary.it/video/introduction-8/  </br>
