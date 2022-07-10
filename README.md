@@ -56,7 +56,7 @@
 ## Mostly free Pdfs legally obtained about programming, networking ,IT , Cyber Security, and Penetration Testing 
 * https://www.hackerhighschool.org/lessons.html#info1-1o    </br>
 * https://github.com/Hack-with-Github/Free-Security-eBooks    </br>
-* https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md </br>  
+* https://github.com/EbookFoundation/free-programming-books </br>  
   ### Courses  
                                               
  * https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md Javascript course    
