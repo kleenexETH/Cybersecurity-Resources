@@ -5,7 +5,7 @@
  ##                   Links and Resources to look at to teach you more about Programming , Hardware ,Hacking , and Networking 
  ### Hacking 
 * https://null-byte.wonderhowto.com/ free  </br>
- * https://www.cybrary.it/video/introduction-8/  free/paid </br>
+ * https://www.cybrary.it/video/introduction-8/  free and paid </br>
 * http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html free  </br>
 * https://www.guru99.com/ site with tutorials on programming machine learning cyber security and much more  </br>  
 * https://cybercademy.org/resources/ site that links to various cybersecurity resources  <br>
@@ -17,10 +17,10 @@
   Helpful sites to learn programming <br> 
 * https://www.edx.org/  various courses from universities offered for free </br>
 * https://www.freecodecamp.org/ free site to learn web development and python  </br>
-* https://www.udemy.com/   Career training site- some free courses but mostly paid. There are price drops very often so it might be worth it =.          </br>
-* https://www.khanacademy.org/   math english and Computer programming courses offered in a fun gamified way -free  </br>
-* https://ocw.mit.edu/courses/intro-programming/  
-* http://code.google.com/edu/languages/google-python-class/index.html
+* https://www.udemy.com/   Career training site- some free courses but mostly paid. There are price drops very often so it might be worth it.        </br>
+* https://www.khanacademy.org/   Math English and Computer programming courses offered in a fun gamified way -free  </br>
+* https://ocw.mit.edu/courses/intro-programming/   free Intro to Programming course released to the public by MIT
+* http://code.google.com/edu/languages/google-python-class/index.html 
 * http://www.swaroopch.com/notes/Python_en:Table_of_Contents
 * http://www.thenewboston.com/?cat=40&pOpen=tutorial
 * http://showmedo.com/videotutorials/python
@@ -30,14 +30,12 @@
 * https://www.hackerrank.com/
 * https://www.sololearn.com/ 
 * https://www.codecademy.com/
-* https://www.khanacademy.org/
-* https://www.coursera.org/
+* https://www.khanacademy.org/ Highly recommended resource with lots of free courses in programning Computer science math english etc 
+* https://www.coursera.org/ Career development  courses paid and free  
 * https://devdocs.io/
-* https://www.w3schools.com/
-* https://github.com/
-* https://practicepython.org
-    Cloud programming websites
- 
+* https://www.w3schools.com/ web development 
+* https://github.com/ code sharing site . 
+* https://practicepython.org  programming website using a browser ide . No need for your own compiler or ide. 
 * https://www.pythonanywhere.com/
 * https://www.cs50.io
 * https://codepen.io/
@@ -55,14 +53,14 @@
 * https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s Networking course by Freecodecamp and Network + prep ]
 * https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P Network Chuck Networking Course/CCNA training course
 ### Pdfs 
-## Mostly free Pdfs legally obtained about programming, networking ,IT , Cyber Security, and Penetration Testing 
+## Pdfs legally obtained about programming, networking ,IT , Cyber Security, and Penetration Testing 
 * https://www.hackerhighschool.org/lessons.html#info1-1o    </br>
 * https://github.com/Hack-with-Github/Free-Security-eBooks    </br>
 * https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md </br>  
+Pirating will not be supported especially when so many books out there are available for free in a legal way . 
   ### Courses                                             
  * https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md Javascript course    
  * https://academy.hoppersroppers.org/ 
- * https://tryhackme.com/ 
  * https://academy.hackthebox.eu/ <br>
  * https://portswigger.net/ <br> 
  * https://bittentechsolutions.in/techhacker-quiz/ <br> 
@@ -120,13 +118,16 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 * https://www.youtube.com/c/Freecodecamp Extensive web dev Videos
 * [SecurityTube](http://www.securitytube.net/) Security and hacking tutorials  
 * [Network Chuck](https://www.youtube.com/c/NetworkChuck/) Networking tutorials 
-* [Nahamsec] (https://www.youtube.com/c/Nahamsec/featured) bug bounties ctfs career advice and prepping 
-  Other video content 
+* [Nahamsec] (https://www.youtube.com/c/Nahamsec/featured) bug bounties ctfs and career advice
 * Stok  https://www.stokfredrik.com/  bug bountry tutorial </br>
 ### Websites where you can practice hacking legally 
 * https://tryhackme.com/  highly recommend for any beginners . they have many good free tutorials . They have detailed walkthrough for many rooms which is handy fro the beginner and even for intermediate and expert students. 
 * https://www.hackthissite.org/   </br>
-* https://www.hackthebox.eu/   Similar to tryhackme in the sense it has alot of boxes . It doesnt hold your hand as much as tryhackme so their boxes can be a bit more chalenging. They do have a beginner resources which are the starting point and the academy. Hackthebox may have more advanced content however less boxes are available for free and their boxes can be somewhat challenging. Note if one is studying for OSCP alot of their boxes are helpful  practice for the exam. See TJ null's list to see which boxes you should do. https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview 
+* https://www.hackthebox.eu/
+*  Similar to tryhackme in the sense it has alot of boxes . It doesnt hold your hand as much as tryhackme so their boxes can be a bit more chalenging.
+* They do have a beginner resources which are the starting point and the academy. 
+* Hackthebox may have more advanced content however less boxes are available for free and their boxes can be somewhat challenging. 
+* Note if one is studying for OSCP alot of their boxes are helpful  practice for the exam. See TJ null's list to see which boxes you should do. https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview 
 * https://juice-shop.herokuapp.com/#/     </br>
 * https://www.vulnhub.com/  Virtual machines available for download to practice hacking free   </br> 
 * https://www.cyberseclabs.co.uk/ <br> 
@@ -145,11 +146,11 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 * http://flack.hkpco.kr/
 * http://ctf.hcesperer.org/
 * http://ictf.cs.ucsb.edu/
-* https://tryhackme.com/ 
+* https://tryhackme.com/ see above 
 * https://ctftime.org/ 
 * http://capture.thefl.ag/calendar/ 
 ### Vulnerable Software:
-* https://www.vulnhub.com/ 
+* https://www.vulnhub.com/  see above 
 * http://www.oldapps.com/
 * http://www.oldversion.com/
 * http://www.exploit-db.com/webapps/
@@ -162,7 +163,7 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 
    ### Websites to help you learn more about vulnerabilities 
 * https://www.shodan.io/ </br> 
-* https://www.exploit-db.com/google-hacking-database   </br>
+* https://www.exploit-db.com/google-hacking-database  google dorking  </br>
 * http://www.exploit-db.com/
 * http://www.cvedetails.com/
 * https://cxsecurity.com/
@@ -182,7 +183,7 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 ### Operating systems ISOs VMS virtualization 
 * [Kali linux] https://www.kali.org  most commonly used for ethical hacking. made for beginners  </br>
 Best for all levels has the most tutorials and support and largest community  </br> 
-* [Parrot Security OS](http://www.parrotsec.org/) a kali linux ripoff. easy to use not as much support as kali  </br>
+* [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as kali  </br>
 * [BlackArch Linux](http://www.blackarch.org/) very customizable version of linux , very steep learning curve but still very powerful <br> 
  
   ISOS 
@@ -367,7 +368,7 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://www.blackhat.com/presentations/bh-dc-10/Bannedit/BlackHat-DC-2010-Bannedit-Advanced-Command-Injection-Exploitation-1-wp.pdf
 
 ### Tools:
-
+* https://www.kali.org/tools/ 
 * http://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf
 * http://www.secguru.com/files/cheatsheet/nessusNMAPcheatSheet.pdf
 * http://sbdtools.googlecode.com/files/hping3_cheatsheet_v1.0-ENG.pdf
@@ -404,13 +405,17 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://www.foofus.net/?page_id=63
 * http://hashcrack.blogspot.com/
 * http://www.nirsoft.net/articles/saved_password_location.html
-* http://www.onlinehashcrack.com/
 * http://www.md5this.com/list.php?
 * http://www.virus.org/default-password
 * http://www.phenoelit-us.org/dpl/dpl.html
 * http://news.electricalchemy.net/2009/10/cracking-passwords-in-cloud.html
-
+## Password and hash cracking in browser 
+* https://crackstation.net/
+* http://www.onlinehashcrack.com/
+* https://www.base64encode.org/
+* https://www.base64encode.net/
 ### Wordlists:
+* [Seclists] (https://github.com/danielmiessler/SecLists) one of the most well known set of wordlists. Referenced in many ctfs 
 * [Korelogic](http://contest.korelogic.com/wordlists.html)
 * [PacketStorm](http://packetstormsecurity.org/Crackers/wordlists/)
 * [Skullsecurity](http://www.skullsecurity.org/wiki/index.php/Passwords)
