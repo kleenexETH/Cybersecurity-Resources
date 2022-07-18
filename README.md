@@ -4,21 +4,21 @@
                           
  ##                   Links and Resources to look at to teach you more about Programming , Hardware ,Hacking , and Networking 
  ### Hacking 
-* https://null-byte.wonderhowto.com/   </br>
- * https://www.cybrary.it/video/introduction-8/  </br>
-* http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html   </br>
+* https://null-byte.wonderhowto.com/ free  </br>
+ * https://www.cybrary.it/video/introduction-8/  free/paid </br>
+* http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html free  </br>
 * https://www.guru99.com/ site with tutorials on programming machine learning cyber security and much more  </br>  
-* https://cybercademy.org/resources/  <br>
+* https://cybercademy.org/resources/ site that links to various cybersecurity resources  <br>
 * http://www.securitytube.net/  </br>
 * https://www.hackingloops.com/    </br>
 * https://www.cyberaces.org/    </br>  
                                             
   ### Programming 
   Helpful sites to learn programming <br> 
-* https://www.edx.org/  </br>
-* https://www.freecodecamp.org/  </br>
-* https://www.udemy.com/               </br>
-* https://www.khanacademy.org/    </br>
+* https://www.edx.org/  various courses from universities offered for free </br>
+* https://www.freecodecamp.org/ free site to learn web development and python  </br>
+* https://www.udemy.com/   Career training site- some free courses but mostly paid. There are price drops very often so it might be worth it =.          </br>
+* https://www.khanacademy.org/   math english and Computer programming courses offered in a fun gamified way -free  </br>
 * https://ocw.mit.edu/courses/intro-programming/  
 * http://code.google.com/edu/languages/google-python-class/index.html
 * http://www.swaroopch.com/notes/Python_en:Table_of_Contents
@@ -50,15 +50,16 @@
 * https://www.makeuseof.com/tag/linux-beginners-guide/ just a basic guide about linux 
 * https://null-byte.wonderhowto.com/how-to/linux-basics/ a series of free linux basic tutorials you dont have to sign up for. Nullbytes website is full of in depth tutorials and explanations of many things in the IT and cybersecurity industries . A must have bookmark. 
 * https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/ List of 50 very Useful Linux Commands 
-
-
+### Networking
+* https://www.youtube.com/playlist?list=PLG49S3nxzAnksQpejrRxNZoRSo0pcKXkG Professor Messer's  Networking/network + training course -highly recommend
+* https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s Networking course by Freecodecamp and Network + prep ]
+* https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P Network Chuck Networking Course/CCNA training course
 ### Pdfs 
 ## Mostly free Pdfs legally obtained about programming, networking ,IT , Cyber Security, and Penetration Testing 
 * https://www.hackerhighschool.org/lessons.html#info1-1o    </br>
 * https://github.com/Hack-with-Github/Free-Security-eBooks    </br>
 * https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md </br>  
-  ### Courses  
-                                              
+  ### Courses                                             
  * https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md Javascript course    
  * https://academy.hoppersroppers.org/ 
  * https://tryhackme.com/ 
@@ -123,11 +124,11 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
   Other video content 
 * Stok  https://www.stokfredrik.com/  bug bountry tutorial </br>
 ### Websites where you can practice hacking legally 
-* https://tryhackme.com/  highly recommend for any beginners . they have many good free tutorials for a beginner 
+* https://tryhackme.com/  highly recommend for any beginners . they have many good free tutorials . They have detailed walkthrough for many rooms which is handy fro the beginner and even for intermediate and expert students. 
 * https://www.hackthissite.org/   </br>
-* https://www.hackthebox.eu/    </br>  
+* https://www.hackthebox.eu/   Similar to tryhackme in the sense it has alot of boxes . It doesnt hold your hand as much as tryhackme so their boxes can be a bit more chalenging. They do have a beginner resources which are the starting point and the academy. Hackthebox may have more advanced content however less boxes are available for free and their boxes can be somewhat challenging. Note if one is studying for OSCP alot of their boxes are helpful  practice for the exam. See TJ null's list to see which boxes you should do. https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview 
 * https://juice-shop.herokuapp.com/#/     </br>
-* https://www.vulnhub.com/    </br> 
+* https://www.vulnhub.com/  Virtual machines available for download to practice hacking free   </br> 
 * https://www.cyberseclabs.co.uk/ <br> 
 * http://www.webscantest.com/
 * http://crackme.cenzic.com/Kelev/view/home.php
