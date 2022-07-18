@@ -35,10 +35,14 @@
 * https://devdocs.io/
 * https://www.w3schools.com/ web development 
 * https://github.com/ code sharing site . 
-* https://practicepython.org  programming website using a browser ide . No need for your own compiler or ide. 
+
 * https://www.pythonanywhere.com/
 * https://www.cs50.io
 * https://codepen.io/
+ ### Python 
+* https://www.py4e.com/ or https://www.youtube.com/watch?v=8DvywoWv6fI&t=20s Python for everybody course  by Dr.Chuck 
+* https://www.youtube.com/watch?v=b093aqAZiPU Kevin stratvert python course 
+* https://practicepython.org  programming website using a browser ide . No need for your own compiler or ide. 
 ### Linux 
 * https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/ cheatsheet which shows the commands to many everyday useful command line tools  
 * https://tryhackme.com/ website for beginners and advanced users to teach about linux plus much more 
@@ -48,9 +52,13 @@
 * https://www.makeuseof.com/tag/linux-beginners-guide/ just a basic guide about linux 
 * https://null-byte.wonderhowto.com/how-to/linux-basics/ a series of free linux basic tutorials you dont have to sign up for. Nullbytes website is full of in depth tutorials and explanations of many things in the IT and cybersecurity industries . A must have bookmark. 
 * https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/ List of 50 very Useful Linux Commands 
+* https://www.youtube.com/watch?v=U1w4T03B30I linux for ethical hackers  
+* https://www.youtube.com/watch?v=ROjZy1WbCIA&t=3867s  freecodecamp beginner crash course in linux 
+* https://www.youtube.com/watch?v=WMy3OzvBWc0 Linux Server Course - System Configuration and Operation 
+* 
 ### Networking
 * https://www.youtube.com/playlist?list=PLG49S3nxzAnksQpejrRxNZoRSo0pcKXkG Professor Messer's  Networking/network + training course -highly recommend
-* https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s Networking course by Freecodecamp and Network + prep ]
+* https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s Networking course by Freecodecamp and Network + prep
 * https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P Network Chuck Networking Course/CCNA training course
 ### Pdfs 
 ## Pdfs legally obtained about programming, networking ,IT , Cyber Security, and Penetration Testing 
@@ -84,9 +92,9 @@ Pirating will not be supported especially when so many books out there are avail
 * http://stuff.mit.edu/iap/2009/#websecurity
 * https://training.linuxfoundation.org/resources/?_sft_content_type=free-course
 * https://www.edx.org/course/introduction-to-linux
+                                          
                                               
-                                              
- ### Hacking and Programming Youtubers and Videos 
+ ### Tech Youtubers and Videos 
  Youtubers<br> 
 * Hak5 https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ 
 * The cyber mentor https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw hardware tutorials , tech reviewer  </br> 
@@ -119,6 +127,7 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 * [SecurityTube](http://www.securitytube.net/) Security and hacking tutorials  
 * [Network Chuck](https://www.youtube.com/c/NetworkChuck/) Networking tutorials 
 * [Nahamsec] (https://www.youtube.com/c/Nahamsec/featured) bug bounties ctfs and career advice
+* Other platforms
 * Stok  https://www.stokfredrik.com/  bug bountry tutorial </br>
 ### Websites where you can practice hacking legally 
 * https://tryhackme.com/  highly recommend for any beginners . they have many good free tutorials . They have detailed walkthrough for many rooms which is handy fro the beginner and even for intermediate and expert students. 
@@ -185,6 +194,7 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 Best for all levels has the most tutorials and support and largest community  </br> 
 * [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as kali  </br>
 * [BlackArch Linux](http://www.blackarch.org/) very customizable version of linux , very steep learning curve but still very powerful <br> 
+* For more info on individual Operating Systems see https://distrowatch.com/ 
  
   ISOS 
 * [windows 10 iso image for virtual machines]  https://www.microsoft.com/en-us/software-download/windows10 
@@ -193,9 +203,19 @@ Best for all levels has the most tutorials and support and largest community  </
               Virtual machine software and virtualization 
 * [VirtualBox ] https://www.virtualbox.org/  windows mac and linux 
 * [Vmware] https://www.vmware.com/ Vmware workstation windows mac and linux  
-* [Wine ]https://www.winehq.org/ emulator for running windows applications on Linux, macOS, & BSD (not a virtual machine) 
-Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop. <br> 
-
+* [Wine ]https://www.winehq.org/ emulator for running windows applications on Linux, macOS, & BSD (not a virtual machine) <br>
+Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, <br>
+eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop. <br> 
+### Certifications
+## hardware
+* CompTia A+ https://www.comptia.org/certifications/a  general hardware cert that has the most job offerings $226 USD  <br>
+https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC professor messer A+ course 
+* Apple Certified Macintosh Technician  apple only  $150 
+## Networking
+* CompTia Network + https://www.comptia.org/certifications/network 
+* https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G Professor Messer  -free 
+* https://www.udemy.com/course/comptia-network-n10-008/ udemy course - paid 
+* Cisco CCNA 
 ### Linux references networking references  and Scripts:
 
 * http://en.wikipedia.org/wiki/IPv4_subnetting_reference
