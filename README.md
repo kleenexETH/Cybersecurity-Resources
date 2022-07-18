@@ -60,6 +60,16 @@
 * https://www.youtube.com/playlist?list=PLG49S3nxzAnksQpejrRxNZoRSo0pcKXkG Professor Messer's  Networking/network + training course -highly recommend
 * https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s Networking course by Freecodecamp and Network + prep
 * https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P Network Chuck Networking Course/CCNA training course
+### Certifications
+## Hardware
+* CompTia A+ https://www.comptia.org/certifications/a  general hardware cert that has the most job offerings $226 USD  <br>
+https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC professor messer A+ course 
+* Apple Certified Macintosh Technician  apple only  $150 
+## Networking
+* CompTia Network + https://www.comptia.org/certifications/network 
+* https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G Professor Messer  -free 
+* https://www.udemy.com/course/comptia-network-n10-008/ udemy course - paid 
+* Cisco CCNA 
 ### Pdfs 
 ## Pdfs legally obtained about programming, networking ,IT , Cyber Security, and Penetration Testing 
 * https://www.hackerhighschool.org/lessons.html#info1-1o    </br>
@@ -206,16 +216,6 @@ Best for all levels has the most tutorials and support and largest community  </
 * [Wine ]https://www.winehq.org/ emulator for running windows applications on Linux, macOS, & BSD (not a virtual machine) <br>
 Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, <br>
 eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop. <br> 
-### Certifications
-## hardware
-* CompTia A+ https://www.comptia.org/certifications/a  general hardware cert that has the most job offerings $226 USD  <br>
-https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC professor messer A+ course 
-* Apple Certified Macintosh Technician  apple only  $150 
-## Networking
-* CompTia Network + https://www.comptia.org/certifications/network 
-* https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G Professor Messer  -free 
-* https://www.udemy.com/course/comptia-network-n10-008/ udemy course - paid 
-* Cisco CCNA 
 ### Linux references networking references  and Scripts:
 
 * http://en.wikipedia.org/wiki/IPv4_subnetting_reference
