@@ -67,9 +67,21 @@ https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh0
 * Apple Certified Macintosh Technician  apple only  $150 
 ## Networking
 * CompTia Network + https://www.comptia.org/certifications/network 
-* https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G Professor Messer  -free 
-* https://www.udemy.com/course/comptia-network-n10-008/ udemy course - paid 
+* https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G Professor Messer  -free <br>
+ https://www.udemy.com/course/comptia-network-n10-008/ udemy course - paid 
 * Cisco CCNA 
+## Linux 
+* CompTia Linux + 
+## Security - entry level 
+* CompTia Security +
+* CEH
+## Security - management level
+* CISSP
+## Penetration Testing
+* CompTia Pentest +
+* PNPT
+* EJPT
+* OSCP 
 ### Pdfs 
 ## Pdfs legally obtained about programming, networking ,IT , Cyber Security, and Penetration Testing 
 * https://www.hackerhighschool.org/lessons.html#info1-1o    </br>
