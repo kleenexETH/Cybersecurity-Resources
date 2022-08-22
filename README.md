@@ -3,6 +3,21 @@
                           
                           
  ##                   Links and Resources to look at to teach you more about Programming , Hardware ,Hacking , and Networking 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#hacking Hacking section 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#programming programming section 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#linux linux section 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#networking networking section 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#certifications certification section
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#pdfs pdf section 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#tech-youtubers-and-videos Youtuber and video section
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#websites-where-you-can-practice-hacking-legally hacking training 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#capture-the-flagwargames ctf section 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#vulnerable-software vulnerable software  
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#websites-to-help-you-learn-more-about-vulnerabilities vulnerability learning 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#operating-systems-isos-vms-virtualization Operating systems/Virtualization
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#blogs Blogs
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#methodologies Methodologies 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#osint-open-source-intelligence--the-practice-of-collecting-information-from-published-or-otherwise-publicly-available-sources OSINT Resources 
  ### Hacking 
 * https://null-byte.wonderhowto.com/ free  </br>
  * https://www.cybrary.it/video/introduction-8/  free and paid </br>
