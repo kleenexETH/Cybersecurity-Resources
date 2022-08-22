@@ -78,10 +78,10 @@ https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh0
 ## Security - management level
 * CISSP
 ## Penetration Testing
-* CompTia Pentest +
-* PNPT
-* EJPT
-* OSCP 
+* CompTia Pentest + tends to be a multiple choice tests focusing on methodology around $300-400 to take 
+* PNPT https://certifications.tcm-sec.com/pnpt/ hands on exam from thecybermentor around $300 to take around 30-100 for training depending if you find deals . Look on linkedin at heath adams channel for deals . Note it isnt well recognized yet by hr but does teach you alot about active directory external penetration testing and privilege escalation Students will have five (5) full days to complete the assessment and an additional two (2) days to write a professional report.
+* EJPT 200 practical exam 
+* OSCP 1000 for the test and an additional 100-1500 dollars depending on the lab time you buy and other course packages you buy . this is considered one of the harder tests to take due to the time restraint of 24 hours to break into 5 machines and 24 hours for reporting. it is alot more recognized by the industry. it covers alot of ground including but not limited to external and internal web penetration testing, deep understanding of linux and windows privilege escalation, various attack techniques and the use of various tools and scripts. note oscp is harder than other exams due to tool restraints . you cant use nessus or metasploit or any automated vulnerability scanners. Think of it as a pentest where most of your work is done manually . it makes sure you can do things in a manual way. There will be no autopwning from metasploit. Look into tj nulls list for oscp like boxes and also check out https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707 for a list of allowed and banned tools.  
 ### Pdfs 
 ## Pdfs legally obtained about programming, networking ,IT , Cyber Security, and Penetration Testing 
 * https://www.hackerhighschool.org/lessons.html#info1-1o    </br>
@@ -359,7 +359,8 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://twapperkeeper.com/index.php
 
 ### Infrastructure:
-
+* https://searchdns.netcraft.com/
+* https://securityheaders.com/
 * http://uptime.netcraft.com/
 * http://www.serversniff.net/
 * http://www.domaintools.com/
