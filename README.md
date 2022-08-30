@@ -162,7 +162,7 @@ Pirating will not be supported especially when so many books out there are avail
  Peter Yaworski — https://www.youtube.com/user/yaworsk1?app=desktop Web-application hacking tips and interviews  </br>
  Bugcrowd — https://www.youtube.com/c/Bugcrowd  Bug bounty methodology and interviews. </br>
  Simply Cyber — https://www.simplycyber.io/ https://www.youtube.com/c/geraldauger Helps people with cybersecurity career development , has a daily cybersecurity news video </br>
- Network Chuck —all around cybersecurity and networking youtuber </br>
+ Network Chuck https://networkchuck.com/ https://www.youtube.com/c/networkchuck all around cybersecurity and networking youtuber </br>
  BlackPerl Malware analysis, forensics and incident response  https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ </br>
  Black Hat https://www.youtube.com/c/BlackHatOfficialYT  Technical cybersecurity conferences.  </br>
  DEFCON https://www.youtube.com/user/DEFCONConference Technical Cybersecurity Conference </br>
