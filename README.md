@@ -133,7 +133,9 @@ Pirating will not be supported especially when so many books out there are avail
                                               
  ### Tech Youtubers and Videos 
                                              Youtubers<br> 
-                                             Hacking/cybersecurity youtubers 
+                                             
+                                             
+                                             Hacking/cybersecurity youtubers </br>
 * Hak5 https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ 
 * The cyber mentor https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw ethical hacking, web application hacking,  hardware tutorials , tech reviewer  </br> 
 * Jackktutorials https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA hacking tutorials, ctfs ,linux    </br>
