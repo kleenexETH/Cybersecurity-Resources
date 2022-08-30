@@ -146,26 +146,26 @@ Pirating will not be supported especially when so many books out there are avail
               programming, programming concepts ,tech concepts, networking, programming and hacking ,linux  </br>
  11) Hackersploit https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q    </br>
                            lots of penetration testing and web application hacking tutorials , linux , malware analysis   </br>
- 12)[Nahamsec] (https://www.youtube.com/c/Nahamsec/featured) educational hacking and bug bounty videos and career advice
- 13) InsiderPHD —    https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A    How to get started with bug bounty hunting. 
- 14) Security Weekly —    https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg    Interviews with cybersecurity figures
+ 12)[Nahamsec] (https://www.youtube.com/c/Nahamsec/featured) educational hacking and bug bounty videos and career advice   </br>
+ 13) InsiderPHD —    https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A    How to get started with bug bounty hunting.  </br>
+ 14) Security Weekly —    https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg    Interviews with cybersecurity figures </br>
  15) STOK Https://www.stokfredrik.com/  bug bounty tutorial vulnerability analysis,hacking tools,and hacking methodology</br>
  16)Liveoverflow https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w lots of hacking tutorials , ctfs/writeups,hackthebox, web programming <br> 
- 17) 13Cubed — Videos on tools, forensics, and incident response.
- 18) IppSec — Labs and capture-the-flag tutorials, HackTheBox etc.
- 19)Computerphile — https://www.youtube.com/user/Computerphile/about Covers basic concepts and techniques. 
+ 17) 13Cubed — https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q Videos on tools, forensics, and incident response.   </br>
+ 18) IppSec — Labs and capture-the-flag tutorials, HackTheBox etc. </br>
+ 19)Computerphile — https://www.youtube.com/user/Computerphile/about Covers basic concepts and techniques. </br>
  20)David Bombal —      https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w    https://davidbombal.com/  Everything cybersecurity related. </br>
  21)SecurityNow https://twit.tv/shows/security-now https://www.youtube.com/c/securitynow Cybercrime news, hacking and web-application security </br>
- 22)Infosec Institute — https://www.youtube.com/user/InfoSecInstitute/videos https://www.infosecinstitute.com/ Cybersecurity awareness.   </br>
- 23) InfoSec Live —    https://www.youtube.com/c/infoseclive         https://www.info-sec.live/  Everything  cybersecurity related from tutorials to interviews
+ Infosec Institute — https://www.youtube.com/user/InfoSecInstitute/videos https://www.infosecinstitute.com/ Cybersecurity awareness.   </br>
+ 23) InfoSec Live —    https://www.youtube.com/c/infoseclive         https://www.info-sec.live/  Everything  cybersecurity related from tutorials to interviews </br>
  24) The PC Security Channel —https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg https://thepcsecuritychannel.com/  Windows security, malware news, and tutorials. </br>
- 25) Peter Yaworski — https://www.youtube.com/user/yaworsk1?app=desktop Web-application hacking tips and interviews 
- 26) Bugcrowd — https://www.youtube.com/c/Bugcrowd  Bug bounty methodology and interviews.
- 27) Simply Cyber — https://www.simplycyber.io/ https://www.youtube.com/c/geraldauger Helps people with cybersecurity career development , has a daily cybersecurity news video
- 28) Network Chuck —all around cybersecurity and networking youtuber
- 29 BlackPerl Malware analysis, forensics and incident response  https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ
- 30 Black Hat https://www.youtube.com/c/BlackHatOfficialYT  Technical cybersecurity conferences.
- 31 DEFCON https://www.youtube.com/user/DEFCONConference Technical Cybersecurity Conference 
+ 25) Peter Yaworski — https://www.youtube.com/user/yaworsk1?app=desktop Web-application hacking tips and interviews  </br>
+ 26) Bugcrowd — https://www.youtube.com/c/Bugcrowd  Bug bounty methodology and interviews. </br>
+ 27) Simply Cyber — https://www.simplycyber.io/ https://www.youtube.com/c/geraldauger Helps people with cybersecurity career development , has a daily cybersecurity news video </br>
+ 28) Network Chuck —all around cybersecurity and networking youtuber </br>
+ 29 BlackPerl Malware analysis, forensics and incident response  https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ </br>
+ 30 Black Hat https://www.youtube.com/c/BlackHatOfficialYT  Technical cybersecurity conferences.  </br>
+ 31 DEFCON https://www.youtube.com/user/DEFCONConference Technical Cybersecurity Conference </br>
 
                                                Tech reviewers pc building consumer tech  
 
