@@ -132,40 +132,63 @@ Pirating will not be supported especially when so many books out there are avail
                                           
                                               
  ### Tech Youtubers and Videos 
- Youtubers<br> 
+                                             Youtubers<br> 
+                                             Hacking/cybersecurity youtubers 
 * Hak5 https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ 
-* The cyber mentor https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw hardware tutorials , tech reviewer  </br> 
-* Jackktutorials https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA hacking tutorials ctfs ,linux    </br>
-*  Webpwnized https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg  hacking tutorials ctfs ,linux   </br>
+* The cyber mentor https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw ethical hacking, web application hacking,  hardware tutorials , tech reviewer  </br> 
+* Jackktutorials https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA hacking tutorials, ctfs ,linux    </br>
+*  Webpwnized https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg  hacking tutorials, ctfs ,linux   </br>
 * Sstec https://www.youtube.com/c/SSTecTutorials/playlists hacking tutorials ctfs and projects    </br>
-* Hackhappy https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA hacking tutorials and ctfs ,linux    </br>
+* Hackhappy https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA hacking tutorials, ctfs,andlinux    </br>
 *  Derek rook https://www.youtube.com/c/DerekRook/videos ctfs (capture the flags)   </br>
-*  John hammond https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw programming, hacking tutorials ,ctfs ,linux   </br>
-* Nullbyte https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g hacking tutorials     </br>
+*  John hammond https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw programming, hacking tutorials ,malware analysis,ctfs ,linux, and careers   </br>
+* Nullbyte https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g hacking tutorials,cybersecurity fort ethical hackers and programmers    </br>
 *  Computerphile https://www.youtube.com/user/Computerphile/videos  </br> 
               programming, programming concepts ,tech concepts, networking, programming and hacking ,linux  </br>
 * Hackersploit https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q    </br>
-                           lots of hacking tutorials , linux , malware analysis   </br>
+                           lots of penetration testing and web application hacking tutorials , linux , malware analysis   </br>
+ * [Nahamsec] (https://www.youtube.com/c/Nahamsec/featured) educational hacking and bug bounty videos and career advice
+*    InsiderPHD —    https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A    How to get started with bug bounty hunting. 
+*   Security Weekly —    https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg    Interviews with cybersecurity figures
+* STOK Https://www.stokfredrik.com/  bug bounty tutorial vulnerability analysis,hacking tools,and hacking methodology</br>
+
+* Liveoverflow https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w lots of hacking tutorials , ctfs/writeups,hackthebox, web programming <br> 
+
+*   13Cubed — Videos on tools, forensics, and incident response.
+* IppSec — Labs and capture-the-flag tutorials, HackTheBox etc.
+
+* Computerphile — https://www.youtube.com/user/Computerphile/about Covers basic concepts and techniques. 
+
+
+* David Bombal —      https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w    https://davidbombal.com/  Everything cybersecurity related. </br>
+* SecurityNow https://twit.tv/shows/security-now https://www.youtube.com/c/securitynow Cybercrime news, hacking and web-application security </br>
+*  Infosec Institute — https://www.youtube.com/user/InfoSecInstitute/videos https://www.infosecinstitute.com/ Cybersecurity awareness.   </br>
+* The PC Security Channel —https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg https://thepcsecuritychannel.com/  Windows security, malware news, and tutorials.
+Tech reviewers/ consumer tech /custom pcs  </br>
 * Barnacules nerdgasm https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ tech reviewer hardware tutorials   </br> 
-* Thenewboston https://www.youtube.com/user/thenewboston    </br>
-                        programming tutorials (web development -front end and back end, python , ruby  </br>
 * Linus tech tips https://www.youtube.com/user/LinusTechTips hardware tutorials , tech reviewer , pc building     <br> 
+* ThioJoe https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ hardware tutorials , tech reviewer , pc building 
+
 * Elithecomputerguy https://www.youtube.com/c/Elithecomputerguypage/playlists hardware tutorials , network tutorials , hardware reviewer, hacking  tutorials , linux tutorials , website development 
 * Derek banas https://www.youtube.com/c/derekbanas/playlists tutorials on almost every kind of programming you can imagine 
+*                                  Linux
 Switched to linux https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw linux tutorials and stuff linux related <br>
 * Thelinuxgamer https://www.youtube.com/user/TheLinuxgamer linux gaming, linux tutorials , photo editing , music editing, programming , some hacking tutorials <br> 
-* Liveoverflow https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w lots of hacking tutorials , ctfs , hackthebox, web programming <br> 
-* The Net Ninja https://www.youtube.com/c/TheNetNinja/playlists <br>
+
+Joe Collins — Everything Linux related, including tutorials and guides   https://www.youtube.com/user/BadEditPro/playlists 
+
+
+* [SecurityTube](http://www.securitytube.net/) Security and hacking tutorials  
+* [Network Chuck](https://www.youtube.com/c/NetworkChuck/) Networking tutorials 
+*                                      Programmer Youtuber
+* Thenewboston https://www.youtube.com/user/thenewboston    </br>
+                        programming tutorials (web development -front end and back end, python , ruby  </br>
+                        * The Net Ninja https://www.youtube.com/c/TheNetNinja/playlists <br>
        Front end web development  tutorials (html,css, javascript, json) <br>
 Back end web development (firebase, json server, react ,redux , mongodb) <br>
 * https://www.youtube.com/c/TraversyMedia/playlists <br>
 * https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w <br> 
 * https://www.youtube.com/c/Freecodecamp Extensive web dev Videos
-* [SecurityTube](http://www.securitytube.net/) Security and hacking tutorials  
-* [Network Chuck](https://www.youtube.com/c/NetworkChuck/) Networking tutorials 
-* [Nahamsec] (https://www.youtube.com/c/Nahamsec/featured) bug bounties ctfs and career advice
-* Other platforms
-* Stok  https://www.stokfredrik.com/  bug bountry tutorial </br>
 ### Websites where you can practice hacking legally 
 * https://tryhackme.com/  highly recommend for any beginners . they have many good free tutorials . They have detailed walkthrough for many rooms which is handy fro the beginner and even for intermediate and expert students. 
 * https://www.hackthissite.org/   </br>
