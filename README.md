@@ -2,16 +2,16 @@
                           
                           
                           
- ##                   Links and Resources to look at to teach you more about Programming , Hardware ,Hacking , and Networking 
+ ##                   Links and Resources to look at to teach you more about Programming, Hardware ,Hacking, and Networking 
  * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#hacking Hacking section 
  * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#programming programming section 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#linux linux section 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#linux Linux section 
  * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#networking networking section 
  * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#certifications certification section
  * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#pdfs pdf section 
  * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#tech-youtubers-and-videos Youtuber and video section
  * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#websites-where-you-can-practice-hacking-legally hacking training 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#capture-the-flagwargames ctf section 
+ * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#capture-the-flagwargames CTF section 
  * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#vulnerable-software vulnerable software  
  * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#websites-to-help-you-learn-more-about-vulnerabilities vulnerability learning 
  * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#operating-systems-isos-vms-virtualization Operating systems/Virtualization
@@ -49,26 +49,26 @@
 * https://www.coursera.org/ Career development  courses paid and free  
 * https://devdocs.io/
 * https://www.w3schools.com/ web development 
-* https://github.com/ code sharing site . 
+* https://github.com/ code sharing site. 
 
 * https://www.pythonanywhere.com/
 * https://www.cs50.io
 * https://codepen.io/
  ### Python 
-* https://www.py4e.com/ or https://www.youtube.com/watch?v=8DvywoWv6fI&t=20s Python for everybody course  by Dr.Chuck 
-* https://www.youtube.com/watch?v=b093aqAZiPU Kevin stratvert python course 
-* https://practicepython.org  programming website using a browser ide . No need for your own compiler or ide. 
+* https://www.py4e.com/ or https://www.youtube.com/watch?v=8DvywoWv6fI&t=20s Python for Everybody course  by Dr.Chuck 
+* https://www.youtube.com/watch?v=b093aqAZiPU Kevin Stratvert python course 
+* https://practicepython.org  programming website using a browser ide . No need for your own compiler or IDE. 
 ### Linux 
 * https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/ cheatsheet which shows the commands to many everyday useful command line tools  
 * https://tryhackme.com/ website for beginners and advanced users to teach about linux plus much more 
-* https://linuxjourney.com/ website which takes you through a hands on step by step process about how to use linux 
+* https://linuxjourney.com/ website which takes you through a hands-on step-by-step process about how to use linux 
 * https://computefreely.org/
 * https://linuxnewbieguide.org/overview-of-chapters/ 
 * https://www.makeuseof.com/tag/linux-beginners-guide/ just a basic guide about linux 
 * https://null-byte.wonderhowto.com/how-to/linux-basics/ a series of free linux basic tutorials you dont have to sign up for. Nullbytes website is full of in depth tutorials and explanations of many things in the IT and cybersecurity industries . A must have bookmark. 
 * https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/ List of 50 very Useful Linux Commands 
-* https://www.youtube.com/watch?v=U1w4T03B30I linux for ethical hackers  
-* https://www.youtube.com/watch?v=ROjZy1WbCIA&t=3867s  freecodecamp beginner crash course in linux 
+* https://www.youtube.com/watch?v=U1w4T03B30I Linux for ethical hackers  
+* https://www.youtube.com/watch?v=ROjZy1WbCIA&t=3867s  FreeCodeCamp beginner crash course in Linux 
 * https://www.youtube.com/watch?v=WMy3OzvBWc0 Linux Server Course - System Configuration and Operation 
 * 
 ### Networking
@@ -77,32 +77,33 @@
 * https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P Network Chuck Networking Course/CCNA training course
 ### Certifications
 ## Hardware
-* CompTia A+ https://www.comptia.org/certifications/a  general hardware cert that has the most job offerings $226 USD  <br>
+* CompTIA A+ https://www.comptia.org/certifications/a  general hardware cert that has the most job offerings $226 USD  <br>
 https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC professor messer A+ course 
-* Apple Certified Macintosh Technician  apple only  $150 
+* Apple Certified Macintosh Technician  Apple only  $150 
 ## Networking
 * CompTia Network + https://www.comptia.org/certifications/network 
 * https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G Professor Messer  -free <br>
- https://www.udemy.com/course/comptia-network-n10-008/ udemy course - paid 
+ https://www.udemy.com/course/comptia-network-n10-008/ Udemy course - paid 
 * Cisco CCNA 
 ## Linux 
-* CompTia Linux + 
+* CompTIA Linux + 
 ## Security - entry level 
 * CompTia Security +
 * CEH
 ## Security - management level
 * CISSP
 ## Penetration Testing
-* CompTia Pentest + tends to be a multiple choice tests focusing on methodology around $300-400 to take 
-* PNPT https://certifications.tcm-sec.com/pnpt/ hands on exam from thecybermentor around $300 to take around 30-100 for training depending if you find deals . Look on linkedin at heath adams channel for deals . Note it isnt well recognized yet by hr but does teach you alot about active directory external penetration testing and privilege escalation Students will have five (5) full days to complete the assessment and an additional two (2) days to write a professional report.
+* CompTia Pentest + tends to be a multiple-choice tests focusing on methodology around $300-400 to take 
+* PNPT https://certifications.tcm-sec.com/pnpt/ hands-on exam from TheCyberMentor (Heath Adams) around $300 to take around 30-100 for training depending on if you find deals. Look on LinkedIn at Heath Adams channel for deals. Note it isn't well recognized yet by hr but does teach you a lot about active directory external penetration testing and privilege escalation Students will have five (5) full days to complete the assessment and an additional two (2) days to write a professional report.
+
 * EJPT 200 practical exam 
-* OSCP 1000 for the test and an additional 100-1500 dollars depending on the lab time you buy and other course packages you buy . this is considered one of the harder tests to take due to the time restraint of 24 hours to break into 5 machines and 24 hours for reporting. it is alot more recognized by the industry. it covers alot of ground including but not limited to external and internal web penetration testing, deep understanding of linux and windows privilege escalation, various attack techniques and the use of various tools and scripts. note oscp is harder than other exams due to tool restraints . you cant use nessus or metasploit or any automated vulnerability scanners. Think of it as a pentest where most of your work is done manually . it makes sure you can do things in a manual way. There will be no autopwning from metasploit. Look into tj nulls list for oscp like boxes and also check out https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707 for a list of allowed and banned tools.  
+* OSCP 1000 for the test and an additional 100-1500 dollars depending on the lab time you buy and other course packages you buy. this is considered one of the harder tests to take due to the time restraint of 24 hours to break into 5 machines and 24 hours for reporting. it is a lot more recognized by the industry. it covers a lot of ground including but not limited to external and internal web penetration testing, a in-depth understanding of Linux and Windows privilege escalation, various attack techniques, and the use of various tools and scripts. Note OSCP is harder than other exams due to tool restraints. you cant use Nessus or Metasploit or any automated vulnerability scanners. Think of it as a pentest where most of your work is done manually. it makes sure you can do things in a manual way. There will be no autopwning from Metasploit. Look into the TJ nulls list for OSCP like boxes and also check out https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707 for a list of allowed and banned tools.  
 ### Pdfs 
-## Pdfs legally obtained about programming, networking ,IT , Cyber Security, and Penetration Testing 
+## Pdfs legally obtained about programming, networking,IT, Cyber Security, and Penetration Testing 
 * https://www.hackerhighschool.org/lessons.html#info1-1o    </br>
 * https://github.com/Hack-with-Github/Free-Security-eBooks    </br>
 * https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md </br>  
-Pirating will not be supported especially when so many books out there are available for free in a legal way . 
+Pirating will not be supported especially when so many books out there are available for free in a legal way. 
   ### Courses                                             
  * https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md Javascript course    
  * https://academy.hoppersroppers.org/ 
@@ -132,36 +133,36 @@ Pirating will not be supported especially when so many books out there are avail
                                           
                                               
  ### Tech Youtubers and Videos 
-                                             Hacking/cybersecurity youtubers </br>
- Hak5 https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ hacking hardware , cybersecurity news, hacking tech and general hacking tutorials 
- The cyber mentor https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw ethical hacking, web application hacking,  hardware tutorials , tech reviewer  </br> 
- Jackktutorials https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA hacking tutorials, ctfs ,linux    </br>
- Webpwnized https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg  hacking tutorials, ctfs ,linux   </br>
+                                             Hacking/cybersecurity Youtubers </br>
+ Hak5 https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ hacking hardware, cybersecurity news, hacking tech, and general hacking tutorials 
+ The cyber mentor https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw ethical hacking, web application hacking,  hardware tutorials, tech reviewer  </br> 
+ Jackktutorials https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA hacking tutorials, CTFS, Linux    </br>
+ Webpwnized https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg  hacking tutorials, CTFS, Linux   </br>
  Sstec https://www.youtube.com/c/SSTecTutorials/playlists hacking tutorials ctfs and projects    </br>
- Hackhappy https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA hacking tutorials, ctfs,andlinux    </br>
+ Hackhappy https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA hacking tutorials, ctfs, and Linux    </br>
  Derek rook https://www.youtube.com/c/DerekRook/videos ctfs (capture the flags)   </br>
- John hammond https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw programming, hacking tutorials ,malware analysis,ctfs ,linux, and careers   </br>
- Nullbyte https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g hacking tutorials,cybersecurity fort ethical hackers and programmers    </br>
+ John Hammond https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw programming, hacking tutorials, malware analysis, CTFS, Linux, and careers   </br>
+ Nullbyte https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g hacking tutorials, cybersecurity for  ethical hackers and programmers    </br>
  Computerphile https://www.youtube.com/user/Computerphile/videos  </br> 
-              programming, programming concepts ,tech concepts, networking, programming and hacking ,linux  </br>
+              programming, programming concepts, tech concepts, networking, programming and hacking, Linux  </br>
  Hackersploit https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q    </br>
-                           lots of penetration testing and web application hacking tutorials , linux , malware analysis   </br>
+                           lots of penetration testing and web application hacking tutorials, Linux, malware analysis   </br>
  Nahamsec (https://www.youtube.com/c/Nahamsec/featured) educational hacking and bug bounty videos and career advice   </br>
  InsiderPHD —    https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A    How to get started with bug bounty hunting.  </br>
  Security Weekly —    https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg    Interviews with cybersecurity figures </br>
- STOK Https://www.stokfredrik.com/  bug bounty tutorial vulnerability analysis,hacking tools,and hacking methodology</br>
- Liveoverflow https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w lots of hacking tutorials , ctfs/writeups,hackthebox, web programming <br> 
+ STOK Https://www.stokfredrik.com/  bug bounty tutorial vulnerability analysis, hacking tools, and hacking methodology</br>
+ Liveoverflow https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w lots of hacking tutorials, CTFs/writeups, HackTheBox, web programming <br> 
  13Cubed — https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q Videos on tools, forensics, and incident response.   </br>
  IppSec — Labs and capture-the-flag tutorials, HackTheBox etc. </br>
  Computerphile — https://www.youtube.com/user/Computerphile/about Covers basic concepts and techniques. </br>
  David Bombal —      https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w    https://davidbombal.com/  Everything cybersecurity related. </br>
- SecurityNow https://twit.tv/shows/security-now https://www.youtube.com/c/securitynow Cybercrime news, hacking and web-application security </br>
+ SecurityNow https://twit.tv/shows/security-now https://www.youtube.com/c/securitynow Cybercrime news, hacking, and web-application security </br>
  Infosec Institute — https://www.youtube.com/user/InfoSecInstitute/videos https://www.infosecinstitute.com/ Cybersecurity awareness.   </br>
  InfoSec Live —    https://www.youtube.com/c/infoseclive         https://www.info-sec.live/  Everything  cybersecurity related from tutorials to interviews </br>
  The PC Security Channel —https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg https://thepcsecuritychannel.com/  Windows security, malware news, and tutorials. </br>
  Peter Yaworski — https://www.youtube.com/user/yaworsk1?app=desktop Web-application hacking tips and interviews  </br>
  Bugcrowd — https://www.youtube.com/c/Bugcrowd  Bug bounty methodology and interviews. </br>
- Simply Cyber — https://www.simplycyber.io/ https://www.youtube.com/c/geraldauger Helps people with cybersecurity career development , has a daily cybersecurity news video </br>
+ Simply Cyber — https://www.simplycyber.io/ https://www.youtube.com/c/geraldauger Helps people with cybersecurity career development, has a daily cybersecurity news video </br>
  Network Chuck https://networkchuck.com/ https://www.youtube.com/c/networkchuck all around cybersecurity and networking youtuber </br>
  BlackPerl Malware analysis, forensics and incident response  https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ </br>
  Black Hat https://www.youtube.com/c/BlackHatOfficialYT  Technical cybersecurity conferences.  </br>
@@ -170,14 +171,14 @@ Pirating will not be supported especially when so many books out there are avail
                                                Tech reviewers pc building consumer tech  
 
 * Barnacules nerdgasm https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ tech reviewer hardware tutorials   </br> 
-* Linus tech tips https://www.youtube.com/user/LinusTechTips hardware tutorials , tech reviewer , pc building     <br> 
-* ThioJoe https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ hardware tutorials , tech reviewer , pc building 
+* Linus tech tips https://www.youtube.com/user/LinusTechTips hardware tutorials, tech reviewer, pc building     <br> 
+* ThioJoe https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ hardware tutorials, tech reviewer, pc building 
 
-* Elithecomputerguy https://www.youtube.com/c/Elithecomputerguypage/playlists hardware tutorials , network tutorials , hardware reviewer, hacking  tutorials , linux tutorials , website development 
-* Derek banas https://www.youtube.com/c/derekbanas/playlists tutorials on almost every kind of programming you can imagine 
+* Elithecomputerguy https://www.youtube.com/c/Elithecomputerguypage/playlists hardware tutorials, network tutorials, hardware reviewer, hacking  tutorials, linux tutorials, website development 
+* Derek Banas https://www.youtube.com/c/derekbanas/playlists tutorials on almost every kind of programming you can imagine 
 *                                  Linux
-Switched to linux https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw linux tutorials and stuff linux related <br>
-* Thelinuxgamer https://www.youtube.com/user/TheLinuxgamer linux gaming, linux tutorials , photo editing , music editing, programming , some hacking tutorials <br> 
+Switched to Linux https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw Linux tutorials and stuff Linux related <br>
+* Thelinuxgamer https://www.youtube.com/user/TheLinuxgamer Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials <br> 
 
 Joe Collins — Everything Linux related, including tutorials and guides   https://www.youtube.com/user/BadEditPro/playlists 
 
@@ -188,21 +189,21 @@ Joe Collins — Everything Linux related, including tutorials and guides   https
 *                                      Programmer Youtuber   
                                 
 * Thenewboston https://www.youtube.com/user/thenewboston    </br>
-                        programming tutorials (web development -front end and back end, python , ruby  </br>
+                        programming tutorials (web development -front end and back end, python, ruby  </br>
                         * The Net Ninja https://www.youtube.com/c/TheNetNinja/playlists <br>
-       Front end web development  tutorials (html,css, javascript, json) <br>
-Back end web development (firebase, json server, react ,redux , mongodb) <br>
+       Front-end web development  tutorials (HTML, CSS, javascript, JSON) <br>
+Back end web development (firebase, json server, react,redux, MongoDB) <br>
 * https://www.youtube.com/c/TraversyMedia/playlists <br>
 * https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w <br> 
 * https://www.youtube.com/c/Freecodecamp Extensive web dev Videos
 ### Websites where you can practice hacking legally 
-* https://tryhackme.com/  highly recommend for any beginners . they have many good free tutorials . They have detailed walkthrough for many rooms which is handy fro the beginner and even for intermediate and expert students. 
+* https://tryhackme.com/  highly recommend for any beginners. they have many good free tutorials. They have detailed walkthroughs for many rooms which is handy for the beginner and even for intermediate and expert students. 
 * https://www.hackthissite.org/   </br>
 * https://www.hackthebox.eu/
-*  Similar to tryhackme in the sense it has alot of boxes . It doesnt hold your hand as much as tryhackme so their boxes can be a bit more chalenging.
-* They do have a beginner resources which are the starting point and the academy. 
-* Hackthebox may have more advanced content however less boxes are available for free and their boxes can be somewhat challenging. 
-* Note if one is studying for OSCP alot of their boxes are helpful  practice for the exam. See TJ null's list to see which boxes you should do. https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview 
+*  Similar to TryHackMe in the sense it has a lot of boxes. It doesn't hold your hand as much as TryHackMe so their boxes can be a bit more challenging.
+* They do have beginner resources which are the starting point and the academy. 
+* Hackthebox may have more advanced content however fewer boxes are available for free and their boxes can be somewhat challenging. 
+* Note if one is studying for OSCP a lot of their boxes are helpful  to practice for the exam. See TJ Null's list to see which boxes you should do. https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview 
 * https://juice-shop.herokuapp.com/#/     </br>
 * https://www.vulnhub.com/  Virtual machines available for download to practice hacking free   </br> 
 * https://www.cyberseclabs.co.uk/ <br> 
@@ -221,11 +222,11 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 * http://flack.hkpco.kr/
 * http://ctf.hcesperer.org/
 * http://ictf.cs.ucsb.edu/
-* https://tryhackme.com/ see above 
+* https://tryhackme.com/ See above 
 * https://ctftime.org/ 
 * http://capture.thefl.ag/calendar/ 
 ### Vulnerable Software:
-* https://www.vulnhub.com/  see above 
+* https://www.vulnhub.com/  See above 
 * http://www.oldapps.com/
 * http://www.oldversion.com/
 * http://www.exploit-db.com/webapps/
@@ -256,10 +257,10 @@ Back end web development (firebase, json server, react ,redux , mongodb) <br>
 
                                   
 ### Operating systems ISOs VMS virtualization 
-* [Kali linux] https://www.kali.org  most commonly used for ethical hacking. made for beginners  </br>
-Best for all levels has the most tutorials and support and largest community  </br> 
-* [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as kali  </br>
-* [BlackArch Linux](http://www.blackarch.org/) very customizable version of linux , very steep learning curve but still very powerful <br> 
+* [Kali Linux] https://www.kali.org  is the most common operating system  used for ethical hacking.  </br>
+Best for all levels has the most tutorials and support and the largest community. Note various cybersecurity courses assume you are utilizing Kali including offensive security and pnpt/tcm   </br> 
+* [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as Kali  </br>
+* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, a very steep learning curve but is still very powerful <br> 
 * For more info on individual Operating Systems see https://distrowatch.com/ 
  
   ISOS 
@@ -268,9 +269,9 @@ Best for all levels has the most tutorials and support and largest community  </
 * [windows 7 iso image] https://www.microsoft.com/en-us/software-download/windows7 
               Virtual machine software and virtualization 
 * [VirtualBox ] https://www.virtualbox.org/  windows mac and linux 
-* [Vmware] https://www.vmware.com/ Vmware workstation windows mac and linux  
+* [Vmware] https://www.vmware.com/ Vmware workstation windows mac and Linux  
 * [Wine ]https://www.winehq.org/ emulator for running windows applications on Linux, macOS, & BSD (not a virtual machine) <br>
-Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, <br>
+Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on the fly, <br>
 eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop. <br> 
 ### Linux references networking references  and Scripts:
 
@@ -375,7 +376,7 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [The Social Engineering Framework](http://www.social-engineer.org/framework/general-discussion/)
 
 
-## OSINT (Open Source intelligence) -The practice of collecting information from published or otherwise publicly available sources 
+## OSINT (Open Source Intelligence) -The practice of collecting information from published or otherwise publicly available sources 
 
 ### People and Organizational:
 
@@ -834,7 +835,7 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://perishablepress.com/press/2006/01/10/stupid-htaccess-tricks/
   
 
-Things to add to sort out and add to  project 
+Things to add to sort out and add to  the project 
 
 
 
