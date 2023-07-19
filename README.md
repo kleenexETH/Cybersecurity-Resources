@@ -567,7 +567,7 @@ Special thanks to all the contributors who have helped compile and curate this c
 
 In no particular order thank you 
 * [theo2612](https://github.com/theo2612)
-* [butterfly] Discord id butterfly6
+* butterfly Discord id butterfly6
 * [xsudoxx](https://github.com/xsudoxx/OSCP)
 
 
