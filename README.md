@@ -563,8 +563,11 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [http://cve.mitre.org/](http://cve.mitre.org/): database of publicly known security vulnerabilities.
   ## Contributions
 Special thanks to all the contributors who have helped compile and curate this comprehensive list of resources. Your valuable contributions have made this collection possible and will undoubtedly assist many in their pursuit of knowledge and understanding in the world of cybersecurity and information technology. Together, we strive to improve and share knowledge, making the digital landscape safer for all.
+
+
 In no particular order thank you 
 [theo2612](https://github.com/theo2612)
 [butterfly](butterfly6)
+[xsudoxx](https://github.com/xsudoxx/OSCP)
 
 
