@@ -17,7 +17,7 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [Communities and Conferences](https://github.com/themixedcoder/test/blob/main/README.md#communities-and-conferences)
 - [Blogs, Wikis, Magazines, and Forums](https://github.com/themixedcoder/test/blob/main/README.md#blogs-wikis-magazines-and-forums)
 - [Security Research](https://github.com/themixedcoder/test/blob/main/README.md#security-research)
-- [Contributions](
+- [Contributions](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#contributions)
 ## Getting Started 
 ### Books and PDFs
 #### Legal PDFs about Programming, Networking, IT, Cybersecurity, and Penetration Testing
@@ -562,4 +562,9 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [http://secunia.com/](http://secunia.com/): online IT security vulnerability resource.
 * [http://cve.mitre.org/](http://cve.mitre.org/): database of publicly known security vulnerabilities.
   ## Contributions
-  
+Special thanks to all the contributors who have helped compile and curate this comprehensive list of resources. Your valuable contributions have made this collection possible and will undoubtedly assist many in their pursuit of knowledge and understanding in the world of cybersecurity and information technology. Together, we strive to improve and share knowledge, making the digital landscape safer for all.
+In no particular order thank you 
+[theo2612](https://github.com/theo2612)
+[butterfly](butterfly6)
+
+
