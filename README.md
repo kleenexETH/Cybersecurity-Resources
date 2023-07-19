@@ -30,34 +30,6 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [Free Security eBooks on GitHub](https://github.com/Hack-with-Github/Free-Security-eBooks)
 - [Free Programming eBooks on GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md)
 Please note that pirating will not be supported, as many books are available for free in a legal way.
-### Courses
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md): A JavaScript course that provides in-depth knowledge about JavaScript programming.
-- [Hoppers Roppers Academy](https://www.roppers.org/collections) Offers a collection of resources and courses related to cybersecurity and hacking.
-- [Hack The Box Academy](https://academy.hackthebox.eu/)  An educational platform by Hack The Box offering courses on various cybersecurity topics.
-- [Cyber Aces](https://www.cyberaces.org/) Offers free online cybersecurity courses.
-- [Springboard Cybersecurity Foundations](https://www.springboard.com/resources/learning-paths/cybersecurity-foundations/) A cybersecurity foundations course offered by Springboard.
-- [FutureLearn Introduction to Cybersecurity](https://www.futurelearn.com/courses/introduction-to-cyber-security)A course on introduction to cybersecurity offered on FutureLearn.
-- [Cryptocity Penetration Testing](http://pentest.cryptocity.net/)A website that provides resources and information related to penetration testing.
-- [Irongeek Network Sniffers Class](http://www.irongeek.com/i.php?page=videos/network-sniffers-class) Offers a class on network sniffers by Irongeek
-- [UCSB Computer Security](http://www.cs.ucsb.edu/~vigna/courses/cs279/)A computer security course offered by UCSB
-- [Stanford Cryptography](http://crypto.stanford.edu/cs142/)A course on cryptography from Stanford University.
-- [Stanford Network Security](http://crypto.stanford.edu/cs155/)A course on network security from Stanford University
-- [UCSD Network Security](http://cseweb.ucsd.edu/classes/wi09/cse227/)A network security course offered by UCSD
-- [Berkeley Computer Security](http://www-inst.eecs.berkeley.edu/~cs161/sp11/)A computer security course from UC Berkeley
-- [UCLA Security Talks](http://security.ucla.edu/pages/Security_Talks) Provides security talks and presentations from UCLA
-- [RPI Computer Security](http://www.cs.rpi.edu/academics/courses/spring10/csci4971/) A computer security course from Rensselaer Polytechnic Institute.
-- [Daniel Bernstein Cryptography](http://cr.yp.to/2004-494.html)Provides information on cryptography by Daniel Bernstein
-- [CMU Computer Security](http://www.ece.cmu.edu/~dbrumley/courses/18732-f09/)A computer security course from Carnegie Mellon University
-- [Aalto Network Security](https://noppa.tkk.fi/noppa/kurssi/t-110.6220/luennot)A course on network security offered by Aalto University
-- [MIT Web Security](http://stuff.mit.edu/iap/2009/#websecurity)  Web Security Course given by the MIT University
-- [edX Introduction to Linux](https://www.edx.org/course/introduction-to-linux) Intro to Linux from The Linux Foundation
-- [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
-- [Cybrary](https://www.cybrary.it/video/introduction-8/) Provides both free and paid courses on hacking and security.
-- [BreakTheSecurity](http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html) Offers free hacking tutorials and resources.
-- [Guru99](https://www.guru99.com/) Provides tutorials on programming, machine learning, cybersecurity, and more.
-- [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
-- [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
-- [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
 ### Educational Channels
 #### Hacking/Cybersecurity Youtubers:
 - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ): Hacking hardware, cybersecurity news, hacking tech, and general hacking tutorials.
@@ -108,6 +80,36 @@ Please note that pirating will not be supported, as many books are available for
 - [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw) Linux tutorials and stuff Linux related.
 - [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer) Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials
 ## Hacking and Security Challenges
+
+
+### Courses
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md): A JavaScript course that provides in-depth knowledge about JavaScript programming.
+- [Hoppers Roppers Academy](https://www.roppers.org/collections) Offers a collection of resources and courses related to cybersecurity and hacking.
+- [Hack The Box Academy](https://academy.hackthebox.eu/)  An educational platform by Hack The Box offering courses on various cybersecurity topics.
+- [Cyber Aces](https://www.cyberaces.org/) Offers free online cybersecurity courses.
+- [Springboard Cybersecurity Foundations](https://www.springboard.com/resources/learning-paths/cybersecurity-foundations/) A cybersecurity foundations course offered by Springboard.
+- [FutureLearn Introduction to Cybersecurity](https://www.futurelearn.com/courses/introduction-to-cyber-security)A course on introduction to cybersecurity offered on FutureLearn.
+- [Cryptocity Penetration Testing](http://pentest.cryptocity.net/)A website that provides resources and information related to penetration testing.
+- [Irongeek Network Sniffers Class](http://www.irongeek.com/i.php?page=videos/network-sniffers-class) Offers a class on network sniffers by Irongeek
+- [UCSB Computer Security](http://www.cs.ucsb.edu/~vigna/courses/cs279/)A computer security course offered by UCSB
+- [Stanford Cryptography](http://crypto.stanford.edu/cs142/)A course on cryptography from Stanford University.
+- [Stanford Network Security](http://crypto.stanford.edu/cs155/)A course on network security from Stanford University
+- [UCSD Network Security](http://cseweb.ucsd.edu/classes/wi09/cse227/)A network security course offered by UCSD
+- [Berkeley Computer Security](http://www-inst.eecs.berkeley.edu/~cs161/sp11/)A computer security course from UC Berkeley
+- [UCLA Security Talks](http://security.ucla.edu/pages/Security_Talks) Provides security talks and presentations from UCLA
+- [RPI Computer Security](http://www.cs.rpi.edu/academics/courses/spring10/csci4971/) A computer security course from Rensselaer Polytechnic Institute.
+- [Daniel Bernstein Cryptography](http://cr.yp.to/2004-494.html)Provides information on cryptography by Daniel Bernstein
+- [CMU Computer Security](http://www.ece.cmu.edu/~dbrumley/courses/18732-f09/)A computer security course from Carnegie Mellon University
+- [Aalto Network Security](https://noppa.tkk.fi/noppa/kurssi/t-110.6220/luennot)A course on network security offered by Aalto University
+- [MIT Web Security](http://stuff.mit.edu/iap/2009/#websecurity)  Web Security Course given by the MIT University
+- [edX Introduction to Linux](https://www.edx.org/course/introduction-to-linux) Intro to Linux from The Linux Foundation
+- [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
+- [Cybrary](https://www.cybrary.it/video/introduction-8/) Provides both free and paid courses on hacking and security.
+- [BreakTheSecurity](http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html) Offers free hacking tutorials and resources.
+- [Guru99](https://www.guru99.com/) Provides tutorials on programming, machine learning, cybersecurity, and more.
+- [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
+- [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
+- [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
 ### Capture the Flag (CTF) Challenges:
 - [TryHackMe](https://tryhackme.com/): Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
 - [HackThisSite](https://www.hackthissite.org/) Focuses primarily on web exploit challenges.
