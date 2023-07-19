@@ -1,3 +1,6 @@
+
+
+
 # Getting Started in Cybersecurity and Hacking
 
 ## Introduction
@@ -89,36 +92,37 @@ Please note that pirating will not be supported, as many books are available for
 - [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT): Technical cybersecurity conferences.
 - [DEFCON](https://www.youtube.com/user/DEFCONConference): Technical Cybersecurity Conference.
 #### Tech Reviewers/PC Building/Consumer Tech:
-- [Barnacules Nerdgasm](https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ): Tech reviewer, hardware tutorials.
-- [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips): Hardware tutorials, tech reviewer, PC building.
-- [ThioJoe](https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ): Hardware tutorials, tech reviewer, PC building.
-- [Elithecomputerguy](https://www.youtube.com/c/Elithecomputerguypage/playlists): Hardware tutorials, network tutorials, hardware reviewer, hacking tutorials, Linux tutorials, website development.
-- [Derek Banas](https://www.youtube.com/c/derekbanas/playlists): Tutorials on almost every kind of programming you can imagine.
-- [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw): Linux tutorials and stuff Linux related.
-- [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer): Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials.
-- [Joe Collins](https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA)Everything Linux related, including tutorials and guides [YouTube](https://www.youtube.com/user/BadEditPro/playlists).
-#### Programmer YouTubers:
-- [thenewboston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
-- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists): Front-end web development tutorials (HTML, CSS, JavaScript, JSON), back-end web development (Firebase, JSON server, React, Redux, MongoDB).
-- [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists)
-- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
-- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Extensive web development videos
+- [Barnacules Nerdgasm](https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ) Tech reviewer, hardware tutorials.
+- [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) Hardware tutorials, tech reviewer, PC building.
+- [ThioJoe](https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ) Hardware tutorials, tech reviewer, PC building.
+- [Elithecomputerguy](https://www.youtube.com/c/Elithecomputerguypage/playlists) Hardware tutorials, network tutorials, hardware reviewer, hacking tutorials, Linux tutorials, website development.
+- [Joe Collins](https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA)Everything Linux related, including tutorials and guides 
+#### Programming YouTubers:
+- [TheNewBoston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists) Front-end and Back-End web development tutorials
+- [Derek Banas](https://www.youtube.com/c/derekbanas/playlists) Tutorials on almost every kind of programming you can imagine.
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists) Python, Web Development, and various programming tutorials
+- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) Programming Tutorials for various languages
+- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) Extensive web development videos
+#### Linux Youtubers
+- [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw) Linux tutorials and stuff Linux related.
+- [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer) Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials
 ## Hacking and Security Challenges
 ### Capture the Flag (CTF) Challenges:
 - [TryHackMe](https://tryhackme.com/): Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
-- [HackThisSite](https://www.hackthissite.org/): Focuses primarily on web exploit challenges.
-- [HackTheBox](https://www.hackthebox.eu/): Virtual machines available for download to practice hacking. Offers both beginner-friendly and advanced content.
-- [Juice Shop](https://juice-shop.herokuapp.com/#/): An intentionally vulnerable web application developed by OWASP for hands-on learning of web application security.
-- [HackerOne](https://www.hackerone.com/): Web hacking challenges and bug bounty program platform.
-- [CyberSecLabs](https://www.cyberseclabs.co.uk/): An online platform offering cybersecurity challenges and labs for hands-on practice and learning.
-- [WebScanTest](http://www.webscantest.com/): A website/application that allows users to test and analyze the security of web applications through vulnerability assessments and penetration testing.
-- [CrackMe](http://crackme.cenzic.com/Kelev/view/home.php): Small programs or applications designed to test a user's reverse engineering and software cracking skills.
+- [HackThisSite](https://www.hackthissite.org/) Focuses primarily on web exploit challenges.
+- [HackTheBox](https://www.hackthebox.eu/) Virtual machines available for download to practice hacking. Offers both beginner-friendly and advanced content.
+- [Juice Shop](https://juice-shop.herokuapp.com/#/) An intentionally vulnerable web application developed by OWASP for hands-on learning of web application security.
+- [HackerOne](https://www.hackerone.com/) Web hacking challenges and bug bounty program platform.
+- [CyberSecLabs](https://www.cyberseclabs.co.uk/) An online platform offering cybersecurity challenges and labs for hands-on practice and learning.
+- [WebScanTest](http://www.webscantest.com/) A website/application that allows users to test and analyze the security of web applications through vulnerability assessments and penetration testing.
+- [CrackMe](http://crackme.cenzic.com/Kelev/view/home.php) Contains various Small programs or applications to download designed to test a user's reverse engineering and software cracking skills.
 ### Bug Bounty Programs
-- [HackerOne](https://www.hackerone.com/)
-- [Bugcrowd](https://www.bugcrowd.com/)
-- [Synack](https://www.synack.com/)
-- [Open Bug Bounty](https://www.openbugbounty.org/)
-- [YesWeHack](https://www.yeswehack.com/)
+- [HackerOne](https://www.hackerone.com/)  One of the largest bug bounty platforms with diverse programs and well-known clients. Offers rewards for security vulnerabilities in various applications
+- [Bugcrowd](https://www.bugcrowd.com/) Crowdsourced platform that connects ethical hackers with companies seeking vulnerability assessments. Offers programs from startups to enterprises
+- [Synack](https://www.synack.com/) Hybrid platform that combines human and AI-powered security testing. Offers continuous monitoring and has a private network of skilled researchers
+- [Open Bug Bounty](https://www.openbugbounty.org/) Unique platform with a focus on responsible disclosure. Allows researchers to report vulnerabilities to websites without fear of legal consequences
+- [YesWeHack](https://www.yeswehack.com/) European bug bounty platform with a wide range of programs and collaboration with cybersecurity experts. Offers a Responsible Disclosure program for non-monetary rewards
 ### Vulnerable Software:
 - [VulnHub](https://www.vulnhub.com/): Virtual machines available for download to practice hacking.
 - [Exploit-DB](http://www.exploit-db.com/webapps/): Database of exploits and vulnerability information.
@@ -128,44 +132,36 @@ Please note that pirating will not be supported, as many books are available for
 - [OldVersion](http://www.oldversion.com/): Provides archived versions of software applications for compatibility or nostalgic purposes.
 ### Hacking Techniques
 #### Metasploit:
-* http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training - Exploiting with the power of the Metasploit framework
-* http://www.irongeek.com/i.php?page=videos/metasploit-class - Introduction to exploitation with Metasploit
-* http://www.ethicalhacker.net/component/option,com_smf/Itemid,54/topic,6158.0/ - Hacking tutorial with Metasploit
-* http://vimeo.com/16925188 - Exploiting with Metasploit
-* http://www.ustream.tv/recorded/13396511 - Introduction to Metasploit and its usage
-* http://www.ustream.tv/recorded/13397426 - Metasploit tutorials and examples 
-* http://www.ustream.tv/recorded/13398740 - Exploiting using Metasploit
-#### Reverse Engineering & Malware:
-* http://www.woodmann.com/TiGa/idaseries.html - Tutorials on Reverse Engineering with IDA Pro
-* http://www.binary-auditing.com/ - Reversing to find vulnerabilities in binaries 
-* http://visi.kenshoto.com/ - Reverse engineering for everyone
-* http://www.radare.org/y/ - Extensive reverse engineering framework 
-* http://www.offensivecomputing.net/ - Dissection of malware for analysis 
-#### Passwords and Hashes:
-* http://www.irongeek.com/i.php?page=videos/password-exploitation-class - Security and Password exploitation class
-* http://cirt.net/passwords - Tutorials to crack passwords (hashes)
-* http://sinbadsecurity.blogspot.com/2008/10/ms-sql-server-password-recovery.html - Tutorial on cracking MS SQL server passwords
-* http://www.foofus.net/~jmk/medusa/medusa-smbnt.html - Tutorial on cracking passwords using Medusa
-* http://www.foofus.net/?page_id=63 - Tutorial on cracking hashes using Medusa
-* http://hashcrack.blogspot.com/ - Blog about cracking hashes and passwords 
-* http://www.nirsoft.net/articles/saved_password_location.html - How to find passwords and hashes in a system
-* http://www.virus.org/default-password - Default Passwords 
-* http://www.phenoelit-us.org/dpl/dpl.html - Online Hash cracker
-* http://news.electricalchemy.net/2009/10/cracking-passwords-in-cloud.html - Cloud-based Hash cracking
-*  http://nmap.org/ncrack/ - Cracking Hashes and Passwords with Ncrack
-* http://www.foofus.net/~jmk/medusa/medusa.html - Hacking tutorials using medusa
-* http://www.openwall.com/john/ - Password Cracking with John the Ripper
-* http://ophcrack.sourceforge.net/ - Tutorials on using Ophcrack
-* http://blog.0x3f.net/tool/keimpx-in-action/ - Hacking tutorials with Keimpx
-* http://code.google.com/p/keimpx/ - Detection and exploitation of SMB default credentials
-* http://sourceforge.net/projects/hashkill/ - Cracking hashes with GPU acceleration
-#### Password and hash cracking in the browser 
-* https://crackstation.net/ - Online website for hash cracking
-* http://www.onlinehashcrack.com/ - Tool for cracking various hash types
-* https://www.base64encode.org/ - Decode base64 encoded hashes
-* https://www.base64encode.net/ - Tool to decode encoded hashes
+- [Metasploit Exploitation Framework](http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training) - Exploiting with the power of the Metasploit framework
+- [Irongeek Metasploit Course](http://www.irongeek.com/i.php?page=videos/metasploit-class) - Introduction to exploitation with Metasploit
+
+#### Password and Hash Cracking Tutorials:
+- [Security and Password Exploitation Class](http://www.irongeek.com/i.php?page=videos/password-exploitation-class)
+- [Default Passwords for Various Vendors and Software](http://cirt.net/passwords)
+- [Tutorial on Cracking MS SQL Server Passwords](http://sinbadsecurity.blogspot.com/2008/10/ms-sql-server-password-recovery.html)
+- [Tutorial on Cracking Passwords Using Medusa](http://www.foofus.net/~jmk/medusa/medusa-smbnt.html)
+- [Tutorial on Cracking Hashes Using Medusa](http://www.foofus.net/?page_id=63)
+- [Blog About Cracking Hashes and Passwords](http://hashcrack.blogspot.com/)
+- [How to Find Passwords and Hashes in a System](http://www.nirsoft.net/articles/saved_password_location.html)
+- [Default Passwords](http://www.virus.org/default-password)
+- [Online Hash Cracker](http://www.phenoelit-us.org/dpl/dpl.html)
+- [Cloud-Based Hash Cracking](http://news.electricalchemy.net/2009/10/cracking-passwords-in-cloud.html)
+- [Cracking Hashes and Passwords with Ncrack](http://nmap.org/ncrack/)
+- [Hacking Tutorials Using Medusa](http://www.foofus.net/~jmk/medusa/medusa.html)
+- [Password Cracking with John the Ripper](http://www.openwall.com/john/)
+- [Tutorials on Using Ophcrack](http://ophcrack.sourceforge.net/)
+- [Hacking Tutorials with Keimpx](http://blog.0x3f.net/tool/keimpx-in-action/)
+- [Detection and Exploitation of SMB Default Credentials](http://code.google.com/p/keimpx/)
+- [Cracking Hashes with GPU Acceleration](http://sourceforge.net/projects/hashkill/)
+
+#### Password and Hash Cracking in the Browser:
+- [Online Website for Hash Cracking](https://crackstation.net/)
+- [Tool for Cracking Various Hash Types](http://www.onlinehashcrack.com/)
+- [Decode Base64 Encoded Hashes](https://www.base64encode.org/)
+- [Tool to Decode Encoded Hashes](https://www.base64encode.net/)
+
 #### Wordlists:
-* [Seclists] (https://github.com/danielmiessler/SecLists one of the most well-known sets of wordlists. Referenced in many CTFS 
+* [Seclists](https://github.com/danielmiessler/SecLists) is one of the most well-known sets of wordlists. Referenced in many CTFS 
 * [Korelogic](http://contest.korelogic.com/wordlists.html)
 * [PacketStorm](http://packetstormsecurity.org/Crackers/wordlists/)
 * [Skullsecurity](http://www.skullsecurity.org/wiki/index.php/Passwords)
@@ -511,8 +507,11 @@ Content Management Systems (CMS) are popular platforms used to manage, create, a
 -   **Ghost Security**: Security concepts and practices for Ghost.
 
 ## Cybersecurity Tools
+section in progress 
 ## Cloud Security
+section in progress
 ## Digital Forensics
+section in progress 
 ## Osint 
 OSINT (Open Source Intelligence) -The practice of collecting information from published or otherwise publicly available sources 
 ### People and Organizational
@@ -561,9 +560,20 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * For more info on individual Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
 
 ### ISOS
+An ISO is a virtual "box" that contains all the necessary files and data to set up a computer system or an operating system. ISO files are typically used to distribute software, including operating systems like Windows or Linux. 
+#### Windows ISO images from Microsoft
 * [Windows 10 iso image](https://www.microsoft.com/en-us/software-download/windows10)
 * [Windows 8 iso image](https://www.microsoft.com/en-us/software-download/windows8ISO)
 * [Windows 7 iso image](https://www.microsoft.com/en-us/software-download/windows7)
+#### Linux ISO images
+Common Linux Distros 
+* [Debian](https://www.debian.org/CD/http-ftp/) Stable and open-source OS with vast software repositories
+* [Ubuntu](https://ubuntu.com/download)User-friendly Linux OS based on Debian with frequent updates
+* [Linux Mint](https://linuxmint.com/download.php)Accessible OS, great for beginners, based on Ubuntu
+* [Arch](https://archlinux.org/download/)Lightweight and customizable Linux OS, preferred by experienced users
+* For more info on other Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
+
+
 
 ### Virtual machine software and virtualization
 * [VirtualBox](https://www.virtualbox.org/) windows mac and linux
@@ -631,5 +641,3 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [http://www.phenoelit-us.org/whatSAP/index.html](http://www.phenoelit-us.org/whatSAP/index.html): SAP security exploit database.
 * [http://secunia.com/](http://secunia.com/): online IT security vulnerability resource.
 * [http://cve.mitre.org/](http://cve.mitre.org/): database of publicly known security vulnerabilities.
-
-
