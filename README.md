@@ -407,13 +407,13 @@ Content Management Systems (CMS) are popular platforms used to manage, create, a
 -   **ColdFusion Directory Traversal FAQ (CVE-2010-2861)**: Information about ColdFusion vulnerability.
 -   **Attacking ColdFusion**: Insights into attacking ColdFusion applications.
 -   **Hacking ColdFusion**: Techniques for exploiting ColdFusion security flaws.
--   **Adobe ColdFusion's Directory Traversal Disaster**: Case study on ColdFusion's security issue.
+-   **Adobe ColdFusion's Directory Traversal Disaster**: A case study on ColdFusion's security issue.
 -   **HackProofing ColdFusion**: Presentation on securing ColdFusion applications.
 ### Joomla:
 -   **Joomla**: A popular open-source CMS with extensibility features.
 -   **Joomla Security**: Security checklist and guidelines from Joomla.
 ### Magento:
--   **Magento**: An e-commerce focused open-source CMS.
+-   **Magento**: An e-commerce-focused open-source CMS.
 -   **Magento Security Best Practices**: Security best practices from Magento.
 ### Shopify:
 -   **Shopify**: A hosted CMS for e-commerce solutions.
@@ -437,20 +437,21 @@ Content Management Systems (CMS) are popular platforms used to manage, create, a
 section in progress 
 ## Cloud Security
 ### Cloud Security Resources:
-- [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/): A non-profit organization focused on promoting best practices for cloud security and providing education and guidance.
-- [Microsoft Cloud Security](https://www.microsoft.com/en-us/trustcenter/security): Microsoft's official cloud security page, offering information on Azure security and compliance.
-- [AWS Security](https://aws.amazon.com/security/): Amazon Web Services (AWS) security center, providing resources and best practices for securing cloud environments on AWS.
-- [Google Cloud Security](https://cloud.google.com/security): Google Cloud's security page, with information on securing applications and data on Google Cloud Platform.
-- [Cloud Security by Oracle](https://www.oracle.com/cloud/security/): Oracle Cloud's security resources, including whitepapers and best practices for securing cloud deployments.
-- [NIST Cloud Computing Security](https://www.nist.gov/programs-projects/cloud-computing): National Institute of Standards and Technology (NIST) publications and guidelines on cloud computing security.
-- [CSO Online - Cloud Security](https://www.csoonline.com/category/cloud-security/): Articles and news on cloud security from CSO Online.
-- [Cloud Security Blogs](https://blog.feedspot.com/cloud_security_blogs/): A collection of top cloud security blogs, providing insights and updates on cloud security trends.
-- [Cloud Security Podcasts](https://www.cloudsecuritypodcast.tv/): A podcast series focused on cloud security topics and discussions.
-- [SANS Institute Cloud Security Training](https://www.sans.org/cloud-security-training): Cloud security courses and training offered by the SANS Institute.
+- [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/) A non-profit organization focused on promoting best practices for cloud security and providing education and guidance.
+- [Microsoft Cloud Security](https://www.microsoft.com/en-us/trustcenter/security) Microsoft's official cloud security page, offering information on Azure security and compliance.
+- [AWS Security](https://aws.amazon.com/security/) Amazon Web Services (AWS) security center, providing resources and best practices for securing cloud environments on AWS.
+- [Google Cloud Security](https://cloud.google.com/security) Google Cloud's security page, with information on securing applications and data on Google Cloud Platform.
+- [Cloud Security by Oracle](https://www.oracle.com/cloud/security/) Oracle Cloud's security resources, including whitepapers and best practices for securing cloud deployments.
+- [NIST Cloud Computing Security](https://www.nist.gov/programs-projects/cloud-computing) National Institute of Standards and Technology (NIST) publications and guidelines on cloud computing security.
+- [CSO Online - Cloud Security](https://www.csoonline.com/category/cloud-security/) Articles and news on cloud security from CSO Online.
+- [Cloud Security Blogs](https://blog.feedspot.com/cloud_security_blogs/) A collection of top cloud security blogs, providing insights and updates on cloud security trends.
+- [Cloud Security Podcasts](https://www.cloudsecuritypodcast.tv/) A podcast series focused on cloud security topics and discussions.
+- [SANS Institute Cloud Security Training](https://www.sans.org/cloud-security-training) Cloud security courses and training offered by the SANS Institute.
+- [Azure Fundamentals from youtube](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
 
-section still in progress
+this section is still in progress
 ## Digital Forensics
-section still in progress 
+this section is still in progress 
 ## Osint 
 OSINT (Open Source Intelligence) -The practice of collecting information from published or otherwise publicly available sources 
 ### People and Organizational
