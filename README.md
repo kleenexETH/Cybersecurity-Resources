@@ -17,6 +17,7 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [Communities and Conferences](https://github.com/themixedcoder/test/blob/main/README.md#communities-and-conferences)
 - [Blogs, Wikis, Magazines, and Forums](https://github.com/themixedcoder/test/blob/main/README.md#blogs-wikis-magazines-and-forums)
 - [Security Research](https://github.com/themixedcoder/test/blob/main/README.md#security-research)
+- [Contributions](
 ## Getting Started 
 ### Books and PDFs
 #### Legal PDFs about Programming, Networking, IT, Cybersecurity, and Penetration Testing
@@ -200,7 +201,7 @@ Please note that pirating will not be supported, as many books are available for
 * http://midnightresearch.com/projects/search-engine-assessment-tool/#downloads - Search engine vulnerability assessment
 * http://sqid.rubyforge.org/#next - SQL Injection Digger
 * http://voidnetwork.org/5ynL0rd/darkc0de/python_script/dorkScan.html - Python dork scanning tool
-#### Wireless:
+#### Wireless
 * http://code.google.com/p/pyrit/
 ## Programming
 - [edX](https://www.edx.org/): Provides various free programming courses from universities.
@@ -560,3 +561,5 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [http://www.phenoelit-us.org/whatSAP/index.html](http://www.phenoelit-us.org/whatSAP/index.html): SAP security exploit database.
 * [http://secunia.com/](http://secunia.com/): online IT security vulnerability resource.
 * [http://cve.mitre.org/](http://cve.mitre.org/): database of publicly known security vulnerabilities.
+  ## Contributions
+  
