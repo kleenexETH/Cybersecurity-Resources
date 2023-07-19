@@ -436,9 +436,21 @@ Content Management Systems (CMS) are popular platforms used to manage, create, a
 ## Cybersecurity Tools
 section in progress 
 ## Cloud Security
-section in progress
+### Cloud Security Resources:
+- [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/): A non-profit organization focused on promoting best practices for cloud security and providing education and guidance.
+- [Microsoft Cloud Security](https://www.microsoft.com/en-us/trustcenter/security): Microsoft's official cloud security page, offering information on Azure security and compliance.
+- [AWS Security](https://aws.amazon.com/security/): Amazon Web Services (AWS) security center, providing resources and best practices for securing cloud environments on AWS.
+- [Google Cloud Security](https://cloud.google.com/security): Google Cloud's security page, with information on securing applications and data on Google Cloud Platform.
+- [Cloud Security by Oracle](https://www.oracle.com/cloud/security/): Oracle Cloud's security resources, including whitepapers and best practices for securing cloud deployments.
+- [NIST Cloud Computing Security](https://www.nist.gov/programs-projects/cloud-computing): National Institute of Standards and Technology (NIST) publications and guidelines on cloud computing security.
+- [CSO Online - Cloud Security](https://www.csoonline.com/category/cloud-security/): Articles and news on cloud security from CSO Online.
+- [Cloud Security Blogs](https://blog.feedspot.com/cloud_security_blogs/): A collection of top cloud security blogs, providing insights and updates on cloud security trends.
+- [Cloud Security Podcasts](https://www.cloudsecuritypodcast.tv/): A podcast series focused on cloud security topics and discussions.
+- [SANS Institute Cloud Security Training](https://www.sans.org/cloud-security-training): Cloud security courses and training offered by the SANS Institute.
+
+section still in progress
 ## Digital Forensics
-section in progress 
+section still in progress 
 ## Osint 
 OSINT (Open Source Intelligence) -The practice of collecting information from published or otherwise publicly available sources 
 ### People and Organizational
@@ -499,12 +511,12 @@ Common Linux Distros
 * [Arch](https://archlinux.org/download/)Lightweight and customizable Linux OS, preferred by experienced users
 * For more info on other Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
 ### Virtual machine software and virtualization
-* [VirtualBox](https://www.virtualbox.org/) windows mac and linux
+* [VirtualBox](https://www.virtualbox.org/) windows mac and Linux
 * [Vmware](https://www.vmware.com/) Vmware workstation windows mac and Linux
 * [Wine](https://www.winehq.org/) emulator for running windows applications on Linux, macOS, & BSD (not a virtual machine) 
   Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on the fly,
   eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
-## References and Cheat sheets:
+## References and Cheatsheets
 * [http://en.wikipedia.org/wiki/IPv4_subnetting_reference](http://en.wikipedia.org/wiki/IPv4_subnetting_reference)
 * [http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/](http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/)
 * [http://shelldorado.com/shelltips/beginner.html](http://shelldorado.com/shelltips/beginner.html)
