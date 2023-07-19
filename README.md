@@ -1,12 +1,6 @@
-
-
-
 # Getting Started in Cybersecurity and Hacking
-
 ## Introduction
-
 This guide aims to provide easy-to-access resources for individuals interested in learning more about Cybersecurity and ethical hacking, and bug bounty. Below, you will find organized links and resources related to each topic for your convenience.
-
 ## Table of Contents
 - [Getting Started](https://github.com/themixedcoder/test/blob/main/README.md#getting-started)
 - [Hacking and Security Challenges](https://github.com/themixedcoder/test/blob/main/README.md#hacking-and-security-challenges)
@@ -52,7 +46,7 @@ Please note that pirating will not be supported, as many books are available for
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) Labs and capture-the-flag tutorials, HackTheBox, etc.
 - [Computerphile](https://www.youtube.com/user/Computerphile/about) Covers basic concepts and techniques.
 - [David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w): Everything cybersecurity related.
-- [SecurityNow](https://twit.tv/shows/security-now) Cybercrime news, hacking, and web-application security.
+- [SecurityNow](https://twit.tv/shows/security-now) Cybercrime news, hacking, and web application security.
 - [Infosec Institute](https://www.youtube.com/user/InfoSecInstitute/videos) Cybersecurity awareness.
 - [InfoSec Live](https://www.youtube.com/c/infoseclive) Everything cybersecurity related from tutorials to interviews.
 - [The PC Security Channel](https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg) Windows security, malware news, and tutorials.
@@ -136,7 +130,6 @@ Please note that pirating will not be supported, as many books are available for
 #### Metasploit:
 - [Metasploit Exploitation Framework](http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training) - Exploiting with the power of the Metasploit framework
 - [Irongeek Metasploit Course](http://www.irongeek.com/i.php?page=videos/metasploit-class) - Introduction to exploitation with Metasploit
-
 #### Password and Hash Cracking Tutorials:
 - [Security and Password Exploitation Class](http://www.irongeek.com/i.php?page=videos/password-exploitation-class)
 - [Default Passwords for Various Vendors and Software](http://cirt.net/passwords)
@@ -155,13 +148,11 @@ Please note that pirating will not be supported, as many books are available for
 - [Hacking Tutorials with Keimpx](http://blog.0x3f.net/tool/keimpx-in-action/)
 - [Detection and Exploitation of SMB Default Credentials](http://code.google.com/p/keimpx/)
 - [Cracking Hashes with GPU Acceleration](http://sourceforge.net/projects/hashkill/)
-
 #### Password and Hash Cracking in the Browser:
 - [Online Website for Hash Cracking](https://crackstation.net/)
 - [Tool for Cracking Various Hash Types](http://www.onlinehashcrack.com/)
 - [Decode Base64 Encoded Hashes](https://www.base64encode.org/)
 - [Tool to Decode Encoded Hashes](https://www.base64encode.net/)
-
 #### Wordlists:
 * [Seclists](https://github.com/danielmiessler/SecLists) is one of the most well-known sets of wordlists. Referenced in many CTFS 
 * [Korelogic](http://contest.korelogic.com/wordlists.html)
@@ -237,9 +228,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Coursera](https://www.coursera.org/): Offers career development courses, both paid and free.
 - [DevDocs](https://devdocs.io/): Comprehensive documentation for various programming languages and technologies.
 - [W3Schools](https://www.w3schools.com/): Provides web development tutorials and references.
-
 ## Linux
-
 - [Linux Training Academy](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/): Cheat sheet for useful command-line tools.
 - [TryHackMe](https://tryhackme.com/): Website for beginners and advanced users to learn about Linux and more.
 - [Linux Journey](https://linuxjourney.com/): A hands-on step-by-step process for learning how to use Linux.
@@ -250,51 +239,33 @@ Please note that pirating will not be supported, as many books are available for
 - [Linux for Ethical Hackers](https://www.youtube.com/watch?v=U1w4T03B30I): YouTube video series on Linux for ethical hackers.
 - [FreeCodeCamp Linux Crash Course](https://www.youtube.com/watch?v=ROjZy1WbCIA&t=3867s): YouTube beginner crash course in Linux.
 - [Linux Server Course](https://www.youtube.com/watch?v=WMy3OzvBWc0): YouTube course on Linux server system configuration and operation.
-
 ## Networking
-
 - [Professor Messer's Network+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnksQpejrRxNZoRSo0pcKXkG): Highly recommended network+ training course on YouTube.
 - [FreeCodeCamp Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s): Networking course by freeCodeCamp and Network+ preparation.
 - [Network Chuck Networking Course/CCNA Training](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P): Networking course by Network Chuck/CCNA training course.
-
 ## Certifications
-
 ### Hardware
-
 - [CompTIA A+](https://www.comptia.org/certifications/a): General hardware certification with a wide range of job offerings.
 - [Professor Messer A+ Course](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC): YouTube course by Professor Messer on A+ certification.
 - Apple Certified Macintosh Technician: Apple-specific hardware certification.
-
 ### Networking
-
 - [CompTIA Network+](https://www.comptia.org/certifications/network): Networking certification.
 - [Professor Messer Network+ Course](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G): Free YouTube course by Professor Messer on Network+ certification.
 - [Udemy Network+ Course](https://www.udemy.com/course/comptia-network-n10-008/): Paid course on Udemy for Network+ certification.
-
 ### Linux
-
 - CompTIA Linux+ Certification: Linux certification.
-
 ### Security - Entry Level
-
 - CompTIA Security+: Entry-level security certification.
 - CEH: Certified Ethical Hacker certification.
-
 ### Security - Management Level
-
 - CISSP: Certified Information Systems Security Professional.
-
 ### Penetration Testing
-
 - CompTIA PenTest+: Certification focusing on penetration testing methodology.
 - PNPT: Hands-on exam from TheCyberMentor (Heath Adams) covering active directory external penetration testing and privilege escalation.
 - EJPT: Practical exam for penetration testing.
 - OSCP: Highly recognized penetration testing certification with a focus on manual testing techniques.
-
 ## Web Application Security
-
 ### Exploitation Frameworks and Tools
-
 - [BeEF](http://www.bindshell.net/tools/beef) - Browser Exploitation Framework
 - [BlindElephant](http://blindelephant.sourceforge.net/) - Scanner for known vulnerable web apps
 - [XSSer](http://xsser.sourceforge.net/) - Cross-site Scripting attack tool
@@ -309,11 +280,8 @@ Please note that pirating will not be supported, as many books are available for
 - [Unicode Exploitation Guide](http://packetstormsecurity.org/files/view/69896/unicode-fun.txt) - Unicode exploitation guide
 - [Web Security Testing Framework](http://sourceforge.net/projects/ws-attacker/files/) - Web security testing framework
 - [Squid Imposter](https://github.com/koto/squid-imposter) - SSL impostering for MITM attacks
-
 ### SQL Injection (SQLi)
-
 A vulnerability that permits attackers to manipulate SQL queries to gain unauthorized access, modify, or retrieve sensitive data from a database.
-
 - [MSSQL SQL Injection Cheat Sheet](http://pentestmonkey.net/blog/mssql-sql-injection-cheat-sheet/)
 - [SANS Diary: SQL Injection](http://isc.sans.edu/diary.html?storyid=9397)
 - [SQL Injection Cheatsheet by Ferruh Mavituna](http://ferruh.mavituna.com/sql-injection-cheatsheet-oku/)
@@ -335,11 +303,8 @@ A vulnerability that permits attackers to manipulate SQL queries to gain unautho
 - [MySQL Injection Cheat Sheet](http://old.justinshattuck.com/2007/01/18/mysql-injection-cheat-sheet/)
 - [SQL Injection by Ha.ckers](http://ha.ckers.org/sqlinjection/)
 - [MSSQL Injection from Layerone](http://lab.mediaservice.net/notes_more.php?id=MSSQL)
-
 ### Upload Tricks
-
 Upload web vulnerabilities refer to security flaws that allow malicious users to upload and execute unauthorized files, potentially leading to server compromise or unauthorized access to the system.
-
 - [Bypassing Upload File Type](http://www.google.com/#hl=en&q=bypassing+upload+file+type&start=40&sa=N&fp=a2bb30ecf4f91972)
 - [Adobe Responds (Sort of)](http://blog.skeptikal.org/2009/11/adobe-responds-sort-of.html)
 - [Secure File Upload in PHP Web Applications](http://blog.insicdesigns.com/2009/01/secure-file-upload-in-php-web-applications/)
@@ -354,21 +319,15 @@ Upload web vulnerabilities refer to security flaws that allow malicious users to
 - [Cross-Site File Upload Attacks](http://www.gnucitizen.org/blog/cross-site-file-upload-attacks/)
 - [File Upload Security](http://shsc.info/FileUploadSecurity)
 - [TikiWiki Script File Upload Security Bypass Vulnerability](http://www.ipolicynetworks.com/technology/files/TikiWiki_jhot.php_Script_File_Upload_Security_Bypass_Vulnerability.html)
-
 ### LFI/RFI (Local File Inclusion/Remote File Inclusion)
-
 Allows an attacker to include files from the target system or remote servers, potentially leading to unauthorized access or code execution.
-
 - [Online Source Code for LFI/RFI Vulnerability](http://pastie.org/840199)
 - [Exploring PHP File Inclusion Vulnerabilities](http://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
 - [Executing Remote Root on LFI](http://www.notsosecure.com/folder2/2010/08/20/lfi-code-exec-remote-root/?utm_source=twitterfeed&utm_medium=twitter)
 - [Tips and Tricks for LFI](http://labs.neohapsis.com/2008/07/21/local-file-inclusion-%E2%80%93-tricks-of-the-trade/)
 - [Understanding File-access Denial Exploits](http://www.digininja.org/blog/when_all_you_can_do_is_read.php)
-
 ### XSS (Cross-site Scripting)
-
 An attack where malicious scripts are injected into web pages, affecting users who visit the page and potentially stealing their data or taking control of their accounts.
-
 - [Cross-site Scripting Tutorial](http://www.infosecwriters.com/hhworld/hh8/csstut.htm)
 - [Basic Tutorial on XSS](http://www.technicalinfo.net/papers/CSS.html)
 - [Exploiting Maliciously Crafted URLs](http://msmvps.com/blogs/alunj/archive/2010/07/07/1773441.aspx)
@@ -379,9 +338,7 @@ An attack where malicious scripts are injected into web pages, affecting users w
 - [Javascript-based XSS Cheat Sheet](http://heideri.ch/jso/#javascript)
 - [Subreddit for XSS](http://www.reddit.com/r/xss/)
 - [XSS Discussions](http://sla.ckers.org/forum/list.php?2)
-
 ### Metasploit
-
 - [Reverse Pivots with Metasploit: How Not to get Caught](http://www.indepthdefense.com/2009/02/reverse-pivots-with-metasploit-how-not.html)
 - [WmapNikto - Metasploit](http://code.google.com/p/msf-hack/wiki/WmapNikto)
 - [Metasploit Visual Basic Payloads](http://www.indepthdefense.com/2009/01/metasploit-visual-basic-payloads-in.html)
@@ -398,30 +355,23 @@ An attack where malicious scripts are injected into web pages, affecting users w
 - [Trac - Happypacket](http://trac.happypacket.net/)
 - [Neurosurgery with Meterpreter](http://www.blackhat.com/presentations/bh-dc-10/Ames_Colin/BlackHat-DC-2010-colin-david-neurosurgery-with-meterpreter-wp.pdf)
 - [Egypt UAV Slides](http://www.blackhat.com/presentations/bh-dc-10/Egypt/BlackHat-DC-2010-Egypt-UAV-slides.pdf)
-
 ### Metadata
-
 - [Document Metadata: The Silent Killer](http://www.sans.org/reading_room/whitepapers/privacy/document-metadata-silent-killer_32974)
 - [Strikeout](http://lcamtuf.coredump.cx/strikeout/)
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [Metagoofil](http://www.edge-security.com/metagoofil.php)
 - [Metadata Enumeration with FOCA](http://www.darkoperator.com/blog/2009/4/24/metadata-enumeration-with-foca.html)
-
 ### OSINT (Open-source Intelligence)
-
 - [theHarvester](http://www.edge-security.com/theHarvester.php)
 - [DNSTracer](http://www.mavetju.org/unix/dnstracer-man.php)
 - [Paterva Maltego](http://www.paterva.com/web5/)
-
 ### Shells
 - [Yokoso](http://sourceforge.net/projects/yokoso/)
 - [AjaxShell](http://sourceforge.net/projects/ajaxshell/)
 ### Attack Strings
 - [FuzzDB](http://code.google.com/p/fuzzdb/)
 - [OWASP Fuzzing Code Database](http://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database#tab=Statements)
-
 ### Scanners
-
 - [w3af](http://w3af.sourceforge.net/) - Open-source web application security scanner.
 - [Skipfish](http://code.google.com/p/skipfish/) - Automated web application security audit tool.
 - [sqlmap](http://sqlmap.sourceforge.net/) - Automated SQL injection and database takeover tool.
@@ -433,9 +383,7 @@ An attack where malicious scripts are injected into web pages, affecting users w
 - [Belch](http://sourceforge.net/projects/belch/files/) - Web vulnerability scanner.
 - [Burp Intruder: Fuzzing Approach to Credentials Discovery](http://www.sans.org/reading_room/whitepapers/testing/fuzzing-approach-credentials-discovery-burp-intruder_33214)
 - [Constricting the Web: The GDS Burp API](http://www.gdssecurity.com/l/b/2010/08/10/constricting-the-web-the-gds-burp-api/)
-
 ### Net Scanners and Scripts
-
 - [Nmap](http://nmap.org/) - Network mapping and port scanning tool
 - [SambaScan2](http://asturio.gmxhome.de/software/sambascan2/i.html) - Windows-based shell script for discovering LanMan/NTLM authentication information
 - [SoftPerfect Network Scanner](http://www.softperfect.com/products/networkscanner/) - Network scanner tool
@@ -444,70 +392,46 @@ An attack where malicious scripts are injected into web pages, affecting users w
 - [Rapid7 Vulnerability Scanner](http://www.rapid7.com/vulnerability-scanner.jsp) - Vulnerability scanner and management
 - [Retina Community](http://www.eeye.com/products/retina/community) - Vulnerability scanner
  ## Content Management System (CMS) Hacking
-
 Content Management Systems (CMS) are popular platforms used to manage, create, and modify digital content on websites and web applications. While they provide convenience and flexibility, improper configuration and vulnerabilities can lead to security risks. Ethical hacking (penetration testing) of CMSs is essential to identify weaknesses and implement robust security measures. However, it is crucial to obtain proper authorization before conducting any testing. Here's an overview of popular CMS platforms and resources for ethical hacking:
-
 ### WordPress:
-
 -   **WordPress**: A widely used open-source CMS for websites and blogs.
 -   **WPScan**: WordPress vulnerability scanner.
 -   **WordPress Security Codex**: Official security guide by WordPress.
 -   **OWASP WordPress Security Implementation Guideline**: OWASP WordPress Security Cheat Sheet.
-
 ### Drupal:
-
 -   **Drupal**: An open-source CMS known for flexibility and scalability.
 -   **Drupal Security**: Official security page for Drupal with advisories.
 -   **Drupal Security Best Practices**: Drupal's documentation on security best practices.
-
 ### ColdFusion:
-
 -   **ColdFusion Directory Traversal FAQ (CVE-2010-2861)**: Information about ColdFusion vulnerability.
 -   **Attacking ColdFusion**: Insights into attacking ColdFusion applications.
 -   **Hacking ColdFusion**: Techniques for exploiting ColdFusion security flaws.
 -   **Adobe ColdFusion's Directory Traversal Disaster**: Case study on ColdFusion's security issue.
 -   **HackProofing ColdFusion**: Presentation on securing ColdFusion applications.
-
 ### Joomla:
-
 -   **Joomla**: A popular open-source CMS with extensibility features.
 -   **Joomla Security**: Security checklist and guidelines from Joomla.
-
 ### Magento:
-
 -   **Magento**: An e-commerce focused open-source CMS.
 -   **Magento Security Best Practices**: Security best practices from Magento.
-
 ### Shopify:
-
 -   **Shopify**: A hosted CMS for e-commerce solutions.
 -   **Shopify Security**: Security measures and guidelines provided by Shopify.
-
 ### Wix:
-
 -   **Wix**: Cloud-based website builder with drag-and-drop tools.
 -   **Wix Security**: Wix's security measures and policies.
-
 ### Squarespace:
-
 -   **Squarespace**: A website builder with visually appealing templates.
 -   **Squarespace Security**: Security practices and protocols from Squarespace.
-
 ### Typo3:
-
 -   **Typo3**: An enterprise-level open-source CMS known for scalability.
 -   **Typo3 Security**: Typo3 security guide.
-
 ### Umbraco:
-
 -   **Umbraco**: An open-source CMS based on Microsoft's ASP.NET framework.
 -   **Umbraco Security**: Security information and guidelines from Umbraco.
-
 ### Ghost:
-
 -   **Ghost**: A CMS designed for bloggers and writers.
 -   **Ghost Security**: Security concepts and practices for Ghost.
-
 ## Cybersecurity Tools
 section in progress 
 ## Cloud Security
@@ -560,7 +484,6 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as Kali 
 * [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, a very steep learning curve but is still very powerful
 * For more info on individual Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
-
 ### ISOS
 An ISO is a virtual "box" that contains all the necessary files and data to set up a computer system or an operating system. ISO files are typically used to distribute software, including operating systems like Windows or Linux. 
 #### Windows ISO images from Microsoft
@@ -574,16 +497,12 @@ Common Linux Distros
 * [Linux Mint](https://linuxmint.com/download.php)Accessible OS, great for beginners, based on Ubuntu
 * [Arch](https://archlinux.org/download/)Lightweight and customizable Linux OS, preferred by experienced users
 * For more info on other Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
-
-
-
 ### Virtual machine software and virtualization
 * [VirtualBox](https://www.virtualbox.org/) windows mac and linux
 * [Vmware](https://www.vmware.com/) Vmware workstation windows mac and Linux
 * [Wine](https://www.winehq.org/) emulator for running windows applications on Linux, macOS, & BSD (not a virtual machine) 
   Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on the fly,
   eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
-
 ## References and Cheat sheets:
 * [http://en.wikipedia.org/wiki/IPv4_subnetting_reference](http://en.wikipedia.org/wiki/IPv4_subnetting_reference)
 * [http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/](http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/)
@@ -601,7 +520,6 @@ Common Linux Distros
 * [Defcon](https://www.defcon.org/)  one of the largest worldwide Hacking conferences  in the world  
 * [Blackhat](https://blackhat.com/)  large worldwide conference all over the globe 
 * [RSA Conference](https://www.rsaconference.com/) The RSA Conference is an annual event focused on helping improve cybersecurity awareness and cybersecurity culture in companies, and similarly expanding this knowledge in individuals across the globe. 
-
 * [Calendar for Information Security Conferences](https://www.google.com/calendar/embed?src=pe2ikdbe6b841od6e26ato0asc@group.calendar.google.com&gsessionid=OK)
 ## Blogs, Wikis, Magazines, and Forums
 ### Blogs
@@ -626,8 +544,7 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 ### Magazines:
 * [(In)Secure Magazine](http://www.net-security.org/insecuremag.php)
 * [Hackin9](http://hakin9.org/)
-
-## Security research
+## Security Research
 * [https://www.shodan.io/](https://www.shodan.io/): network monitoring and analytics platform. 
 * [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database) (google dorking): exploit database search engine.
 * [http://www.exploit-db.com/](http://www.exploit-db.com/): exploited and vulnerable software vulnerabilities database. 
