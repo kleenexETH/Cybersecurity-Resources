@@ -57,14 +57,14 @@ Please note that pirating will not be supported, as many books are available for
 - [BlackPerl](https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ) Malware analysis, forensics, and incident response.
 - [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT) Technical cybersecurity conferences.
 - [DEFCON](https://www.youtube.com/user/DEFCONConference) Technical Cybersecurity Conference.
-#### Tech Reviewers/PC Building/Consumer Tech:
+#### Tech Reviewers/PC Building/Consumer Tech
 - [Barnacules Nerdgasm](https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ) Tech reviewer, hardware tutorials.
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) Hardware tutorials, tech reviewer, PC building.
 - [ThioJoe](https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ) Hardware tutorials, tech reviewer, PC building.
 - [Elithecomputerguy](https://www.youtube.com/c/Elithecomputerguypage/playlists) Hardware tutorials, network tutorials, hardware reviewer, hacking tutorials, Linux tutorials, website development.
 - [Joe Collins](https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA)Everything Linux related, including tutorials and guides 
 #### Programming YouTubers:
-- [TheNewBoston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
+- [TheNewBoston](https://www.youtube.com/user/thenewboston) Programming tutorials (web development - front end and back end, python, ruby).
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists) Front-end and Back-End web development tutorials
 - [Derek Banas](https://www.youtube.com/c/derekbanas/playlists) Tutorials on almost every kind of programming you can imagine.
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists) Python, Web Development, and various programming tutorials
@@ -77,7 +77,7 @@ Please note that pirating will not be supported, as many books are available for
 
 
 ### Courses
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md): A JavaScript course that provides in-depth knowledge about JavaScript programming.
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) A JavaScript course that provides in-depth knowledge about JavaScript programming.
 - [Hoppers Roppers Academy](https://www.roppers.org/collections) Offers a collection of resources and courses related to cybersecurity and hacking.
 - [Hack The Box Academy](https://academy.hackthebox.eu/)  An educational platform by Hack The Box offering courses on various cybersecurity topics.
 - [Cyber Aces](https://www.cyberaces.org/) Offers free online cybersecurity courses.
@@ -104,8 +104,8 @@ Please note that pirating will not be supported, as many books are available for
 - [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
 - [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
 - [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
-### Capture the Flag (CTF) Challenges:
-- [TryHackMe](https://tryhackme.com/): Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
+### Capture the Flag (CTF) Challenges
+- [TryHackMe](https://tryhackme.com/) Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
 - [HackThisSite](https://www.hackthissite.org/) Focuses primarily on web exploit challenges.
 - [HackTheBox](https://www.hackthebox.eu/) Virtual machines available for download to practice hacking. Offers both beginner-friendly and advanced content.
 - [Juice Shop](https://juice-shop.herokuapp.com/#/) An intentionally vulnerable web application developed by OWASP for hands-on learning of web application security.
@@ -120,17 +120,17 @@ Please note that pirating will not be supported, as many books are available for
 - [Open Bug Bounty](https://www.openbugbounty.org/) Unique platform with a focus on responsible disclosure. Allows researchers to report vulnerabilities to websites without fear of legal consequences
 - [YesWeHack](https://www.yeswehack.com/) European bug bounty platform with a wide range of programs and collaboration with cybersecurity experts. Offers a Responsible Disclosure program for non-monetary rewards
 ### Vulnerable Software:
-- [VulnHub](https://www.vulnhub.com/): Virtual machines available for download to practice hacking.
-- [Exploit-DB](http://www.exploit-db.com/webapps/): Database of exploits and vulnerability information.
-- [OWASP SiteGenerator](http://www.owasp.org/index.php/Owasp_SiteGenerator): A project by OWASP that helps generate vulnerable web applications for learning and testing web application security.
+- [VulnHub](https://www.vulnhub.com/) Virtual machines available for download to practice hacking.
+- [Exploit-DB](http://www.exploit-db.com/webapps/) Database of exploits and vulnerability information.
+- [OWASP SiteGenerator](http://www.owasp.org/index.php/Owasp_SiteGenerator) A project by OWASP that helps generate vulnerable web applications for learning and testing web application security.
 - [McAfee Hacme](http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx), [Hacme Casino](http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx), [Hacme Shipping](http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx), [Hacme Travel](http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx): Deliberately vulnerable web applications developed by McAfee for practicing security testing and identifying vulnerabilities.
-- [OldApps](http://www.oldapps.com/): Provides archived versions of software applications for compatibility or nostalgic purposes.
-- [OldVersion](http://www.oldversion.com/): Provides archived versions of software applications for compatibility or nostalgic purposes.
+- [OldApps](http://www.oldapps.com/) Provides archived versions of software applications for compatibility or nostalgic purposes.
+- [OldVersion](http://www.oldversion.com/) Provides archived versions of software applications for compatibility or nostalgic purposes.
 ### Hacking Techniques
 #### Metasploit:
 - [Metasploit Exploitation Framework](http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training) - Exploiting with the power of the Metasploit framework
 - [Irongeek Metasploit Course](http://www.irongeek.com/i.php?page=videos/metasploit-class) - Introduction to exploitation with Metasploit
-#### Password and Hash Cracking Tutorials:
+#### Password and Hash Cracking Tutorials
 - [Security and Password Exploitation Class](http://www.irongeek.com/i.php?page=videos/password-exploitation-class)
 - [Default Passwords for Various Vendors and Software](http://cirt.net/passwords)
 - [Tutorial on Cracking MS SQL Server Passwords](http://sinbadsecurity.blogspot.com/2008/10/ms-sql-server-password-recovery.html)
@@ -153,13 +153,13 @@ Please note that pirating will not be supported, as many books are available for
 - [Tool for Cracking Various Hash Types](http://www.onlinehashcrack.com/)
 - [Decode Base64 Encoded Hashes](https://www.base64encode.org/)
 - [Tool to Decode Encoded Hashes](https://www.base64encode.net/)
-#### Wordlists:
+#### Wordlists
 * [Seclists](https://github.com/danielmiessler/SecLists) is one of the most well-known sets of wordlists. Referenced in many CTFS 
 * [Korelogic](http://contest.korelogic.com/wordlists.html)
 * [PacketStorm](http://packetstormsecurity.org/Crackers/wordlists/)
 * [Skullsecurity](http://www.skullsecurity.org/wiki/index.php/Passwords)
 * [Wordbook](http://wordbook.xyz/download/)
-#### Pass the Hash:
+#### Pass the Hash
 * http://www.sans.org/reading_room/whitepapers/testing/pass-the-hash-attacks-tools-mitigation_33283
 * http://www.sans.org/reading_room/whitepapers/testing/crack-pass-hash_33219
 * http://carnal0wnage.blogspot.com/2008/03/using-pash-hash-toolkit.html
