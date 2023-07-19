@@ -1,352 +1,603 @@
-                        Getting Started in Programming, IT, Hacking, and Networking Guide 
-                          
-                          
-                          
- ##                   Links and Resources to look at to teach you more about Programming, Hardware ,Hacking, and Networking 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#hacking Hacking section 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#programming programming section 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#linux Linux section 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#networking networking section 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#certifications certification section
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#pdfs pdf section 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#tech-youtubers-and-videos Youtuber and video section
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#websites-where-you-can-practice-hacking-legally hacking training 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#capture-the-flagwargames CTF section 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#vulnerable-software vulnerable software  
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#websites-to-help-you-learn-more-about-vulnerabilities vulnerability learning 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#operating-systems-isos-vms-virtualization Operating systems/Virtualization
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#blogs Blogs
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#methodologies Methodologies 
- * https://github.com/themixedcoder/IT-Resources/blob/main/README.md#osint-open-source-intelligence--the-practice-of-collecting-information-from-published-or-otherwise-publicly-available-sources OSINT Resources 
- ### Hacking 
-* https://null-byte.wonderhowto.com/ free  </br>
- * https://www.cybrary.it/video/introduction-8/  free and paid </br>
-* http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html free  </br>
-* https://www.guru99.com/ site with tutorials on programming machine learning cyber security and much more  </br>  
-* https://cybercademy.org/resources/ site that links to various cybersecurity resources  <br>
-* http://www.securitytube.net/  </br>
-* https://www.hackingloops.com/    </br>
-* https://www.cyberaces.org/    </br>  
-                                            
-  ### Programming 
-  Helpful sites to learn programming <br> 
-* https://www.edx.org/  various courses from universities offered for free </br>
-* https://www.freecodecamp.org/ free site to learn web development and python  </br>
-* https://www.udemy.com/   Career training site- some free courses but mostly paid. There are price drops very often so it might be worth it.        </br>
-* https://www.khanacademy.org/   Math English and Computer programming courses offered in a fun gamified way -free  </br>
-* https://ocw.mit.edu/courses/intro-programming/   free Intro to Programming course released to the public by MIT
-* http://code.google.com/edu/languages/google-python-class/index.html 
-* http://www.swaroopch.com/notes/Python_en:Table_of_Contents
-* http://www.thenewboston.com/?cat=40&pOpen=tutorial
-* http://showmedo.com/videotutorials/python
-* http://www.catonmat.net/blog/learning-python-programming-language-through-video-lectures/
-* https://cs50.harvard.edu/college/2020/fall/ well known free course for introduction to programming <br>
-* http://www.thenewboston.com/?cat=40&pOpen=tutorial <br> 
-* https://www.hackerrank.com/
-* https://www.sololearn.com/ 
-* https://www.codecademy.com/
-* https://www.khanacademy.org/ Highly recommended resource with lots of free courses in programning Computer science math english etc 
-* https://www.coursera.org/ Career development  courses paid and free  
-* https://devdocs.io/
-* https://www.w3schools.com/ web development 
-* https://github.com/ code sharing site. 
+# Getting Started in Cybersecurity and Hacking
 
-* https://www.pythonanywhere.com/
-* https://www.cs50.io
-* https://codepen.io/
- ### Python 
-* https://www.py4e.com/ or https://www.youtube.com/watch?v=8DvywoWv6fI&t=20s Python for Everybody course  by Dr.Chuck 
-* https://www.youtube.com/watch?v=b093aqAZiPU Kevin Stratvert python course 
-* https://practicepython.org  programming website using a browser ide . No need for your own compiler or IDE. 
-### Linux 
-* https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/ cheatsheet which shows the commands to many everyday useful command line tools  
-* https://tryhackme.com/ website for beginners and advanced users to teach about linux plus much more 
-* https://linuxjourney.com/ website which takes you through a hands-on step-by-step process about how to use linux 
-* https://computefreely.org/
-* https://linuxnewbieguide.org/overview-of-chapters/ 
-* https://www.makeuseof.com/tag/linux-beginners-guide/ just a basic guide about linux 
-* https://null-byte.wonderhowto.com/how-to/linux-basics/ a series of free linux basic tutorials you dont have to sign up for. Nullbytes website is full of in depth tutorials and explanations of many things in the IT and cybersecurity industries . A must have bookmark. 
-* https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/ List of 50 very Useful Linux Commands 
-* https://www.youtube.com/watch?v=U1w4T03B30I Linux for ethical hackers  
-* https://www.youtube.com/watch?v=ROjZy1WbCIA&t=3867s  FreeCodeCamp beginner crash course in Linux 
-* https://www.youtube.com/watch?v=WMy3OzvBWc0 Linux Server Course - System Configuration and Operation 
-* 
-### Networking
-* https://www.youtube.com/playlist?list=PLG49S3nxzAnksQpejrRxNZoRSo0pcKXkG Professor Messer's  Networking/network + training course -highly recommend
-* https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s Networking course by Freecodecamp and Network + prep
-* https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P Network Chuck Networking Course/CCNA training course
-### Certifications
-## Hardware
-* CompTIA A+ https://www.comptia.org/certifications/a  general hardware cert that has the most job offerings $226 USD  <br>
-https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC professor messer A+ course 
-* Apple Certified Macintosh Technician  Apple only  $150 
-## Networking
-* CompTia Network + https://www.comptia.org/certifications/network 
-* https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G Professor Messer  -free <br>
- https://www.udemy.com/course/comptia-network-n10-008/ Udemy course - paid 
-* Cisco CCNA 
-## Linux 
-* CompTIA Linux + 
-## Security - entry level 
-* CompTia Security +
-* CEH
-## Security - management level
-* CISSP
-## Penetration Testing
-* CompTia Pentest + tends to be a multiple-choice tests focusing on methodology around $300-400 to take 
-* PNPT https://certifications.tcm-sec.com/pnpt/ hands-on exam from TheCyberMentor (Heath Adams) around $300 to take around 30-100 for training depending on if you find deals. Look on LinkedIn at Heath Adams channel for deals. Note it isn't well recognized yet by hr but does teach you a lot about active directory external penetration testing and privilege escalation Students will have five (5) full days to complete the assessment and an additional two (2) days to write a professional report.
+## Introduction
 
-* EJPT 200 practical exam 
-* OSCP 1000 for the test and an additional 100-1500 dollars depending on the lab time you buy and other course packages you buy. this is considered one of the harder tests to take due to the time restraint of 24 hours to break into 5 machines and 24 hours for reporting. it is a lot more recognized by the industry. it covers a lot of ground including but not limited to external and internal web penetration testing, a in-depth understanding of Linux and Windows privilege escalation, various attack techniques, and the use of various tools and scripts. Note OSCP is harder than other exams due to tool restraints. you cant use Nessus or Metasploit or any automated vulnerability scanners. Think of it as a pentest where most of your work is done manually. it makes sure you can do things in a manual way. There will be no autopwning from Metasploit. Look into the TJ nulls list for OSCP like boxes and also check out https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707 for a list of allowed and banned tools.  
-### Pdfs 
-## Pdfs legally obtained about programming, networking,IT, Cyber Security, and Penetration Testing 
-* https://www.hackerhighschool.org/lessons.html#info1-1o    </br>
-* https://github.com/Hack-with-Github/Free-Security-eBooks    </br>
-* https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md </br>  
-Pirating will not be supported especially when so many books out there are available for free in a legal way. 
-  ### Courses                                             
- * https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md Javascript course    
- * https://academy.hoppersroppers.org/ 
- * https://academy.hackthebox.eu/ <br>
- * https://portswigger.net/ <br> 
- * https://bittentechsolutions.in/techhacker-quiz/ <br> 
- * https://www.cyberaces.org/courses.html <br>
-* https://www.springboard.com/resources/learning-paths/cybersecurity-foundations/ <br> 
-* https://www.cybrary.it/course/introduction-to-it-and-cybersecurity/ <br> 
- * https://www.futurelearn.com/courses/introduction-to-cyber-security <br> 
-* http://pentest.cryptocity.net/
-* http://www.irongeek.com/i.php?page=videos/network-sniffers-class
-* http://samsclass.info/124/124_Sum09.shtml
-* http://www.cs.ucsb.edu/~vigna/courses/cs279/
-* http://crypto.stanford.edu/cs142/
-* http://crypto.stanford.edu/cs155/
-* http://cseweb.ucsd.edu/classes/wi09/cse227/
-* http://www-inst.eecs.berkeley.edu/~cs161/sp11/
-* http://security.ucla.edu/pages/Security_Talks
-* http://www.cs.rpi.edu/academics/courses/spring10/csci4971/
-* http://cr.yp.to/2004-494.html
-* http://www.ece.cmu.edu/~dbrumley/courses/18732-f09/
-* https://noppa.tkk.fi/noppa/kurssi/t-110.6220/luennot
-* http://stuff.mit.edu/iap/2009/#websecurity
-* https://training.linuxfoundation.org/resources/?_sft_content_type=free-course
-* https://www.edx.org/course/introduction-to-linux
-                                          
-                                              
- ### Tech Youtubers and Videos 
-                                             Hacking/cybersecurity Youtubers </br>
- Hak5 https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ hacking hardware, cybersecurity news, hacking tech, and general hacking tutorials 
- The cyber mentor https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw ethical hacking, web application hacking,  hardware tutorials, tech reviewer  </br> 
- Jackktutorials https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA hacking tutorials, CTFS, Linux    </br>
- Webpwnized https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg  hacking tutorials, CTFS, Linux   </br>
- Sstec https://www.youtube.com/c/SSTecTutorials/playlists hacking tutorials ctfs and projects    </br>
- Hackhappy https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA hacking tutorials, ctfs, and Linux    </br>
- Derek rook https://www.youtube.com/c/DerekRook/videos ctfs (capture the flags)   </br>
- John Hammond https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw programming, hacking tutorials, malware analysis, CTFS, Linux, and careers   </br>
- Nullbyte https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g hacking tutorials, cybersecurity for  ethical hackers and programmers    </br>
- Computerphile https://www.youtube.com/user/Computerphile/videos  </br> 
-              programming, programming concepts, tech concepts, networking, programming and hacking, Linux  </br>
- Hackersploit https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q    </br>
-                           lots of penetration testing and web application hacking tutorials, Linux, malware analysis   </br>
- Nahamsec (https://www.youtube.com/c/Nahamsec/featured) educational hacking and bug bounty videos and career advice   </br>
- InsiderPHD —    https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A    How to get started with bug bounty hunting.  </br>
- Security Weekly —    https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg    Interviews with cybersecurity figures </br>
- STOK Https://www.stokfredrik.com/  bug bounty tutorial vulnerability analysis, hacking tools, and hacking methodology</br>
- Liveoverflow https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w lots of hacking tutorials, CTFs/writeups, HackTheBox, web programming <br> 
- 13Cubed — https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q Videos on tools, forensics, and incident response.   </br>
- IppSec — Labs and capture-the-flag tutorials, HackTheBox etc. </br>
- Computerphile — https://www.youtube.com/user/Computerphile/about Covers basic concepts and techniques. </br>
- David Bombal —      https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w    https://davidbombal.com/  Everything cybersecurity related. </br>
- SecurityNow https://twit.tv/shows/security-now https://www.youtube.com/c/securitynow Cybercrime news, hacking, and web-application security </br>
- Infosec Institute — https://www.youtube.com/user/InfoSecInstitute/videos https://www.infosecinstitute.com/ Cybersecurity awareness.   </br>
- InfoSec Live —    https://www.youtube.com/c/infoseclive         https://www.info-sec.live/  Everything  cybersecurity related from tutorials to interviews </br>
- The PC Security Channel —https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg https://thepcsecuritychannel.com/  Windows security, malware news, and tutorials. </br>
- Peter Yaworski — https://www.youtube.com/user/yaworsk1?app=desktop Web-application hacking tips and interviews  </br>
- Bugcrowd — https://www.youtube.com/c/Bugcrowd  Bug bounty methodology and interviews. </br>
- Simply Cyber — https://www.simplycyber.io/ https://www.youtube.com/c/geraldauger Helps people with cybersecurity career development, has a daily cybersecurity news video </br>
- Network Chuck https://networkchuck.com/ https://www.youtube.com/c/networkchuck all around cybersecurity and networking youtuber </br>
- BlackPerl Malware analysis, forensics and incident response  https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ </br>
- Black Hat https://www.youtube.com/c/BlackHatOfficialYT  Technical cybersecurity conferences.  </br>
- DEFCON https://www.youtube.com/user/DEFCONConference Technical Cybersecurity Conference </br>
+This guide aims to provide easy-to-access resources for individuals interested in learning more about Cybersecurity and ethical hacking, and bug bounty. Below, you will find organized links and resources related to each topic for your convenience.
 
-                                               Tech reviewers pc building consumer tech  
-
-* Barnacules nerdgasm https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ tech reviewer hardware tutorials   </br> 
-* Linus tech tips https://www.youtube.com/user/LinusTechTips hardware tutorials, tech reviewer, pc building     <br> 
-* ThioJoe https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ hardware tutorials, tech reviewer, pc building 
-
-* Elithecomputerguy https://www.youtube.com/c/Elithecomputerguypage/playlists hardware tutorials, network tutorials, hardware reviewer, hacking  tutorials, linux tutorials, website development 
-* Derek Banas https://www.youtube.com/c/derekbanas/playlists tutorials on almost every kind of programming you can imagine 
-*                                  Linux
-Switched to Linux https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw Linux tutorials and stuff Linux related <br>
-* Thelinuxgamer https://www.youtube.com/user/TheLinuxgamer Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials <br> 
-
-Joe Collins — Everything Linux related, including tutorials and guides   https://www.youtube.com/user/BadEditPro/playlists 
-
-
-* [SecurityTube](http://www.securitytube.net/) Security and hacking tutorials  
-* [Network Chuck](https://www.youtube.com/c/NetworkChuck/) Networking tutorials 
-
-*                                      Programmer Youtuber   
-                                
-* Thenewboston https://www.youtube.com/user/thenewboston    </br>
-                        programming tutorials (web development -front end and back end, python, ruby  </br>
-                        * The Net Ninja https://www.youtube.com/c/TheNetNinja/playlists <br>
-       Front-end web development  tutorials (HTML, CSS, javascript, JSON) <br>
-Back end web development (firebase, json server, react,redux, MongoDB) <br>
-* https://www.youtube.com/c/TraversyMedia/playlists <br>
-* https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w <br> 
-* https://www.youtube.com/c/Freecodecamp Extensive web dev Videos
-### Websites where you can practice hacking legally 
-* https://tryhackme.com/  highly recommend for any beginners. they have many good free tutorials. They have detailed walkthroughs for many rooms which is handy for the beginner and even for intermediate and expert students. 
-* https://www.hackthissite.org/   </br>
-* https://www.hackthebox.eu/
-*  Similar to TryHackMe in the sense it has a lot of boxes. It doesn't hold your hand as much as TryHackMe so their boxes can be a bit more challenging.
-* They do have beginner resources which are the starting point and the academy. 
-* Hackthebox may have more advanced content however fewer boxes are available for free and their boxes can be somewhat challenging. 
-* Note if one is studying for OSCP a lot of their boxes are helpful  to practice for the exam. See TJ Null's list to see which boxes you should do. https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview 
-* https://juice-shop.herokuapp.com/#/     </br>
-* https://www.vulnhub.com/  Virtual machines available for download to practice hacking free   </br> 
-* https://www.cyberseclabs.co.uk/ <br> 
-* http://www.webscantest.com/
-* http://crackme.cenzic.com/Kelev/view/home.php
-* http://zero.webappsecurity.com/banklogin.asp?serviceName=FreebankCaastAccess&templateName=prod_sel.forte&source=Freebank&AD_REFERRING_URL=http://www.Freebank.com
-* http://testaspnet.vulnweb.com/
-* http://testasp.vulnweb.com/
-* http://testphp.vulnweb.com/
-* http://demo.testfire.net/
-* http://hackme.ntobjectives.com/
-## Capture the Flag/Wargames:
-* https://overthewire.org/wargames/ 
-* http://intruded.net/
-* http://smashthestack.org/
-* http://flack.hkpco.kr/
-* http://ctf.hcesperer.org/
-* http://ictf.cs.ucsb.edu/
-* https://tryhackme.com/ See above 
-* https://ctftime.org/ 
-* http://capture.thefl.ag/calendar/ 
+## Table of Contents
+- [Getting Started](https://github.com/themixedcoder/test/blob/main/README.md#getting-started)
+- [Hacking and Security Challenges](https://github.com/themixedcoder/test/blob/main/README.md#hacking-and-security-challenges)
+- [Programming](https://github.com/themixedcoder/test/blob/main/README.md#programming)
+- [Linux](https://github.com/themixedcoder/test/blob/main/README.md#linux)
+- [Networking](https://github.com/themixedcoder/test#networking)
+- [Certifications](https://github.com/themixedcoder/test#certifications)
+- [Web Application Security](https://github.com/themixedcoder/test/blob/main/README.md#web-application-security)
+- [Cybersecurity Tools](https://github.com/themixedcoder/test/blob/main/README.md#cybersecurity-tools)
+- [Cloud Security](https://github.com/themixedcoder/test/blob/main/README.md#cloud-security)
+- [Digital Forensics](https://github.com/themixedcoder/test/blob/main/README.md#digital-forensics)
+- [Osint](https://github.com/themixedcoder/test#osint)
+- [References and Cheat sheets](https://github.com/themixedcoder/test/blob/main/README.md#references-and-cheat-sheets)
+- [Communities and Conferences](https://github.com/themixedcoder/test/blob/main/README.md#communities-and-conferences)
+- [Blogs, Wikis, Magazines, and Forums](https://github.com/themixedcoder/test/blob/main/README.md#blogs-wikis-magazines-and-forums)
+- [Security Research](https://github.com/themixedcoder/test/blob/main/README.md#security-research)
+## Getting Started 
+### Books and PDFs
+#### Legal PDFs about Programming, Networking, IT, Cybersecurity, and Penetration Testing
+- [Hacker High School](https://www.hackerhighschool.org/lessons.html#info1-1o)
+- [Free Security eBooks on GitHub](https://github.com/Hack-with-Github/Free-Security-eBooks)
+- [Free Programming eBooks on GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md)
+Please note that pirating will not be supported, as many books are available for free in a legal way.
+### Courses
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md): A JavaScript course that provides in-depth knowledge about JavaScript programming.
+- [Hoppers Roppers Academy](https://www.roppers.org/collections) Offers a collection of resources and courses related to cybersecurity and hacking.
+- [Hack The Box Academy](https://academy.hackthebox.eu/)  An educational platform by Hack The Box offering courses on various cybersecurity topics.
+- [Cyber Aces](https://www.cyberaces.org/) Offers free online cybersecurity courses.
+- [Springboard Cybersecurity Foundations](https://www.springboard.com/resources/learning-paths/cybersecurity-foundations/) A cybersecurity foundations course offered by Springboard.
+- [FutureLearn Introduction to Cybersecurity](https://www.futurelearn.com/courses/introduction-to-cyber-security)A course on introduction to cybersecurity offered on FutureLearn.
+- [Cryptocity Penetration Testing](http://pentest.cryptocity.net/)A website that provides resources and information related to penetration testing.
+- [Irongeek Network Sniffers Class](http://www.irongeek.com/i.php?page=videos/network-sniffers-class) Offers a class on network sniffers by Irongeek
+- [UCSB Computer Security](http://www.cs.ucsb.edu/~vigna/courses/cs279/)A computer security course offered by UCSB
+- [Stanford Cryptography](http://crypto.stanford.edu/cs142/)A course on cryptography from Stanford University.
+- [Stanford Network Security](http://crypto.stanford.edu/cs155/)A course on network security from Stanford University
+- [UCSD Network Security](http://cseweb.ucsd.edu/classes/wi09/cse227/)A network security course offered by UCSD
+- [Berkeley Computer Security](http://www-inst.eecs.berkeley.edu/~cs161/sp11/)A computer security course from UC Berkeley
+- [UCLA Security Talks](http://security.ucla.edu/pages/Security_Talks) Provides security talks and presentations from UCLA
+- [RPI Computer Security](http://www.cs.rpi.edu/academics/courses/spring10/csci4971/) A computer security course from Rensselaer Polytechnic Institute.
+- [Daniel Bernstein Cryptography](http://cr.yp.to/2004-494.html)Provides information on cryptography by Daniel Bernstein
+- [CMU Computer Security](http://www.ece.cmu.edu/~dbrumley/courses/18732-f09/)A computer security course from Carnegie Mellon University
+- [Aalto Network Security](https://noppa.tkk.fi/noppa/kurssi/t-110.6220/luennot)A course on network security offered by Aalto University
+- [MIT Web Security](http://stuff.mit.edu/iap/2009/#websecurity)  Web Security Course given by the MIT University
+- [edX Introduction to Linux](https://www.edx.org/course/introduction-to-linux) Intro to Linux from The Linux Foundation
+- [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
+- [Cybrary](https://www.cybrary.it/video/introduction-8/) Provides both free and paid courses on hacking and security.
+- [BreakTheSecurity](http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html) Offers free hacking tutorials and resources.
+- [Guru99](https://www.guru99.com/) Provides tutorials on programming, machine learning, cybersecurity, and more.
+- [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
+- [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
+- [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
+### Educational Channels
+#### Hacking/Cybersecurity Youtubers:
+- [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ): Hacking hardware, cybersecurity news, hacking tech, and general hacking tutorials.
+- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): Ethical hacking, web application hacking, hardware tutorials, tech reviewer.
+- [Jackktutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA): Hacking tutorials, CTFS, Linux.
+- [Webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg): Hacking tutorials, CTFS, Linux.
+- [Sstec](https://www.youtube.com/c/SSTecTutorials/playlists): Hacking tutorials, CTFS, and projects.
+- [Hackhappy](https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA): Hacking tutorials, CTFS, and Linux.
+- [Derek Rook](https://www.youtube.com/c/DerekRook/videos): CTFS (Capture the Flags).
+- [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw): Programming, hacking tutorials, malware analysis, CTFS, Linux, and careers.
+- [Nullbyte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g): Hacking tutorials, cybersecurity for ethical hackers and programmers.
+- [Computerphile](https://www.youtube.com/user/Computerphile/videos): Programming, programming concepts, tech concepts, networking, programming and hacking, Linux.
+- [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q): Penetration testing, web application hacking tutorials, Linux, malware analysis.
+- [Nahamsec](https://www.youtube.com/c/Nahamsec/featured): Educational hacking and bug bounty videos and career advice.
+- [InsiderPHD](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A): How to get started with bug bounty hunting.
+- [Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg): Interviews with cybersecurity figures.
+- [STOK](https://www.stokfredrik.com/): Bug bounty tutorials, vulnerability analysis, hacking tools, and hacking methodology.
+- [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): Hacking tutorials, CTFs/writeups, HackTheBox, web programming.
+- [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q): Videos on tools, forensics, and incident response.
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA): Labs and capture-the-flag tutorials, HackTheBox, etc.
+- [Computerphile](https://www.youtube.com/user/Computerphile/about): Covers basic concepts and techniques.
+- [David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w): Everything cybersecurity related.
+- [SecurityNow](https://twit.tv/shows/security-now): Cybercrime news, hacking, and web-application security.
+- [Infosec Institute](https://www.youtube.com/user/InfoSecInstitute/videos): Cybersecurity awareness.
+- [InfoSec Live](https://www.youtube.com/c/infoseclive): Everything cybersecurity related from tutorials to interviews.
+- [The PC Security Channel](https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg): Windows security, malware news, and tutorials.
+- [Peter Yaworski](https://www.youtube.com/user/yaworsk1?app=desktop): Web-application hacking tips and interviews.
+- [Bugcrowd](https://www.youtube.com/c/Bugcrowd): Bug bounty methodology and interviews.
+- [Simply Cyber](https://www.simplycyber.io/): Helps people with cybersecurity career development, has a daily cybersecurity news video.
+- [Network Chuck](https://networkchuck.com/): All-around cybersecurity and networking YouTuber.
+- [BlackPerl](https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ): Malware analysis, forensics, and incident response.
+- [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT): Technical cybersecurity conferences.
+- [DEFCON](https://www.youtube.com/user/DEFCONConference): Technical Cybersecurity Conference.
+#### Tech Reviewers/PC Building/Consumer Tech:
+- [Barnacules Nerdgasm](https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ): Tech reviewer, hardware tutorials.
+- [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips): Hardware tutorials, tech reviewer, PC building.
+- [ThioJoe](https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ): Hardware tutorials, tech reviewer, PC building.
+- [Elithecomputerguy](https://www.youtube.com/c/Elithecomputerguypage/playlists): Hardware tutorials, network tutorials, hardware reviewer, hacking tutorials, Linux tutorials, website development.
+- [Derek Banas](https://www.youtube.com/c/derekbanas/playlists): Tutorials on almost every kind of programming you can imagine.
+- [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw): Linux tutorials and stuff Linux related.
+- [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer): Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials.
+- [Joe Collins](https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA)Everything Linux related, including tutorials and guides [YouTube](https://www.youtube.com/user/BadEditPro/playlists).
+#### Programmer YouTubers:
+- [thenewboston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists): Front-end web development tutorials (HTML, CSS, JavaScript, JSON), back-end web development (Firebase, JSON server, React, Redux, MongoDB).
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists)
+- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Extensive web development videos
+## Hacking and Security Challenges
+### Capture the Flag (CTF) Challenges:
+- [TryHackMe](https://tryhackme.com/): Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
+- [HackThisSite](https://www.hackthissite.org/): Focuses primarily on web exploit challenges.
+- [HackTheBox](https://www.hackthebox.eu/): Virtual machines available for download to practice hacking. Offers both beginner-friendly and advanced content.
+- [Juice Shop](https://juice-shop.herokuapp.com/#/): An intentionally vulnerable web application developed by OWASP for hands-on learning of web application security.
+- [HackerOne](https://www.hackerone.com/): Web hacking challenges and bug bounty program platform.
+- [CyberSecLabs](https://www.cyberseclabs.co.uk/): An online platform offering cybersecurity challenges and labs for hands-on practice and learning.
+- [WebScanTest](http://www.webscantest.com/): A website/application that allows users to test and analyze the security of web applications through vulnerability assessments and penetration testing.
+- [CrackMe](http://crackme.cenzic.com/Kelev/view/home.php): Small programs or applications designed to test a user's reverse engineering and software cracking skills.
+### Bug Bounty Programs
+- [HackerOne](https://www.hackerone.com/)
+- [Bugcrowd](https://www.bugcrowd.com/)
+- [Synack](https://www.synack.com/)
+- [Open Bug Bounty](https://www.openbugbounty.org/)
+- [YesWeHack](https://www.yeswehack.com/)
 ### Vulnerable Software:
-* https://www.vulnhub.com/  See above 
-* http://www.oldapps.com/
-* http://www.oldversion.com/
-* http://www.exploit-db.com/webapps/
-* http://code.google.com/p/wavsep/downloads/list
-* http://www.owasp.org/index.php/Owasp_SiteGenerator
-* http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx
-* http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx
-* http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx
-* http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx
+- [VulnHub](https://www.vulnhub.com/): Virtual machines available for download to practice hacking.
+- [Exploit-DB](http://www.exploit-db.com/webapps/): Database of exploits and vulnerability information.
+- [OWASP SiteGenerator](http://www.owasp.org/index.php/Owasp_SiteGenerator): A project by OWASP that helps generate vulnerable web applications for learning and testing web application security.
+- [McAfee Hacme](http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx), [Hacme Casino](http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx), [Hacme Shipping](http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx), [Hacme Travel](http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx): Deliberately vulnerable web applications developed by McAfee for practicing security testing and identifying vulnerabilities.
+- [OldApps](http://www.oldapps.com/): Provides archived versions of software applications for compatibility or nostalgic purposes.
+- [OldVersion](http://www.oldversion.com/): Provides archived versions of software applications for compatibility or nostalgic purposes.
+### Hacking Techniques
+#### Metasploit:
+* http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training - Exploiting with the power of the Metasploit framework
+* http://www.irongeek.com/i.php?page=videos/metasploit-class - Introduction to exploitation with Metasploit
+* http://www.ethicalhacker.net/component/option,com_smf/Itemid,54/topic,6158.0/ - Hacking tutorial with Metasploit
+* http://vimeo.com/16925188 - Exploiting with Metasploit
+* http://www.ustream.tv/recorded/13396511 - Introduction to Metasploit and its usage
+* http://www.ustream.tv/recorded/13397426 - Metasploit tutorials and examples 
+* http://www.ustream.tv/recorded/13398740 - Exploiting using Metasploit
+#### Reverse Engineering & Malware:
+* http://www.woodmann.com/TiGa/idaseries.html - Tutorials on Reverse Engineering with IDA Pro
+* http://www.binary-auditing.com/ - Reversing to find vulnerabilities in binaries 
+* http://visi.kenshoto.com/ - Reverse engineering for everyone
+* http://www.radare.org/y/ - Extensive reverse engineering framework 
+* http://www.offensivecomputing.net/ - Dissection of malware for analysis 
+#### Passwords and Hashes:
+* http://www.irongeek.com/i.php?page=videos/password-exploitation-class - Security and Password exploitation class
+* http://cirt.net/passwords - Tutorials to crack passwords (hashes)
+* http://sinbadsecurity.blogspot.com/2008/10/ms-sql-server-password-recovery.html - Tutorial on cracking MS SQL server passwords
+* http://www.foofus.net/~jmk/medusa/medusa-smbnt.html - Tutorial on cracking passwords using Medusa
+* http://www.foofus.net/?page_id=63 - Tutorial on cracking hashes using Medusa
+* http://hashcrack.blogspot.com/ - Blog about cracking hashes and passwords 
+* http://www.nirsoft.net/articles/saved_password_location.html - How to find passwords and hashes in a system
+* http://www.virus.org/default-password - Default Passwords 
+* http://www.phenoelit-us.org/dpl/dpl.html - Online Hash cracker
+* http://news.electricalchemy.net/2009/10/cracking-passwords-in-cloud.html - Cloud-based Hash cracking
+*  http://nmap.org/ncrack/ - Cracking Hashes and Passwords with Ncrack
+* http://www.foofus.net/~jmk/medusa/medusa.html - Hacking tutorials using medusa
+* http://www.openwall.com/john/ - Password Cracking with John the Ripper
+* http://ophcrack.sourceforge.net/ - Tutorials on using Ophcrack
+* http://blog.0x3f.net/tool/keimpx-in-action/ - Hacking tutorials with Keimpx
+* http://code.google.com/p/keimpx/ - Detection and exploitation of SMB default credentials
+* http://sourceforge.net/projects/hashkill/ - Cracking hashes with GPU acceleration
+#### Password and hash cracking in the browser 
+* https://crackstation.net/ - Online website for hash cracking
+* http://www.onlinehashcrack.com/ - Tool for cracking various hash types
+* https://www.base64encode.org/ - Decode base64 encoded hashes
+* https://www.base64encode.net/ - Tool to decode encoded hashes
+#### Wordlists:
+* [Seclists] (https://github.com/danielmiessler/SecLists one of the most well-known sets of wordlists. Referenced in many CTFS 
+* [Korelogic](http://contest.korelogic.com/wordlists.html)
+* [PacketStorm](http://packetstormsecurity.org/Crackers/wordlists/)
+* [Skullsecurity](http://www.skullsecurity.org/wiki/index.php/Passwords)
+* [Wordbook](http://wordbook.xyz/download/)
+#### Pass the Hash:
+* http://www.sans.org/reading_room/whitepapers/testing/pass-the-hash-attacks-tools-mitigation_33283
+* http://www.sans.org/reading_room/whitepapers/testing/crack-pass-hash_33219
+* http://carnal0wnage.blogspot.com/2008/03/using-pash-hash-toolkit.html
+#### MiTM (Man in the Middle) :
+* http://www.giac.org/certified_professionals/practicals/gsec/0810.php - GIAC Security Essentials challenge exam URL.
+* http://www.linuxsecurity.com/docs/PDF/dsniff-n-mirror.pdf - dsniff & Network Mirroring Overview PDF.
+* http://www.cs.uiuc.edu/class/sp08/cs498sh/slides/dsniff.pdf - dsniff Slides PDF.
+* http://www.techvibes.com/blog/a-hackers-story-let-me-tell-you-just-how-easily-i-can-steal-your-personal-data - Hackers Story blog.
+* http://www.mindcenter.net/uploads/ECCE101.pdf - Understanding Network Attacks PDF.
+* http://toorcon.org/pres12/3.pdf - Exploiting Bluetooth Devices presentation.
+* http://media.techtarget.com/searchUnifiedCommunications/downloads/Seven_Deadliest_UC_Attacks_Ch3.pdf - 7 Deadliest UC Attacks PDF.
+* http://packetstormsecurity.org/papers/wireless/cracking-air.pdf - Cracking the Wireless Encryption PDF.
+* http://www.blackhat.com/presentations/bh-europe-03/bh-europe-03-valleri.pdf - Network Attack with Cisco IOS presentation.
+* http://www.oact.inaf.it/ws-ssri/Costa.pdf - Wireless Network Hacking PDF.
+* http://www.defcon.org/images/defcon-17/dc-17-presentations/defcon-17-sam_bowne-hijacking_web_2.0.pdf - Hijacking Web 2.0 presentation.
+* http://mcafeeseminar.com/focus/downloads/Live_Hacking.pdf - Live Hacking from McAfee PDF.
+* http://www.seanobriain.com/docs/PasstheParcel-MITMGuide.pdf - Pass The Parcel MITM Guide PDF.
+* http://www.more.net/sites/default/files/2010JohnStrandKeynote.pdf - Keynote by John Strand PDF.
+* http://www.leetupload.com/database/Misc/Papers/Asta%20la%20Vista/18.Ettercap_Spoof.pdf - Ettercap ARP Spoofing paper.
+* http://bandwidthco.com/whitepapers/netforensics/arp/EtterCap%20ARP%20Spoofing%20&%20Beyond.pdf - Ettercap ARP Spoofing & Beyond PDF.
+* http://bandwidthco.com/whitepapers/netforensics/arp/Fun%20With%20EtterCap%20Filters.pdf - Fun with Ettercap Filters PDF.
+* http://www.iac.iastate.edu/iasg/libarchive/0910/The_Magic_of_Ettercap/The_Magic_of_Ettercap.pdf - The Magic of Ettercap PDF.
+* http://articles.manugarg.com/arp_spoofing.pdf - ARP Spoofing paper.
+* http://academy.delmar.edu/Courses/ITSY2430/eBooks/Ettercap(ManInTheMiddleAttack-tool).pdf - Ettercap Man in the Middle Attack-tool PDF.
+* http://www.ucci.it/docs/ICTSecurity-2004-26.pdf - ICT Security 2004 PDF.
+* http://web.mac.com/opticrealm/iWeb/asurobot/My%20Cyber%20Attack%20Papers/My%20Cyber%20Attack%20Papers_files/ettercap_Nov_6_2005-1.pdf - Ettercap Nov 6 2005 PDF.
+* http://blog.spiderlabs.com/2010/12/thicknet.html - ThickNet blog post.
+* http://www.hackyeah.com/2010/10/ettercap-filters-with-metasploit-browser_autopwn/ - Ettercap filters with Metasploit blog post.
+* http://www.go4expert.com/forums/showthread.php?t=11842 - Ettercap forum post.
+* http://www.irongeek.com/i.php?page=security/ettercapfilter - Ettercap Filter Tutorial page.
+* http://openmaniak.com/ettercap_filter.php - Ettercap Filter Tutorial.
+* http://www.irongeek.com/i.php?page=videos/dns-spoofing-with-ettercap-pharming - DNS Spoofing with Ettercap Pharming video.
+* http://www.irongeek.com/i.php?page=videos/ettercap-plugins-find-ip-gw-discover-isolate - Ettercap Plugins video.
+* http://www.irongeek.com/i.php?page=videos/ettercapfiltervid1 - Tutorial on Ettercap Filters video.
+* http://spareclockcycles.org/2010/06/10/sergio-proxy-released/ - Release of Sergio Proxy blog post.
+#### Google Hacking and Dorking:
+* http://www.stachliu.com/index.php/resources/tools/google-hacking-diggity-project/ - Google Hacking and Dorking software
+* http://midnightresearch.com/projects/search-engine-assessment-tool/#downloads - Search engine vulnerability assessment
+* http://sqid.rubyforge.org/#next - SQL Injection Digger
+* http://voidnetwork.org/5ynL0rd/darkc0de/python_script/dorkScan.html - Python dork scanning tool
+#### Wireless:
+* http://code.google.com/p/pyrit/
+## Programming
+- [edX](https://www.edx.org/): Provides various free programming courses from universities.
+- [freeCodeCamp](https://www.freecodecamp.org/): A free website for learning web development and Python.
+- [Udemy](https://www.udemy.com/): Offers career training courses, some of which are free.
+- [Khan Academy](https://www.khanacademy.org/): Provides courses on math, English, and computer programming in a fun gamified way for free.
+- [MIT OpenCourseWare](https://ocw.mit.edu/courses/intro-programming/): Free intro to programming course released by MIT.
+- [Code.Google](http://code.google.com/edu/languages/google-python-class/index.html): Google's Python class tutorials.
+- [Swaroopch](http://www.swaroopch.com/notes/Python_en:Table_of_Contents): Python tutorials by Swaroop.
+- [TheNewBoston](http://www.thenewboston.com/?cat=40&pOpen=tutorial): Programming tutorials and resources.
+- [Hackerrank](https://www.hackerrank.com/): Coding challenges and competitions.
+- [Sololearn](https://www.sololearn.com/): Offers interactive coding lessons for various programming languages.
+- [Codecademy](https://www.codecademy.com/): Provides interactive coding lessons.
+- [Khan Academy](https://www.khanacademy.org/): Highly recommended resource with lots of free courses in programming, computer science, math, English, etc.
+- [Coursera](https://www.coursera.org/): Offers career development courses, both paid and free.
+- [DevDocs](https://devdocs.io/): Comprehensive documentation for various programming languages and technologies.
+- [W3Schools](https://www.w3schools.com/): Provides web development tutorials and references.
+- [GitHub](https://github.com/): Code sharing and collaboration platform.
+- [PythonAnywhere](https://www.pythonanywhere.com/): Online Python development and hosting platform.
+- [CS50](https://cs50.harvard.edu/college/2020/fall/): Well-known free course for introduction to programming.
+- [HackerRank](https://www.hackerrank.com/): Offers coding challenges and competitions.
+- [SoloLearn](https://www.sololearn.com/): Provides interactive coding lessons for various programming languages.
+- [Codecademy](https://www.codecademy.com/): Offers interactive coding lessons.
+- [Khan Academy](https://www.khanacademy.org/): Highly recommended resource with lots of free courses in programming, computer science, math, English, etc.
+- [Coursera](https://www.coursera.org/): Offers career development courses, both paid and free.
+- [DevDocs](https://devdocs.io/): Comprehensive documentation for various programming languages and technologies.
+- [W3Schools](https://www.w3schools.com/): Provides web development tutorials and references.
 
-   ### Websites to help you learn more about vulnerabilities 
-* https://www.shodan.io/ </br> 
-* https://www.exploit-db.com/google-hacking-database  google dorking  </br>
-* http://www.exploit-db.com/
-* http://www.cvedetails.com/
-* https://cxsecurity.com/
-* http://www.packetstormsecurity.org/
-* http://www.securityforest.com/wiki/index.php/Main_Page
-* http://www.securityfocus.com/bid
-* http://nvd.nist.gov/
-* http://osvdb.org/
-* http://www.nullbyte.org.il/Index.html
-* http://secdocs.lonerunners.net/
-* http://www.phenoelit-us.org/whatSAP/index.html
-* http://secunia.com/
-* http://cve.mitre.org/
+## Linux
 
+- [Linux Training Academy](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/): Cheat sheet for useful command-line tools.
+- [TryHackMe](https://tryhackme.com/): Website for beginners and advanced users to learn about Linux and more.
+- [Linux Journey](https://linuxjourney.com/): A hands-on step-by-step process for learning how to use Linux.
+- [Compute Freely](https://computefreely.org/): Resources for learning about Linux and open-source software.
+- [Linux Newbie Guide](https://linuxnewbieguide.org/overview-of-chapters/): Provides an overview of Linux and its features.
+- [Null Byte Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/): A series of free Linux basic tutorials.
+- [UbuntuPIT](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/): List of 50 very useful Linux commands.
+- [Linux for Ethical Hackers](https://www.youtube.com/watch?v=U1w4T03B30I): YouTube video series on Linux for ethical hackers.
+- [FreeCodeCamp Linux Crash Course](https://www.youtube.com/watch?v=ROjZy1WbCIA&t=3867s): YouTube beginner crash course in Linux.
+- [Linux Server Course](https://www.youtube.com/watch?v=WMy3OzvBWc0): YouTube course on Linux server system configuration and operation.
 
-                                  
-### Operating systems ISOs VMS virtualization 
-* [Kali Linux] https://www.kali.org  is the most common operating system  used for ethical hacking.  </br>
-Best for all levels has the most tutorials and support and the largest community. Note various cybersecurity courses assume you are utilizing Kali including offensive security and pnpt/tcm   </br> 
-* [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as Kali  </br>
-* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, a very steep learning curve but is still very powerful <br> 
-* For more info on individual Operating Systems see https://distrowatch.com/ 
- 
-  ISOS 
-* [windows 10 iso image for virtual machines]  https://www.microsoft.com/en-us/software-download/windows10 
-* [windows 8 iso image ] https://www.microsoft.com/en-us/software-download/windows8ISO 
-* [windows 7 iso image] https://www.microsoft.com/en-us/software-download/windows7 
-              Virtual machine software and virtualization 
-* [VirtualBox ] https://www.virtualbox.org/  windows mac and linux 
-* [Vmware] https://www.vmware.com/ Vmware workstation windows mac and Linux  
-* [Wine ]https://www.winehq.org/ emulator for running windows applications on Linux, macOS, & BSD (not a virtual machine) <br>
-Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on the fly, <br>
-eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop. <br> 
-### Linux references networking references  and Scripts:
+## Networking
 
-* http://en.wikipedia.org/wiki/IPv4_subnetting_reference
-* http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/
-* http://shelldorado.com/shelltips/beginner.html
-* http://www.linuxsurvival.com/
-* http://mywiki.wooledge.org/BashPitfalls
-* http://rubular.com/
-* http://www.iana.org/assignments/port-numbers
-* http://www.robvanderwoude.com/ntadmincommands.php
-* http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/ 
-                        
-                                                    
- ### Blogs                                                                                                  
-* [McGrew Security](http://www.mcgrewsecurity.com/) <br> 
-* [GNUCITIZEN](http://www.gnucitizen.org) <br> 
-* [Darknet - The Darkside](http://www.darknet.org.uk/) - [rss](http://feeds.feedburner.com/darknethackers) <br> 
-* [spylogic](http://spylogic.net/) - [rss](http://feeds2.feedburner.com/spylogic) <br> 
-* [TaoSecurity](http://taosecurity.blogspot.com/) - [atom](http://taosecurity.blogspot.com/feeds/posts/default) <br> 
-* [Room362](http://www.room362.com/) <br> 
-* [SIPVicious](http://blog.sipvicious.org/) - [rss](http://feeds.feedburner.com/Sipvicious) <br>
-* [portswigger](http://blog.portswigger.net/) <br> 
-* [pentestmonkeyblog](http://pentestmonkey.net/blog/) <br> 
-* [jeremiahgrossman](http://jeremiahgrossman.blogspot.com/) <br> 
-* [i8jesus](http://i8jesus.com/) <br> 
-* [c22](http://blog.c22.cc/) <br> 
-* [Skull Security](https://blog.skullsecurity.org/) - [rss](https://blog.skullsecurity.org/feed) <br> 
-* [metasploit](http://blog.metasploit.com/) <br> 
-* [darkoperator](http://www.darkoperator.com/) <br> 
-* [skeptikal](http://blog.skeptikal.org/) <br> 
-* [preachsecurity](http://preachsecurity.blogspot.com/) <br> 
-* [tssci-security](http://www.tssci-security.com/) <br> 
-* [gdssecurityl](http://www.gdssecurity.com/l/b/) <br> 
-* [websec](http://websec.wordpress.com/) <br> 
-* [bernardodamele](http://bernardodamele.blogspot.com/) <br> 
-* [laramies](http://laramies.blogspot.com/) <br> 
-* [andlabs](http://blog.andlabs.org/) <br> 
-* [xs-sniperblog](http://xs-sniper.com/blog/)<br> 
-* [commonexploits](http://www.commonexploits.com/) <br> 
-* [sensepostblog](http://www.sensepost.com/blog/) <br> 
-* [wepma](http://wepma.blogspot.com/) <br> 
-* [Exploit KB](http://exploit.co.il/) - [rss](http://exploit.co.il/feed/) <br> 
-* [securityreliks](http://securityreliks.wordpress.com/) <br> 
-* [Mad Irish](http://www.madirish.net/) - [rss](http://www.madirish.net/rss.php) <br> 
-* [sirdarckcat](http://sirdarckcat.blogspot.com/) <br> 
-* [reusablesec](http://reusablesec.blogspot.com/)
-* [myne-us](http://myne-us.blogspot.com/)
-* [notsosecure](http://www.notsosecure.com/)
-* [spiderlabs](http://blog.spiderlabs.com/)
-* [corelan](http://www.corelan.be/)
-* [DigiNinja](https://digi.ninja/) - [rss](https://digi.ninja/rss.xml)
-* [pauldotcom](http://www.pauldotcom.com/)
-* [attackvector](http://www.attackvector.org/)
-* [deviating](http://deviating.net/)
-* [alphaonelabs](http://www.alphaonelabs.com/)
-* [smashingpasswords](http://www.smashingpasswords.com/)
-* [wirewatcher](http://wirewatcher.wordpress.com/) <br>
-* [gynvael](http://gynvael.coldwind.pl/) <br> 
-* [nullthreat](http://www.nullthreat.net/) <br> 
-* [question-defense](http://www.question-defense.com/) <br> 
-* [archangelamael](http://archangelamael.blogspot.com/) <br> 
-* [memset](http://memset.wordpress.com/) <br> 
-* [sickness](http://sickness.tor.hu/) <br> 
-* [punter-infosec](http://punter-infosec.com/) <br> 
-* [securityninja](http://www.securityninja.co.uk/) <br> 
-* [securityandrisk](http://securityandrisk.blogspot.com/) <br> 
-* [pentestit](http://www.pentestit.com/) <br> 
-* [Carnal 0wnage](http://carnal0wnage.attackresearch.com/) 
-* [atom](http://carnal0wnage.attackresearch.com/feeds/posts/default) <br> 
-* Dfir blog(https://dfir.blog/) Digital forensics, web browsers, visualizations, & open source tools </br>
-  ### Forums:
+- [Professor Messer's Network+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnksQpejrRxNZoRSo0pcKXkG): Highly recommended network+ training course on YouTube.
+- [FreeCodeCamp Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s): Networking course by freeCodeCamp and Network+ preparation.
+- [Network Chuck Networking Course/CCNA Training](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P): Networking course by Network Chuck/CCNA training course.
 
+## Certifications
+
+### Hardware
+
+- [CompTIA A+](https://www.comptia.org/certifications/a): General hardware certification with a wide range of job offerings.
+- [Professor Messer A+ Course](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC): YouTube course by Professor Messer on A+ certification.
+- Apple Certified Macintosh Technician: Apple-specific hardware certification.
+
+### Networking
+
+- [CompTIA Network+](https://www.comptia.org/certifications/network): Networking certification.
+- [Professor Messer Network+ Course](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G): Free YouTube course by Professor Messer on Network+ certification.
+- [Udemy Network+ Course](https://www.udemy.com/course/comptia-network-n10-008/): Paid course on Udemy for Network+ certification.
+
+### Linux
+
+- CompTIA Linux+ Certification: Linux certification.
+
+### Security - Entry Level
+
+- CompTIA Security+: Entry-level security certification.
+- CEH: Certified Ethical Hacker certification.
+
+### Security - Management Level
+
+- CISSP: Certified Information Systems Security Professional.
+
+### Penetration Testing
+
+- CompTIA PenTest+: Certification focusing on penetration testing methodology.
+- PNPT: Hands-on exam from TheCyberMentor (Heath Adams) covering active directory external penetration testing and privilege escalation.
+- EJPT: Practical exam for penetration testing.
+- OSCP: Highly recognized penetration testing certification with a focus on manual testing techniques.
+
+## Web Application Security
+
+### Exploitation Frameworks and Tools
+
+- [BeEF](http://www.bindshell.net/tools/beef) - Browser Exploitation Framework
+- [BlindElephant](http://blindelephant.sourceforge.net/) - Scanner for known vulnerable web apps
+- [XSSer](http://xsser.sourceforge.net/) - Cross-site Scripting attack tool
+- [RIPS Scanner](http://sourceforge.net/projects/rips-scanner/) - Scanner for vulnerable PHP apps
+- [Authforce](http://www.divineinvasion.net/authforce/) - Password cracking tool
+- [Software Exploitation Toolkit](http://andlabs.org/tools.html#sotf) - Software exploitation toolkit
+- [Browser Attack Guide](http://www.taddong.com/docs/Browser_Exploitation_for_Fun&Profit_Taddong-RaulSiles_Nov2010_v1.1.pdf) - Browser attack guide
+- [SQL Injection Digger](http://carnal0wnage.blogspot.com/2007/07/using-sqid-sql-injection-digger-to-look.html) - SQL Injection Digger search guide
+- [Pinata CSRF Tool](http://code.google.com/p/pinata-csrf-tool/) - Cross-Site Request Forgery exploration and exploitation tool
+- [XSSer Introduction](http://xsser.sourceforge.net/#intro) - Cross-site Scripting attack tool
+- [Clickjacking Attack Tool](http://www.contextis.co.uk/resources/tools/clickjacking-tool/) - Clickjacking attack tool
+- [Unicode Exploitation Guide](http://packetstormsecurity.org/files/view/69896/unicode-fun.txt) - Unicode exploitation guide
+- [Web Security Testing Framework](http://sourceforge.net/projects/ws-attacker/files/) - Web security testing framework
+- [Squid Imposter](https://github.com/koto/squid-imposter) - SSL impostering for MITM attacks
+
+### SQL Injection (SQLi)
+
+A vulnerability that permits attackers to manipulate SQL queries to gain unauthorized access, modify, or retrieve sensitive data from a database.
+
+- [MSSQL SQL Injection Cheat Sheet](http://pentestmonkey.net/blog/mssql-sql-injection-cheat-sheet/)
+- [SANS Diary: SQL Injection](http://isc.sans.edu/diary.html?storyid=9397)
+- [SQL Injection Cheatsheet by Ferruh Mavituna](http://ferruh.mavituna.com/sql-injection-cheatsheet-oku/)
+- [EvilSQL](http://www.evilsql.com/main/index.php)
+- [Full MSSQL Injection Pwnage](http://xd-blog.com.ar/descargas/manuales/bugs/full-mssql-injection-pwnage.html)
+- [The Complete Guide to SQL Injections](http://securityoverride.com/articles.php?article_id=1&article=The_Complete_Guide_to_SQL_Injections)
+- [Exploiting Hard Filtered SQL Injections](http://websec.wordpress.com/2010/03/19/exploiting-hard-filtered-sql-injections/)
+- [SQL Injection at SQLZoo](http://sqlzoo.net/hack/)
+- [SQL Server Versions](http://www.sqlteam.com/article/sql-server-versions)
+- [Krazl's Blog: SQL Injection](http://www.krazl.com/blog/?p=3)
+- [Testing for MS Access](http://www.owasp.org/index.php/Testing_for_MS_Access)
+- [Penetration Test - May 2003](http://web.archive.org/web/20101112061524/http://seclists.org/pen-test/2003/May/0074.html)
+- [MS Access SQL Injection Cheat Sheet](http://web.archive.org/web/20080822123152/http://www.webapptest.org/ms-access-sql-injection-cheat-sheet-EN.html)
+- [SQL Injection Video Tutorial](http://www.youtube.com/watch?v=WkHkryIoLD0)
+- [Advanced SQL Injection Presentation](http://layerone.info/archives/2009/Joe%20McCray%20-%20Advanced%20SQL%20Injection%20-%20L1%202009.pdf)
+- [SQL Injection - The Bigger Picture](http://vimeo.com/3418947)
+- [Hacking Websites with SQL Injection](http://sla.ckers.org/forum/read.php?24,33903)
+- [SQL Injection 2.0](http://websec.files.wordpress.com/2010/11/sqli2.pdf)
+- [MySQL Injection Cheat Sheet](http://old.justinshattuck.com/2007/01/18/mysql-injection-cheat-sheet/)
+- [SQL Injection by Ha.ckers](http://ha.ckers.org/sqlinjection/)
+- [MSSQL Injection from Layerone](http://lab.mediaservice.net/notes_more.php?id=MSSQL)
+
+### Upload Tricks
+
+Upload web vulnerabilities refer to security flaws that allow malicious users to upload and execute unauthorized files, potentially leading to server compromise or unauthorized access to the system.
+
+- [Bypassing Upload File Type](http://www.google.com/#hl=en&q=bypassing+upload+file+type&start=40&sa=N&fp=a2bb30ecf4f91972)
+- [Adobe Responds (Sort of)](http://blog.skeptikal.org/2009/11/adobe-responds-sort-of.html)
+- [Secure File Upload in PHP Web Applications](http://blog.insicdesigns.com/2009/01/secure-file-upload-in-php-web-applications/)
+- [Stupid .htaccess Tricks](http://perishablepress.com/press/2006/01/10/stupid-htaccess-tricks/)
+- [Tricks & Tips: Bypassing Image Uploaders](http://ex.ploit.net/f20/tricks-tips-bypassing-image-uploaders-t3hmadhatt3r-38/)
+- [Raven PHP Scripts: File Upload Vulnerability](http://www.ravenphpscripts.com/article2974.html)
+- [Cross-site Scripting Scanner](http://www.acunetix.com/cross-site-scripting/scanner.htm)
+- [VUPEN Advisory on Upload Security](http://www.vupen.com/english/advisories/2009/3634)
+- [Microsoft Security Advisory: File Upload](http://msdn.microsoft.com/en-us/library/aa478971.aspx)
+- [TangoCMS Issue 237](http://dev.tangocms.org/issues/237)
+- [Full Disclosure - Jun 2006](http://seclists.org/fulldisclosure/2006/Jun/508)
+- [Cross-Site File Upload Attacks](http://www.gnucitizen.org/blog/cross-site-file-upload-attacks/)
+- [File Upload Security](http://shsc.info/FileUploadSecurity)
+- [TikiWiki Script File Upload Security Bypass Vulnerability](http://www.ipolicynetworks.com/technology/files/TikiWiki_jhot.php_Script_File_Upload_Security_Bypass_Vulnerability.html)
+
+### LFI/RFI (Local File Inclusion/Remote File Inclusion)
+
+Allows an attacker to include files from the target system or remote servers, potentially leading to unauthorized access or code execution.
+
+- [Online Source Code for LFI/RFI Vulnerability](http://pastie.org/840199)
+- [Exploring PHP File Inclusion Vulnerabilities](http://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
+- [Executing Remote Root on LFI](http://www.notsosecure.com/folder2/2010/08/20/lfi-code-exec-remote-root/?utm_source=twitterfeed&utm_medium=twitter)
+- [Tips and Tricks for LFI](http://labs.neohapsis.com/2008/07/21/local-file-inclusion-%E2%80%93-tricks-of-the-trade/)
+- [Understanding File-access Denial Exploits](http://www.digininja.org/blog/when_all_you_can_do_is_read.php)
+
+### XSS (Cross-site Scripting)
+
+An attack where malicious scripts are injected into web pages, affecting users who visit the page and potentially stealing their data or taking control of their accounts.
+
+- [Cross-site Scripting Tutorial](http://www.infosecwriters.com/hhworld/hh8/csstut.htm)
+- [Basic Tutorial on XSS](http://www.technicalinfo.net/papers/CSS.html)
+- [Exploiting Maliciously Crafted URLs](http://msmvps.com/blogs/alunj/archive/2010/07/07/1773441.aspx)
+- [Comprehensive Guide to XSS Attack and Defense](http://forum.intern0t.net/web-hacking-war-games/112-cross-site-scripting-attack-defense-guide.html)
+- [IE8 XSS Filters Presentation](https://media.blackhat.com/bh-eu-10/presentations/Lindsay_Nava/BlackHat-EU-2010-Lindsay-Nava-IE8-XSS-Filters-slides.pdf)
+- [Favorite XSS Filters and How to Attack Them](http://sirdarckcat.blogspot.com/2009/08/our-favorite-xss-filters-and-how-to.html)
+- [Filter Evasion Houdini on the Wire](http://www.securityaegis.com/filter-evasion-houdini-on-the-wire/)
+- [Javascript-based XSS Cheat Sheet](http://heideri.ch/jso/#javascript)
+- [Subreddit for XSS](http://www.reddit.com/r/xss/)
+- [XSS Discussions](http://sla.ckers.org/forum/list.php?2)
+
+### Metasploit
+
+- [Reverse Pivots with Metasploit: How Not to get Caught](http://www.indepthdefense.com/2009/02/reverse-pivots-with-metasploit-how-not.html)
+- [WmapNikto - Metasploit](http://code.google.com/p/msf-hack/wiki/WmapNikto)
+- [Metasploit Visual Basic Payloads](http://www.indepthdefense.com/2009/01/metasploit-visual-basic-payloads-in.html)
+- [Metasploit Mailing List](http://seclists.org/metasploit/)
+- [Nessus Scanning through a Metasploit Console](http://pauldotcom.com/2010/03/nessus-scanning-through-a-meta.html)
+- [Meterpreter](http://meterpreter.illegalguy.hostzi.com/)
+- [Automating Metasploit Console](http://blog.metasploit.com/2010/03/automating-metasploit-console.html)
+- [Metasploit Cheat Sheet](http://www.workrobot.com/sansfire2009/561.html)
+- [Metasploit Video Tutorial](http://www.securitytube.net/video/711)
+- [Meterpreter Client](http://en.wikibooks.org/wiki/Metasploit/MeterpreterClient#download)
+- [Metasploit - Attacking the Core](http://vimeo.com/16852783)
+- [XLSInjector](http://milo2012.wordpress.com/2009/09/27/xlsinjector/)
+- [Fast and Easy Hacking with Metasploit](http://www.fastandeasyhacking.com/)
+- [Trac - Happypacket](http://trac.happypacket.net/)
+- [Neurosurgery with Meterpreter](http://www.blackhat.com/presentations/bh-dc-10/Ames_Colin/BlackHat-DC-2010-colin-david-neurosurgery-with-meterpreter-wp.pdf)
+- [Egypt UAV Slides](http://www.blackhat.com/presentations/bh-dc-10/Egypt/BlackHat-DC-2010-Egypt-UAV-slides.pdf)
+
+### Metadata
+
+- [Document Metadata: The Silent Killer](http://www.sans.org/reading_room/whitepapers/privacy/document-metadata-silent-killer_32974)
+- [Strikeout](http://lcamtuf.coredump.cx/strikeout/)
+- [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
+- [Metagoofil](http://www.edge-security.com/metagoofil.php)
+- [Metadata Enumeration with FOCA](http://www.darkoperator.com/blog/2009/4/24/metadata-enumeration-with-foca.html)
+
+### OSINT (Open-source Intelligence)
+
+- [theHarvester](http://www.edge-security.com/theHarvester.php)
+- [DNSTracer](http://www.mavetju.org/unix/dnstracer-man.php)
+- [Paterva Maltego](http://www.paterva.com/web5/)
+
+### Shells
+- [Yokoso](http://sourceforge.net/projects/yokoso/)
+- [AjaxShell](http://sourceforge.net/projects/ajaxshell/)
+### Attack Strings
+- [FuzzDB](http://code.google.com/p/fuzzdb/)
+- [OWASP Fuzzing Code Database](http://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database#tab=Statements)
+
+### Scanners
+
+- [w3af](http://w3af.sourceforge.net/) - Open-source web application security scanner.
+- [Skipfish](http://code.google.com/p/skipfish/) - Automated web application security audit tool.
+- [sqlmap](http://sqlmap.sourceforge.net/) - Automated SQL injection and database takeover tool.
+- [SQID](http://sqid.rubyforge.org/#next) - Web application security library.
+- [Cross-Site Scripting Scanner](http://packetstormsecurity.org/UNIX/scanners/XSSscan.py.txt)
+- [Unauthorized Web Server Access Scanner](http://code.google.com/p/fimap/wiki/WindowsAttack)
+- [Web Vulnerability Scanner](http://code.google.com/p/fm-fsf/)
+- [Burp Suite](http://www.portswigger.net/burp/) - Web vulnerability scanner and testing tool.
+- [Belch](http://sourceforge.net/projects/belch/files/) - Web vulnerability scanner.
+- [Burp Intruder: Fuzzing Approach to Credentials Discovery](http://www.sans.org/reading_room/whitepapers/testing/fuzzing-approach-credentials-discovery-burp-intruder_33214)
+- [Constricting the Web: The GDS Burp API](http://www.gdssecurity.com/l/b/2010/08/10/constricting-the-web-the-gds-burp-api/)
+
+### Net Scanners and Scripts
+
+- [Nmap](http://nmap.org/) - Network mapping and port scanning tool
+- [SambaScan2](http://asturio.gmxhome.de/software/sambascan2/i.html) - Windows-based shell script for discovering LanMan/NTLM authentication information
+- [SoftPerfect Network Scanner](http://www.softperfect.com/products/networkscanner/) - Network scanner tool
+- [OpenVAS](http://www.openvas.org/) - Vulnerability scanner and management
+- [Nessus](http://tenable.com/products/nessus) - Vulnerability scanner and management
+- [Rapid7 Vulnerability Scanner](http://www.rapid7.com/vulnerability-scanner.jsp) - Vulnerability scanner and management
+- [Retina Community](http://www.eeye.com/products/retina/community) - Vulnerability scanner
+ ## Content Management System (CMS) Hacking
+
+Content Management Systems (CMS) are popular platforms used to manage, create, and modify digital content on websites and web applications. While they provide convenience and flexibility, improper configuration and vulnerabilities can lead to security risks. Ethical hacking (penetration testing) of CMSs is essential to identify weaknesses and implement robust security measures. However, it is crucial to obtain proper authorization before conducting any testing. Here's an overview of popular CMS platforms and resources for ethical hacking:
+
+### WordPress:
+
+-   **WordPress**: A widely used open-source CMS for websites and blogs.
+-   **WPScan**: WordPress vulnerability scanner.
+-   **WordPress Security Codex**: Official security guide by WordPress.
+-   **OWASP WordPress Security Implementation Guideline**: OWASP WordPress Security Cheat Sheet.
+
+### Drupal:
+
+-   **Drupal**: An open-source CMS known for flexibility and scalability.
+-   **Drupal Security**: Official security page for Drupal with advisories.
+-   **Drupal Security Best Practices**: Drupal's documentation on security best practices.
+
+### ColdFusion:
+
+-   **ColdFusion Directory Traversal FAQ (CVE-2010-2861)**: Information about ColdFusion vulnerability.
+-   **Attacking ColdFusion**: Insights into attacking ColdFusion applications.
+-   **Hacking ColdFusion**: Techniques for exploiting ColdFusion security flaws.
+-   **Adobe ColdFusion's Directory Traversal Disaster**: Case study on ColdFusion's security issue.
+-   **HackProofing ColdFusion**: Presentation on securing ColdFusion applications.
+
+### Joomla:
+
+-   **Joomla**: A popular open-source CMS with extensibility features.
+-   **Joomla Security**: Security checklist and guidelines from Joomla.
+
+### Magento:
+
+-   **Magento**: An e-commerce focused open-source CMS.
+-   **Magento Security Best Practices**: Security best practices from Magento.
+
+### Shopify:
+
+-   **Shopify**: A hosted CMS for e-commerce solutions.
+-   **Shopify Security**: Security measures and guidelines provided by Shopify.
+
+### Wix:
+
+-   **Wix**: Cloud-based website builder with drag-and-drop tools.
+-   **Wix Security**: Wix's security measures and policies.
+
+### Squarespace:
+
+-   **Squarespace**: A website builder with visually appealing templates.
+-   **Squarespace Security**: Security practices and protocols from Squarespace.
+
+### Typo3:
+
+-   **Typo3**: An enterprise-level open-source CMS known for scalability.
+-   **Typo3 Security**: Typo3 security guide.
+
+### Umbraco:
+
+-   **Umbraco**: An open-source CMS based on Microsoft's ASP.NET framework.
+-   **Umbraco Security**: Security information and guidelines from Umbraco.
+
+### Ghost:
+
+-   **Ghost**: A CMS designed for bloggers and writers.
+-   **Ghost Security**: Security concepts and practices for Ghost.
+
+## Cybersecurity Tools
+## Cloud Security
+## Digital Forensics
+## Osint 
+OSINT (Open Source Intelligence) -The practice of collecting information from published or otherwise publicly available sources 
+### People and Organizational
+* http://www.spokeo.com/ - locate people using online search 
+* http://www.123people.com/ - search engine for people 
+* http://www.xing.com/ - online networking platform 
+* http://www.zoominfo.com/search - business information search 
+* http://pipl.com/ - search engine mainly for people  
+* http://www.zabasearch.com/ - people and business search engine 
+* http://www.searchbug.com/default.aspx - Contact and services search engine  
+* http://theultimates.com/ - people and business search 
+* http://skipease.com/ - public records search 
+* http://addictomatic.com/ - search topics and key phrases 
+* http://socialmention.com/ - see how often a phrase is mentioned 
+* http://entitycube.research.microsoft.com/ - link entities to other sources  
+* http://www.yasni.com/ - search engine of people and business 
+* http://tweepz.com/ - search and find Twitter profiles 
+* http://tweepsearch.com/ - Tweet search engine 
+* http://www.glassdoor.com/index.htm - search for employers and salaries 
+* http://www.jigsaw.com/ - Business information exchange 
+* http://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp - public trading and financial documents 
+* http://www.tineye.com/ - search for images 
+* http://www.peekyou.com/ - online people search 
+* http://picfog.com/ - search engine for images 
+* http://twapperkeeper.com/index.php - Twitter archival search
+### Infrastructure:
+* https://searchdns.netcraft.com/ - DNS lookup provider
+* https://securityheaders.com/ - Secure HTTP response headers scanner
+* http://uptime.netcraft.com/ - Website uptime checking
+* http://www.serversniff.net/ - Website information checker
+* http://www.domaintools.com/ - Domain information provider
+* http://centralops.net/co/ - DNS and IP information lookup
+* http://hackerfantastic.com/ - Website security scanning
+* http://whois.webhosting.info/ - WHOIS lookup tool
+* https://www.ssllabs.com/ssldb/analyze.html - SSL security assessment
+* http://www.clez.net/ - IP address intelligence
+* http://www.my-ip-neighbors.com/ - IP relationships explorer
+* https://www.shodan.io/ - IoT device search engine
+* http://www.exploit-db.com/google-dorks/ - Vulnerability search engine
+* http://www.hackersforcharity.org/ghdb/ - Security knowledgebase
+## Operating systems 
+* [Kali Linux](https://www.kali.org) is the most common operating system used for ethical hacking. 
+  Best for all levels has the most tutorials and support and the largest community. Note various cybersecurity courses assume you are utilizing Kali including offensive security and pnpt/tcm
+* [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as Kali 
+* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, a very steep learning curve but is still very powerful
+* For more info on individual Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
+
+### ISOS
+* [Windows 10 iso image](https://www.microsoft.com/en-us/software-download/windows10)
+* [Windows 8 iso image](https://www.microsoft.com/en-us/software-download/windows8ISO)
+* [Windows 7 iso image](https://www.microsoft.com/en-us/software-download/windows7)
+
+### Virtual machine software and virtualization
+* [VirtualBox](https://www.virtualbox.org/) windows mac and linux
+* [Vmware](https://www.vmware.com/) Vmware workstation windows mac and Linux
+* [Wine](https://www.winehq.org/) emulator for running windows applications on Linux, macOS, & BSD (not a virtual machine) 
+  Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on the fly,
+  eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
+
+## References and Cheat sheets:
+* [http://en.wikipedia.org/wiki/IPv4_subnetting_reference](http://en.wikipedia.org/wiki/IPv4_subnetting_reference)
+* [http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/](http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/)
+* [http://shelldorado.com/shelltips/beginner.html](http://shelldorado.com/shelltips/beginner.html)
+* [http://www.linuxsurvival.com/](http://www.linuxsurvival.com/)
+* [http://mywiki.wooledge.org/BashPitfalls](http://mywiki.wooledge.org/BashPitfalls)
+* [http://rubular.com/](http://rubular.com/)
+* [http://www.iana.org/assignments/port-numbers](http://www.iana.org/assignments/port-numbers)
+* [http://www.robvanderwoude.com/ntadmincommands.php](http://www.robvanderwoude.com/ntadmincommands.php)
+* [http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/](http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/)
+*  http://cirt.net/ports_dl.php?export=services - Lists of port services definitions
+* http://www.cheat-sheets.org/ - Compilation of cheatsheets for a variety of topics
+* http://blog.securitymonks.com/2009/08/15/whats-in-your-folder-security-cheat-sheets/ - Collection of security-related cheatsheets
+## Communities and Conferences:
+* [Defcon](https://www.defcon.org/)  one of the largest worldwide Hacking conferences  in the world  
+* [Blackhat](https://blackhat.com/)  large worldwide conference all over the globe 
+* [RSA Conference](https://www.rsaconference.com/) The RSA Conference is an annual event focused on helping improve cybersecurity awareness and cybersecurity culture in companies, and similarly expanding this knowledge in individuals across the globe. 
+
+* [Calendar for Information Security Conferences](https://www.google.com/calendar/embed?src=pe2ikdbe6b841od6e26ato0asc@group.calendar.google.com&gsessionid=OK)
+## Blogs, Wikis, Magazines, and Forums
+### Blogs
+* [McGrew Security](http://www.mcgrewsecurity.com/)
+* [GNUCITIZEN](http://www.gnucitizen.org)
+* [Darknet - The Darkside](http://www.darknet.org.uk/)
+### Forums:
 Created for forums that will help in both tool usage, syntax, attack techniques, and collection of scripts and tools.
-
 * [EH-Net Forums](https://www.ethicalhacker.net/forums/index.php)
 * [Hak5 Forums](https://forums.hak5.org/)
 * [Kali Linux Forums](https://forums.kali.org/)
@@ -354,502 +605,31 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [Hackthissite Forums](http://www.hackthissite.org/forums/index.php)
 * [Security Override Forums](http://securityoverride.com/forum/index.php)
 * [Government Security](http://www.governmentsecurity.org/forum/)
-
-## Wikis
+### Wikis
 * [Pwn Wiki](http://pwnwiki.io/)
 * [Skull Security](https://wiki.skullsecurity.org/)
 * [BlindSeeker Wiki](https://www.blindseeker.com)
 * [SQL Injection Wiki](http://www.sqlinjectionwiki.com/)
 * [Forgotten Security's CTF Wiki](http://ctf.forgottensec.com/wiki/index.php)
-
 ### Magazines:
-
 * [(In)Secure Magazine](http://www.net-security.org/insecuremag.php)
 * [Hackin9](http://hakin9.org/)
 
-## Methodologies:
-
-* [Penetration Testing Framework](http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html)
-* [The Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page)
-* [The WASC Threat Classification](http://projects.webappsec.org/w/page/13246978/Threat-Classification)
-* [OWASP Top Ten Project](http://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
-* [The Social Engineering Framework](http://www.social-engineer.org/framework/general-discussion/)
-
-
-## OSINT (Open Source Intelligence) -The practice of collecting information from published or otherwise publicly available sources 
-
-### People and Organizational:
-
-* http://www.spokeo.com/
-* http://www.123people.com/
-* http://www.xing.com/
-* http://www.zoominfo.com/search
-* http://pipl.com/
-* http://www.zabasearch.com/
-* http://www.searchbug.com/default.aspx
-* http://theultimates.com/
-* http://skipease.com/
-* http://addictomatic.com/
-* http://socialmention.com/
-* http://entitycube.research.microsoft.com/
-* http://www.yasni.com/
-* http://tweepz.com/
-* http://tweepsearch.com/
-* http://www.glassdoor.com/index.htm
-* http://www.jigsaw.com/
-* http://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp
-* http://www.tineye.com/
-* http://www.peekyou.com/
-* http://picfog.com/
-* http://twapperkeeper.com/index.php
-
-### Infrastructure:
-* https://searchdns.netcraft.com/
-* https://securityheaders.com/
-* http://uptime.netcraft.com/
-* http://www.serversniff.net/
-* http://www.domaintools.com/
-* http://centralops.net/co/
-* http://hackerfantastic.com/
-* http://whois.webhosting.info/
-* https://www.ssllabs.com/ssldb/analyze.html
-* http://www.clez.net/
-* http://www.my-ip-neighbors.com/
-* https://www.shodan.io/
-* http://www.exploit-db.com/google-dorks/
-* http://www.hackersforcharity.org/ghdb/
-
-----
-
-## Cheatsheets and Syntax:
-
-* http://cirt.net/ports_dl.php?export=services
-* http://www.cheat-sheets.org/
-* http://blog.securitymonks.com/2009/08/15/whats-in-your-folder-security-cheat-sheets/
-
-### Agile Hacking:
-
-* http://www.gnucitizen.org/blog/agile-hacking-a-homegrown-telnet-based-portscanner/
-* http://blog.commandlinekungfu.com/
-* http://www.securityaegis.com/simple-yet-effective-directory-bruteforcing/
-* http://isc.sans.edu/diary.html?storyid=2376
-* http://isc.sans.edu/diary.html?storyid=1229
-* http://ss64.com/nt/
-* http://pauldotcom.com/2010/02/running-a-command-on-every-mac.html
-* http://synjunkie.blogspot.com/2008/03/command-line-ninjitsu.html
-* http://www.zonbi.org/2010/06/09/wmic-the-other-other-white-meat/
-* http://rstcenter.com/forum/22324-hacking-without-tools-windows.rst
-* http://www.coresecurity.com/files/attachments/Core_Define_and_Win_Cmd_Line.pdf
-* http://www.scribd.com/Penetration-Testing-Ninjitsu2-Infrastructure-and-Netcat-without-Netcat/d/3064507
-* http://www.pentesterscripting.com/
-* http://www.sans.org/reading_room/whitepapers/hackers/windows-script-host-hack-windows_33583
-* http://www.blackhat.com/presentations/bh-dc-10/Bannedit/BlackHat-DC-2010-Bannedit-Advanced-Command-Injection-Exploitation-1-wp.pdf
-
-### Tools:
-* https://www.kali.org/tools/ 
-* http://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf
-* http://www.secguru.com/files/cheatsheet/nessusNMAPcheatSheet.pdf
-* http://sbdtools.googlecode.com/files/hping3_cheatsheet_v1.0-ENG.pdf
-* http://sbdtools.googlecode.com/files/Nmap5%20cheatsheet%20eng%20v1.pdf
-* http://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
-* http://rmccurdy.com/scripts/Metasploit%20meterpreter%20cheat%20sheet%20reference.html
-* http://h.ackack.net/cheat-sheets/netcat
-
-## Exploitation:
-
-* http://myne-us.blogspot.com/2010/08/from-0x90-to-0x4c454554-journey-into.html
-* http://www.mgraziano.info/docs/stsi2010.pdf
-* http://www.abysssec.com/blog/2010/05/past-present-future-of-windows-exploitation/
-* http://www.ethicalhacker.net/content/view/122/2/
-* http://code.google.com/p/it-sec-catalog/wiki/Exploitation
-* http://x9090.blogspot.com/2010/03/tutorial-exploit-writting-tutorial-from.html
-* http://ref.x86asm.net/index.html
-
-----
-## Reverse Engineering & Malware:
-
-* http://www.woodmann.com/TiGa/idaseries.html
-* http://www.binary-auditing.com/
-* http://visi.kenshoto.com/
-* http://www.radare.org/y/
-* http://www.offensivecomputing.net/
-
-## Passwords and Hashes:
-
-* http://www.irongeek.com/i.php?page=videos/password-exploitation-class
-* http://cirt.net/passwords
-* http://sinbadsecurity.blogspot.com/2008/10/ms-sql-server-password-recovery.html
-* http://www.foofus.net/~jmk/medusa/medusa-smbnt.html
-* http://www.foofus.net/?page_id=63
-* http://hashcrack.blogspot.com/
-* http://www.nirsoft.net/articles/saved_password_location.html
-* http://www.md5this.com/list.php?
-* http://www.virus.org/default-password
-* http://www.phenoelit-us.org/dpl/dpl.html
-* http://news.electricalchemy.net/2009/10/cracking-passwords-in-cloud.html
-## Password and hash cracking in browser 
-* https://crackstation.net/
-* http://www.onlinehashcrack.com/
-* https://www.base64encode.org/
-* https://www.base64encode.net/
-### Wordlists:
-* [Seclists] (https://github.com/danielmiessler/SecLists) one of the most well known set of wordlists. Referenced in many ctfs 
-* [Korelogic](http://contest.korelogic.com/wordlists.html)
-* [PacketStorm](http://packetstormsecurity.org/Crackers/wordlists/)
-* [Skullsecurity](http://www.skullsecurity.org/wiki/index.php/Passwords)
-* [Wordbook](http://wordbook.xyz/download/)
-
-### Pass the Hash:
-* http://www.sans.org/reading_room/whitepapers/testing/pass-the-hash-attacks-tools-mitigation_33283
-* http://www.sans.org/reading_room/whitepapers/testing/crack-pass-hash_33219
-* http://carnal0wnage.blogspot.com/2008/03/using-pash-hash-toolkit.html
-
-----
-## MiTM (Man in the Middle) :
-
-* http://www.giac.org/certified_professionals/practicals/gsec/0810.php
-* http://www.linuxsecurity.com/docs/PDF/dsniff-n-mirror.pdf
-* http://www.cs.uiuc.edu/class/sp08/cs498sh/slides/dsniff.pdf
-* http://www.techvibes.com/blog/a-hackers-story-let-me-tell-you-just-how-easily-i-can-steal-your-personal-data
-* http://www.mindcenter.net/uploads/ECCE101.pdf
-* http://toorcon.org/pres12/3.pdf
-* http://media.techtarget.com/searchUnifiedCommunications/downloads/Seven_Deadliest_UC_Attacks_Ch3.pdf
-* http://packetstormsecurity.org/papers/wireless/cracking-air.pdf
-* http://www.blackhat.com/presentations/bh-europe-03/bh-europe-03-valleri.pdf
-* http://www.oact.inaf.it/ws-ssri/Costa.pdf
-* http://www.defcon.org/images/defcon-17/dc-17-presentations/defcon-17-sam_bowne-hijacking_web_2.0.pdf
-* http://mcafeeseminar.com/focus/downloads/Live_Hacking.pdf
-* http://www.seanobriain.com/docs/PasstheParcel-MITMGuide.pdf
-* http://www.more.net/sites/default/files/2010JohnStrandKeynote.pdf
-* http://www.leetupload.com/database/Misc/Papers/Asta%20la%20Vista/18.Ettercap_Spoof.pdf
-* http://bandwidthco.com/whitepapers/netforensics/arp/EtterCap%20ARP%20Spoofing%20&%20Beyond.pdf
-* http://bandwidthco.com/whitepapers/netforensics/arp/Fun%20With%20EtterCap%20Filters.pdf
-* http://www.iac.iastate.edu/iasg/libarchive/0910/The_Magic_of_Ettercap/The_Magic_of_Ettercap.pdf
-* http://articles.manugarg.com/arp_spoofing.pdf
-* http://academy.delmar.edu/Courses/ITSY2430/eBooks/Ettercap(ManInTheMiddleAttack-tool).pdf
-* http://www.ucci.it/docs/ICTSecurity-2004-26.pdf
-* http://web.mac.com/opticrealm/iWeb/asurobot/My%20Cyber%20Attack%20Papers/My%20Cyber%20Attack%20Papers_files/ettercap_Nov_6_2005-1.pdf
-* http://blog.spiderlabs.com/2010/12/thicknet.html
-* http://www.hackyeah.com/2010/10/ettercap-filters-with-metasploit-browser_autopwn/
-* http://www.go4expert.com/forums/showthread.php?t=11842
-* http://www.irongeek.com/i.php?page=security/ettercapfilter
-* http://openmaniak.com/ettercap_filter.php
-* http://www.irongeek.com/i.php?page=videos/dns-spoofing-with-ettercap-pharming
-* http://www.irongeek.com/i.php?page=videos/ettercap-plugins-find-ip-gw-discover-isolate
-* http://www.irongeek.com/i.php?page=videos/ettercapfiltervid1
-* http://spareclockcycles.org/2010/06/10/sergio-proxy-released/
-
-
-----
-## Tools:
-### OSINT:
-* http://www.edge-security.com/theHarvester.php
-* http://www.mavetju.org/unix/dnstracer-man.php
-* http://www.paterva.com/web5/
-
-## Metadata:
-* http://www.sans.org/reading_room/whitepapers/privacy/document-metadata-silent-killer_32974
-* http://lcamtuf.coredump.cx/strikeout/
-* http://www.sno.phy.queensu.ca/~phil/exiftool/
-* http://www.edge-security.com/metagoofil.php
-* http://www.darkoperator.com/blog/2009/4/24/metadata-enumeration-with-foca.html
-
-### Google Hacking and Dorking: 
-* http://www.stachliu.com/index.php/resources/tools/google-hacking-diggity-project/
-* http://midnightresearch.com/projects/search-engine-assessment-tool/#downloads
-* http://sqid.rubyforge.org/#next
-* http://voidnetwork.org/5ynL0rd/darkc0de/python_script/dorkScan.html
-
-### Web:
-* http://www.bindshell.net/tools/beef
-* http://blindelephant.sourceforge.net/
-* http://xsser.sourceforge.net/
-* http://sourceforge.net/projects/rips-scanner/
-* http://www.divineinvasion.net/authforce/
-* http://andlabs.org/tools.html#sotf
-* http://www.taddong.com/docs/Browser_Exploitation_for_Fun&Profit_Taddong-RaulSiles_Nov2010_v1.1.pdf
-* http://carnal0wnage.blogspot.com/2007/07/using-sqid-sql-injection-digger-to-look.html
-* http://code.google.com/p/pinata-csrf-tool/
-* http://xsser.sourceforge.net/#intro
-* http://www.contextis.co.uk/resources/tools/clickjacking-tool/
-* http://packetstormsecurity.org/files/view/69896/unicode-fun.txt
-* http://sourceforge.net/projects/ws-attacker/files/
-* https://github.com/koto/squid-imposter
-
-### Attack Strings:
-* http://code.google.com/p/fuzzdb/
-* http://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database#tab=Statements
-
-### Shells:
-* http://sourceforge.net/projects/yokoso/
-* http://sourceforge.net/projects/ajaxshell/
-
-### Scanners:
-* http://w3af.sourceforge.net/
-* http://code.google.com/p/skipfish/
-* http://sqlmap.sourceforge.net/
-* http://sqid.rubyforge.org/#next
-* http://packetstormsecurity.org/UNIX/scanners/XSSscan.py.txt
-* http://code.google.com/p/fimap/wiki/WindowsAttack
-* http://code.google.com/p/fm-fsf/
-
-### Proxies:
-## Burp:
-* http://www.sans.org/reading_room/whitepapers/testing/fuzzing-approach-credentials-discovery-burp-intruder_33214
-* http://www.gdssecurity.com/l/b/2010/08/10/constricting-the-web-the-gds-burp-api/
-* http://sourceforge.net/projects/belch/files/
-* http://www.securityninja.co.uk/application-security/burp-suite-tutorial-repeater-and-comparer-tools
-* http://blog.ombrepixel.com/
-* http://andlabs.org/tools.html#dser
-* http://feoh.tistory.com/22
-* http://www.sensepost.com/labs/tools/pentest/reduh
-* http://www.owasp.org/index.php/OWASP_WebScarab_NG_Project
-* http://intrepidusgroup.com/insight/mallory/
-* http://www.fiddler2.com/fiddler2/
-* http://websecuritytool.codeplex.com/documentation?referringTitle=Home
-* http://translate.google.com/translate?hl=en&sl=es&u=http://xss.codeplex.com/releases/view/43170&prev=/search%3Fq%3Dhttp://www.hackingeek.com/2010/08/x5s-encuentra-fallos-xss-lfi-rfi-en-tus.html%26hl%3Den&rurl=translate.google.com&twu=1
-
-### Social Engineering:
-* http://www.secmaniac.com/
-
-### Password:
-* http://nmap.org/ncrack/
-* http://www.foofus.net/~jmk/medusa/medusa.html
-* http://www.openwall.com/john/
-* http://ophcrack.sourceforge.net/
-* http://blog.0x3f.net/tool/keimpx-in-action/
-* http://code.google.com/p/keimpx/
-* http://sourceforge.net/projects/hashkill/
-
-### Metasploit:
-
-* http://www.indepthdefense.com/2009/02/reverse-pivots-with-metasploit-how-not.html
-* http://code.google.com/p/msf-hack/wiki/WmapNikto
-* http://www.indepthdefense.com/2009/01/metasploit-visual-basic-payloads-in.html
-* http://seclists.org/metasploit/
-* http://pauldotcom.com/2010/03/nessus-scanning-through-a-meta.html
-* http://meterpreter.illegalguy.hostzi.com/
-* http://blog.metasploit.com/2010/03/automating-metasploit-console.html
-* http://www.workrobot.com/sansfire2009/561.html
-* http://www.securitytube.net/video/711
-* http://en.wikibooks.org/wiki/Metasploit/MeterpreterClient#download
-* http://vimeo.com/16852783
-* http://milo2012.wordpress.com/2009/09/27/xlsinjector/
-* http://www.fastandeasyhacking.com/
-* http://trac.happypacket.net/
-* http://www.blackhat.com/presentations/bh-dc-10/Ames_Colin/BlackHat-DC-2010-colin-david-neurosurgery-with-meterpreter-wp.pdf
-* http://www.blackhat.com/presentations/bh-dc-10/Egypt/BlackHat-DC-2010-Egypt-UAV-slides.pdf
-
-### Net Scanners and Scripts:
-
-* http://nmap.org/
-* http://asturio.gmxhome.de/software/sambascan2/i.html
-* http://www.softperfect.com/products/networkscanner/
-* http://www.openvas.org/
-* http://tenable.com/products/nessus
-* http://www.rapid7.com/vulnerability-scanner.jsp
-* http://www.eeye.com/products/retina/community
-
-### Post Exploitation:
-
-* http://www.awarenetwork.org/home/rattle/source/python/exe2bat.py
-* http://www.phx2600.org/archive/2008/08/29/metacab/
-* http://www.room362.com/blog/2011/9/6/post-exploitation-command-lists.html
-
-### Source Inspection:
-
-* http://www.justanotherhacker.com/projects/graudit.html
-* http://code.google.com/p/javasnoop/
-
-### Firefox Addons:
-
-* https://addons.mozilla.org/id/firefox/collections/byrned/pentesting/?page=8
-* https://addons.mozilla.org/en-US/firefox/addon/osvdb/
-* https://addons.mozilla.org/en-US/firefox/addon/packet-storm-search-plugin/
-* https://addons.mozilla.org/en-US/firefox/addon/default-passwords-cirtne-58786/
-* https://addons.mozilla.org/en-US/firefox/addon/offsec-exploit-db-search/
-* https://addons.mozilla.org/en-US/firefox/addon/oval-repository-search-plugin/
-* https://addons.mozilla.org/en-US/firefox/addon/cve-dictionary-search-plugin/
-* https://addons.mozilla.org/en-US/firefox/addon/hackbar/
-
-### Tool Listings:
-
-* http://packetstormsecurity.org/files/tags/tool
-* http://tools.securitytube.net/index.php?title=Main_Page
-
-----
-
-### Metasploit:
-
-* http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training
-* http://www.irongeek.com/i.php?page=videos/metasploit-class
-* http://www.ethicalhacker.net/component/option,com_smf/Itemid,54/topic,6158.0/
-* http://vimeo.com/16925188
-* http://www.ustream.tv/recorded/13396511
-* http://www.ustream.tv/recorded/13397426
-* http://www.ustream.tv/recorded/13398740
-
-
-
-### Other Misc:
-
-* http://www.cs.sjtu.edu.cn/~kzhu/cs490/
-* https://noppa.tkk.fi/noppa/kurssi/t-110.6220/luennot/
-* http://i-web.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/
-* http://resources.infosecinstitute.com/
-* http://vimeo.com/user2720399
-
-----
-## Web Vectors
-### SQLi: (SQL injection ) 
-
-* http://pentestmonkey.net/blog/mssql-sql-injection-cheat-sheet/
-* http://isc.sans.edu/diary.html?storyid=9397
-* http://ferruh.mavituna.com/sql-injection-cheatsheet-oku/
-* http://www.evilsql.com/main/index.php
-* http://xd-blog.com.ar/descargas/manuales/bugs/full-mssql-injection-pwnage.html
-* http://securityoverride.com/articles.php?article_id=1&article=The_Complete_Guide_to_SQL_Injections
-* http://websec.wordpress.com/2010/03/19/exploiting-hard-filtered-sql-injections/
-* http://sqlzoo.net/hack/
-* http://www.sqlteam.com/article/sql-server-versions
-* http://www.krazl.com/blog/?p=3
-* http://www.owasp.org/index.php/Testing_for_MS_Access
-* http://web.archive.org/web/20101112061524/http://seclists.org/pen-test/2003/May/0074.html
-* http://web.archive.org/web/20080822123152/http://www.webapptest.org/ms-access-sql-injection-cheat-sheet-EN.html
-* http://www.youtube.com/watch?v=WkHkryIoLD0
-* http://layerone.info/archives/2009/Joe%20McCray%20-%20Advanced%20SQL%20Injection%20-%20L1%202009.pdf
-* http://vimeo.com/3418947
-* http://sla.ckers.org/forum/read.php?24,33903
-* http://websec.files.wordpress.com/2010/11/sqli2.pdf
-* http://old.justinshattuck.com/2007/01/18/mysql-injection-cheat-sheet/
-* http://ha.ckers.org/sqlinjection/
-* http://lab.mediaservice.net/notes_more.php?id=MSSQL
-
-### Upload Tricks:
-
-* http://www.google.com/#hl=en&q=bypassing+upload+file+type&start=40&sa=N&fp=a2bb30ecf4f91972
-* http://blog.skeptikal.org/2009/11/adobe-responds-sort-of.html
-* http://blog.insicdesigns.com/2009/01/secure-file-upload-in-php-web-applications/
-* http://perishablepress.com/press/2006/01/10/stupid-htaccess-tricks/
-* http://ex.ploit.net/f20/tricks-tips-bypassing-image-uploaders-t3hmadhatt3r-38/
-* http://www.ravenphpscripts.com/article2974.html
-* http://www.acunetix.com/cross-site-scripting/scanner.htm
-* http://www.vupen.com/english/advisories/2009/3634
-* http://msdn.microsoft.com/en-us/library/aa478971.aspx
-* http://dev.tangocms.org/issues/237
-* http://seclists.org/fulldisclosure/2006/Jun/508
-* http://www.gnucitizen.org/blog/cross-site-file-upload-attacks/
-* http://www.ipolicynetworks.com/technology/files/TikiWiki_jhot.php_Script_File_Upload_Security_Bypass_Vulnerability.html
-* http://shsc.info/FileUploadSecurity
-
-
-### LFI/RFI:
-
-* http://pastie.org/840199
-* http://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/
-* http://www.notsosecure.com/folder2/2010/08/20/lfi-code-exec-remote-root/?utm_source=twitterfeed&utm_medium=twitter
-* http://labs.neohapsis.com/2008/07/21/local-file-inclusion-%E2%80%93-tricks-of-the-trade/
-* http://www.digininja.org/blog/when_all_you_can_do_is_read.php
-
-### XSS: (Cross site Scripting) 
-
-* http://www.infosecwriters.com/hhworld/hh8/csstut.htm
-* http://www.technicalinfo.net/papers/CSS.html
-* http://msmvps.com/blogs/alunj/archive/2010/07/07/1773441.aspx
-* http://forum.intern0t.net/web-hacking-war-games/112-cross-site-scripting-attack-defense-guide.html
-* https://media.blackhat.com/bh-eu-10/presentations/Lindsay_Nava/BlackHat-EU-2010-Lindsay-Nava-IE8-XSS-Filters-slides.pdf
-* http://sirdarckcat.blogspot.com/2009/08/our-favorite-xss-filters-and-how-to.html
-* http://www.securityaegis.com/filter-evasion-houdini-on-the-wire/
-* http://heideri.ch/jso/#javascript
-* http://www.reddit.com/r/xss/
-* http://sla.ckers.org/forum/list.php?2
-
-### Coldfusion:
-
-* http://www.gnucitizen.org/blog/coldfusion-directory-traversal-faq-cve-2010-2861/
-* http://zastita.com/02114/Attacking_ColdFusion..html
-* http://www.nosec.org/2010/0809/629.html
-* http://h30507.www3.hp.com/t5/Following-the-White-Rabbit-A/Adobe-ColdFusion-s-Directory-Traversal-Disaster/ba-p/81964
-* http://cfunited.com/2009/files/presentations/254_ShlomyGantz_August2009_HackProofingColdFusion.pdf
-
-### Sharepoint:
-
-* http://www.ethicalhacker.net/component/option,com_smf/Itemid,54/topic,6131.msg32678/#msg32678
-
-### Lotus:
-
-* http://blog.ombrepixel.com/post/2009/05/06/Lotus-Notes/Domino-Security
-* http://seclists.org/pen-test/2002/Nov/43
-* http://www.sectechno.com/2010/07/12/hacking-lotus-domino/?
-
-### JBoss:
-
-* http://www.nruns.com/_downloads/Whitepaper-Hacking-jBoss-using-a-Browser.pdf
-* http://blog.mindedsecurity.com/2010/04/good-bye-critical-jboss-0day.html
-
-### VMWare Web:
-
-* http://www.metasploit.com/modules/auxiliary/scanner/http/vmware_server_dir_trav
-
-### Oracle App Servers:
-
-* http://www.hideaway.net/2007/07/hacking-oracle-application-servers.html
-* http://www.owasp.org/index.php/Testing_for_Oracle
-* http://www.ngssoftware.com/services/software-products/internet-security/orascan.aspx
-* http://www.ngssoftware.com/services/software-products/Database-Security/NGSSQuirreLOracle.aspx
-* http://www.ngssoftware.com/papers/hpoas.pdf
-
-### SAP:
-
-* http://www.onapsis.com/research.html#bizploit
-* http://marc.info/?l=john-users&m=121444075820309&w=2
-* http://www.phenoelit-us.org/whatSAP/index.html
-
-----
-## Wireless:
-
-* http://code.google.com/p/pyrit/
-
-----
-## Conferences:
-* [Defcon] https://www.defcon.org/  one of the largest worldwide Hacking conferences  in the world  
-* [Blackhat] https://blackhat.com/  large worldwide conference all over the globe 
-* [ RSA Conference ] https://www.rsaconference.com/ The RSA Conference is an annual event focused on helping improve cybersecurity awareness and cybersecurity culture in companies, and similarly expanding this knowledge in individuals across the globe. 
-
-* [Calendar for Information Security Conferences](https://www.google.com/calendar/embed?src=pe2ikdbe6b841od6e26ato0asc@group.calendar.google.com&gsessionid=OK)
-
-----
-## Misc/Unsorted:
-
-* http://www.ikkisoft.com/stuff/SMH_XSS.txt
-* http://securestate.blogspot.com/2010/08/xfs-101-cross-frame-scripting-explained.html?utm_source=twitterfeed&utm_medium=twitter
-* http://whatthefuckismyinformationsecuritystrategy.com/
-* http://video.google.com/videoplay?docid=4379894308228900017&q=owasp#
-* http://video.google.com/videoplay?docid=4994651985041179755&ei=_1k4TKj-PI-cqAPioJnKDA&q=deepsec#
-* http://www.sensepost.com/blog/4552.html
-* http://blog.zenone.org/2009/03/pci-compliance-disable-sslv2-and-weak.html
-* http://threatpost.com/en_us/blogs/hd-moore-metasploit-exploitation-and-art-pen-testing-040210
-* http://carnal0wnage.attackresearch.com/node/410
-* http://www.cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf
-* http://www.spy-hunter.com/Database_Pen_Testing_ISSA_March_25_V2.pdf
-* http://perishablepress.com/press/2006/01/10/stupid-htaccess-tricks/
-  
-
-Things to add to sort out and add to  the project 
-
-
-
-
- 
-Editor
-
-https://notepad-plus-plus.org/
-https://atom.io/ https://www.sublimetext.com/
-https://www.jetbrains.com/
-https://wingware.com/
-https://www.anaconda.com/ https://visualstudio.microsoft.com/
-
-
-
+## Security research
+* [https://www.shodan.io/](https://www.shodan.io/): network monitoring and analytics platform. 
+* [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database) (google dorking): exploit database search engine.
+* [http://www.exploit-db.com/](http://www.exploit-db.com/): exploited and vulnerable software vulnerabilities database. 
+* [http://www.cvedetails.com/](http://www.cvedetails.com/): comprehensive database of security vulnerabilities. 
+* [https://cxsecurity.com/](https://cxsecurity.com/): security vulnerability database.
+* [http://www.packetstormsecurity.org/](http://www.packetstormsecurity.org/): security attack and audit sources.
+* [http://www.securityforest.com/wiki/index.php/Main_Page](http://www.securityforest.com/wiki/index.php/Main_Page): security and penetration testing tips.
+* [http://www.securityfocus.com/bid](http://www.securityfocus.com/bid): Bugtraq discussion forum & vulnerability tracking system.
+* [http://nvd.nist.gov/](http://nvd.nist.gov/): U.S. National Vulnerability Database. 
+* [http://osvdb.org/](http://osvdb.org/): open source vulnerability database. 
+* [http://www.nullbyte.org.il/Index.html](http://www.nullbyte.org.il/Index.html): cyber security and hacking website.
+* [http://secdocs.lonerunners.net/](http://secdocs.lonerunners.net/): security document search engine.
+* [http://www.phenoelit-us.org/whatSAP/index.html](http://www.phenoelit-us.org/whatSAP/index.html): SAP security exploit database.
+* [http://secunia.com/](http://secunia.com/): online IT security vulnerability resource.
+* [http://cve.mitre.org/](http://cve.mitre.org/): database of publicly known security vulnerabilities.
 
 
