@@ -250,6 +250,7 @@ The Cost is Low/Mid (USD $300-400)
 - [OSCP](https://www.offsec.com/courses/pen-200/) Highly recognized penetration testing certification with a focus on manual testing techniques 
 The cost is High (USD $1000-2500)
 ## Web Application Security
+
 ### Exploitation Frameworks and Tools
 - [BeEF](http://www.bindshell.net/tools/beef) - Browser Exploitation Framework
 - [BlindElephant](http://blindelephant.sourceforge.net/) - Scanner for known vulnerable web apps
@@ -265,6 +266,7 @@ The cost is High (USD $1000-2500)
 - [Unicode Exploitation Guide](http://packetstormsecurity.org/files/view/69896/unicode-fun.txt) - Unicode exploitation guide
 - [Web Security Testing Framework](http://sourceforge.net/projects/ws-attacker/files/) - Web security testing framework
 - [Squid Imposter](https://github.com/koto/squid-imposter) - SSL impostering for MITM attacks
+
 ### SQL Injection (SQLi)
 A vulnerability that permits attackers to manipulate SQL queries to gain unauthorized access, modify, or retrieve sensitive data from a database.
 - [MSSQL SQL Injection Cheat Sheet](http://pentestmonkey.net/blog/mssql-sql-injection-cheat-sheet/)
@@ -288,6 +290,7 @@ A vulnerability that permits attackers to manipulate SQL queries to gain unautho
 - [MySQL Injection Cheat Sheet](http://old.justinshattuck.com/2007/01/18/mysql-injection-cheat-sheet/)
 - [SQL Injection by Ha.ckers](http://ha.ckers.org/sqlinjection/)
 - [MSSQL Injection from Layerone](http://lab.mediaservice.net/notes_more.php?id=MSSQL)
+
 ### Upload Tricks
 Upload web vulnerabilities refer to security flaws that allow malicious users to upload and execute unauthorized files, potentially leading to server compromise or unauthorized access to the system.
 - [Bypassing Upload File Type](http://www.google.com/#hl=en&q=bypassing+upload+file+type&start=40&sa=N&fp=a2bb30ecf4f91972)
@@ -304,6 +307,7 @@ Upload web vulnerabilities refer to security flaws that allow malicious users to
 - [Cross-Site File Upload Attacks](http://www.gnucitizen.org/blog/cross-site-file-upload-attacks/)
 - [File Upload Security](http://shsc.info/FileUploadSecurity)
 - [TikiWiki Script File Upload Security Bypass Vulnerability](http://www.ipolicynetworks.com/technology/files/TikiWiki_jhot.php_Script_File_Upload_Security_Bypass_Vulnerability.html)
+
 ### LFI/RFI (Local File Inclusion/Remote File Inclusion)
 Allows an attacker to include files from the target system or remote servers, potentially leading to unauthorized access or code execution.
 - [Online Source Code for LFI/RFI Vulnerability](http://pastie.org/840199)
@@ -311,6 +315,7 @@ Allows an attacker to include files from the target system or remote servers, po
 - [Executing Remote Root on LFI](http://www.notsosecure.com/folder2/2010/08/20/lfi-code-exec-remote-root/?utm_source=twitterfeed&utm_medium=twitter)
 - [Tips and Tricks for LFI](http://labs.neohapsis.com/2008/07/21/local-file-inclusion-%E2%80%93-tricks-of-the-trade/)
 - [Understanding File-access Denial Exploits](http://www.digininja.org/blog/when_all_you_can_do_is_read.php)
+
 ### XSS (Cross-site Scripting)
 An attack where malicious scripts are injected into web pages, affecting users who visit the page and potentially stealing their data or taking control of their accounts.
 - [Cross-site Scripting Tutorial](http://www.infosecwriters.com/hhworld/hh8/csstut.htm)
@@ -323,6 +328,7 @@ An attack where malicious scripts are injected into web pages, affecting users w
 - [Javascript-based XSS Cheat Sheet](http://heideri.ch/jso/#javascript)
 - [Subreddit for XSS](http://www.reddit.com/r/xss/)
 - [XSS Discussions](http://sla.ckers.org/forum/list.php?2)
+
 ### Metasploit
 - [Reverse Pivots with Metasploit: How Not to get Caught](http://www.indepthdefense.com/2009/02/reverse-pivots-with-metasploit-how-not.html)
 - [WmapNikto - Metasploit](http://code.google.com/p/msf-hack/wiki/WmapNikto)
@@ -340,22 +346,26 @@ An attack where malicious scripts are injected into web pages, affecting users w
 - [Trac - Happypacket](http://trac.happypacket.net/)
 - [Neurosurgery with Meterpreter](http://www.blackhat.com/presentations/bh-dc-10/Ames_Colin/BlackHat-DC-2010-colin-david-neurosurgery-with-meterpreter-wp.pdf)
 - [Egypt UAV Slides](http://www.blackhat.com/presentations/bh-dc-10/Egypt/BlackHat-DC-2010-Egypt-UAV-slides.pdf)
+
 ### Metadata
 - [Document Metadata: The Silent Killer](http://www.sans.org/reading_room/whitepapers/privacy/document-metadata-silent-killer_32974)
 - [Strikeout](http://lcamtuf.coredump.cx/strikeout/)
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [Metagoofil](http://www.edge-security.com/metagoofil.php)
-- [Metadata Enumeration with FOCA](http://www.darkoperator.com/blog/2009/4/24/metadata-enumeration-with-foca.html)
+
 ### OSINT (Open-source Intelligence)
 - [theHarvester](http://www.edge-security.com/theHarvester.php)
 - [DNSTracer](http://www.mavetju.org/unix/dnstracer-man.php)
 - [Paterva Maltego](http://www.paterva.com/web5/)
+
 ### Shells
 - [Yokoso](http://sourceforge.net/projects/yokoso/)
 - [AjaxShell](http://sourceforge.net/projects/ajaxshell/)
+
 ### Attack Strings
 - [FuzzDB](http://code.google.com/p/fuzzdb/)
 - [OWASP Fuzzing Code Database](http://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database#tab=Statements)
+
 ### Scanners
 - [w3af](http://w3af.sourceforge.net/) - Open-source web application security scanner.
 - [Skipfish](http://code.google.com/p/skipfish/) - Automated web application security audit tool.
@@ -368,6 +378,7 @@ An attack where malicious scripts are injected into web pages, affecting users w
 - [Belch](http://sourceforge.net/projects/belch/files/) - Web vulnerability scanner.
 - [Burp Intruder: Fuzzing Approach to Credentials Discovery](http://www.sans.org/reading_room/whitepapers/testing/fuzzing-approach-credentials-discovery-burp-intruder_33214)
 - [Constricting the Web: The GDS Burp API](http://www.gdssecurity.com/l/b/2010/08/10/constricting-the-web-the-gds-burp-api/)
+
 ### Net Scanners and Scripts
 - [Nmap](http://nmap.org/) - Network mapping and port scanning tool
 - [SambaScan2](http://asturio.gmxhome.de/software/sambascan2/i.html) - Windows-based shell script for discovering LanMan/NTLM authentication information
@@ -376,6 +387,7 @@ An attack where malicious scripts are injected into web pages, affecting users w
 - [Nessus](http://tenable.com/products/nessus) - Vulnerability scanner and management
 - [Rapid7 Vulnerability Scanner](http://www.rapid7.com/vulnerability-scanner.jsp) - Vulnerability scanner and management
 - [Retina Community](http://www.eeye.com/products/retina/community) - Vulnerability scanner
+
  ## Content Management System (CMS) Hacking
 Content Management Systems (CMS) are popular platforms used to manage, create, and modify digital content on websites and web applications. While they provide convenience and flexibility, improper configuration and vulnerabilities can lead to security risks. Ethical hacking (penetration testing) of CMSs is essential to identify weaknesses and implement robust security measures. However, it is crucial to obtain proper authorization before conducting any testing. Here's an overview of popular CMS platforms and resources for ethical hacking:
 ### WordPress:
