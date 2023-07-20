@@ -29,7 +29,6 @@ Please note that pirating will not be supported, as many books are available for
 #### Hacking/Cybersecurity Youtubers:
 - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ) Hacking hardware, cybersecurity news, hacking tech, and general hacking tutorials.
 - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) Ethical hacking, web application hacking, hardware tutorials, tech reviewer.
-- [Jackktutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA) Hacking tutorials, CTFS, Linux.
 - [Webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg) Hacking tutorials, CTFS, Linux.
 - [Sstec](https://www.youtube.com/c/SSTecTutorials/playlists) Hacking tutorials, CTFS, and projects.
 - [Hackhappy](https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA) Hacking tutorials, CTFS, and Linux.
