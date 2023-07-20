@@ -204,50 +204,50 @@ Please note that pirating will not be supported, as many books are available for
 #### Wireless
 * http://code.google.com/p/pyrit/
 ## Programming
-- [edX](https://www.edx.org/): Provides various free programming courses from universities.
-- [freeCodeCamp](https://www.freecodecamp.org/): A free website for learning web development and Python.
-- [Udemy](https://www.udemy.com/): Offers career training courses, some of which are free.
-- [Khan Academy](https://www.khanacademy.org/): Provides courses on math, English, and computer programming in a fun gamified way for free.
-- [MIT OpenCourseWare](https://ocw.mit.edu/courses/intro-programming/): Free intro to programming course released by MIT.
-- [Code.Google](http://code.google.com/edu/languages/google-python-class/index.html): Google's Python class tutorials.
-- [Swaroopch](http://www.swaroopch.com/notes/Python_en:Table_of_Contents): Python tutorials by Swaroop.
-- [TheNewBoston](http://www.thenewboston.com/?cat=40&pOpen=tutorial): Programming tutorials and resources.
-- [Hackerrank](https://www.hackerrank.com/): Coding challenges and competitions.
-- [Sololearn](https://www.sololearn.com/): Offers interactive coding lessons for various programming languages.
-- [Codecademy](https://www.codecademy.com/): Provides interactive coding lessons.
-- [Khan Academy](https://www.khanacademy.org/): Highly recommended resource with lots of free courses in programming, computer science, math, English, etc.
-- [Coursera](https://www.coursera.org/): Offers career development courses, both paid and free.
-- [DevDocs](https://devdocs.io/): Comprehensive documentation for various programming languages and technologies.
-- [W3Schools](https://www.w3schools.com/): Provides web development tutorials and references.
-- [GitHub](https://github.com/): Code sharing and collaboration platform.
-- [PythonAnywhere](https://www.pythonanywhere.com/): Online Python development and hosting platform.
-- [CS50](https://cs50.harvard.edu/college/2020/fall/): Well-known free course for introduction to programming.
-- [HackerRank](https://www.hackerrank.com/): Offers coding challenges and competitions.
-- [SoloLearn](https://www.sololearn.com/): Provides interactive coding lessons for various programming languages.
-- [Codecademy](https://www.codecademy.com/): Offers interactive coding lessons.
-- [Khan Academy](https://www.khanacademy.org/): Highly recommended resource with lots of free courses in programming, computer science, math, English, etc.
-- [Coursera](https://www.coursera.org/): Offers career development courses, both paid and free.
-- [DevDocs](https://devdocs.io/): Comprehensive documentation for various programming languages and technologies.
-- [W3Schools](https://www.w3schools.com/): Provides web development tutorials and references.
+- [edX](https://www.edx.org/) Provides various free programming courses from universities.
+- [freeCodeCamp](https://www.freecodecamp.org/) A free website for learning web development and Python.
+- [Udemy](https://www.udemy.com/) Offers career training courses, some of which are free.
+- [Khan Academy](https://www.khanacademy.org/) Provides courses on math, English, and computer programming in a fun gamified way for free.
+- [MIT OpenCourseWare](https://ocw.mit.edu/courses/intro-programming/) Free intro to programming course released by MIT.
+- [Code.Google](http://code.google.com/edu/languages/google-python-class/index.html) Google's Python class tutorials.
+- [Swaroopch](http://www.swaroopch.com/notes/Python_en:Table_of_Contents) Python tutorials by Swaroop.
+- [TheNewBoston](http://www.thenewboston.com/?cat=40&pOpen=tutorial) Programming tutorials and resources.
+- [Hackerrank](https://www.hackerrank.com/) Coding challenges and competitions.
+- [Sololearn](https://www.sololearn.com/) Offers interactive coding lessons for various programming languages.
+- [Codecademy](https://www.codecademy.com/) Provides interactive coding lessons.
+- [Khan Academy](https://www.khanacademy.org/) Highly recommended resource with lots of free courses in programming, computer science, math, English, etc.
+- [Coursera](https://www.coursera.org/) Offers career development courses, both paid and free.
+- [DevDocs](https://devdocs.io/) Comprehensive documentation for various programming languages and technologies.
+- [W3Schools](https://www.w3schools.com/) Provides web development tutorials and references.
+- [GitHub](https://github.com/) Code sharing and collaboration platform.
+- [PythonAnywhere](https://www.pythonanywhere.com/) Online Python development and hosting platform.
+- [CS50](https://cs50.harvard.edu/college/2020/fall/) Well-known free course for introduction to programming.
+- [HackerRank](https://www.hackerrank.com/) Offers coding challenges and competitions.
+- [SoloLearn](https://www.sololearn.com/) Provides interactive coding lessons for various programming languages.
+- [Codecademy](https://www.codecademy.com/) Offers interactive coding lessons.
+- [Khan Academy](https://www.khanacademy.org/) Highly recommended resource with lots of free courses in programming, computer science, math, English, etc.
+- [Coursera](https://www.coursera.org/) Offers career development courses, both paid and free.
+- [DevDocs](https://devdocs.io/) Comprehensive documentation for various programming languages and technologies.
+- [W3Schools](https://www.w3schools.com/) Provides web development tutorials and references.
 ## Linux
 - [Linux Training Academy](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/): Cheat sheet for useful command-line tools.
-- [TryHackMe](https://tryhackme.com/): Website for beginners and advanced users to learn about Linux and more.
-- [Linux Journey](https://linuxjourney.com/): A hands-on step-by-step process for learning how to use Linux.
-- [Compute Freely](https://computefreely.org/): Resources for learning about Linux and open-source software.
-- [Linux Newbie Guide](https://linuxnewbieguide.org/overview-of-chapters/): Provides an overview of Linux and its features.
-- [Null Byte Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/): A series of free Linux basic tutorials.
-- [UbuntuPIT](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/): List of 50 very useful Linux commands.
-- [Linux for Ethical Hackers](https://www.youtube.com/watch?v=U1w4T03B30I): YouTube video series on Linux for ethical hackers.
-- [FreeCodeCamp Linux Crash Course](https://www.youtube.com/watch?v=ROjZy1WbCIA&t=3867s): YouTube beginner crash course in Linux.
-- [Linux Server Course](https://www.youtube.com/watch?v=WMy3OzvBWc0): YouTube course on Linux server system configuration and operation.
+- [TryHackMe](https://tryhackme.com/) Website for beginners and advanced users to learn about Linux and more.
+- [Linux Journey](https://linuxjourney.com/) A hands-on step-by-step process for learning how to use Linux.
+- [Compute Freely](https://computefreely.org/) Resources for learning about Linux and open-source software.
+- [Linux Newbie Guide](https://linuxnewbieguide.org/overview-of-chapters/) Provides an overview of Linux and its features.
+- [Null Byte Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/) A series of free Linux basic tutorials.
+- [UbuntuPIT](https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/) List of 50 very useful Linux commands.
+- [Linux for Ethical Hackers](https://www.youtube.com/watch?v=U1w4T03B30I) YouTube video series on Linux for ethical hackers.
+- [FreeCodeCamp Linux Crash Course](https://www.youtube.com/watch?v=ROjZy1WbCIA&t=3867s) YouTube beginner crash course in Linux.
+- [Linux Server Course](https://www.youtube.com/watch?v=WMy3OzvBWc0) YouTube course on Linux server system configuration and operation.
 ## Networking
-- [Professor Messer's Network+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnksQpejrRxNZoRSo0pcKXkG): Highly recommended network+ training course on YouTube.
-- [FreeCodeCamp Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s): Networking course by freeCodeCamp and Network+ preparation.
-- [Network Chuck Networking Course/CCNA Training](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P): Networking course by Network Chuck/CCNA training course.
+- [Professor Messer's Network+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnksQpejrRxNZoRSo0pcKXkG) Highly recommended network+ training course on YouTube.
+- [FreeCodeCamp Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s) Networking course by freeCodeCamp and Network+ preparation.
+- [Network Chuck Networking Course/CCNA Training](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) Networking course by Network Chuck/CCNA training course.
 ## Certifications
 ### Hardware
-- [CompTIA A+](https://www.comptia.org/certifications/a): General hardware certification with a wide range of job offerings.
-- [Professor Messer A+ Course](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC): YouTube course by Professor Messer on A+ certification.
+- [CompTIA A+](https://www.comptia.org/certifications/a) General hardware certification with a wide range of job offerings.
+- [Professor Messer A+ Course](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC) YouTube course by Professor Messer on A+ certification.
 - Apple Certified Macintosh Technician: Apple-specific hardware certification.
 ### Networking
 - [CompTIA Network+](https://www.comptia.org/certifications/network): Networking certification.
