@@ -84,7 +84,6 @@ Please note that pirating will not be supported, as many books are available for
 - [EDX Introduction to Linux](https://www.edx.org/course/introduction-to-linux) Intro to Linux from The Linux Foundation
 - [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
 - [Cybrary](https://www.cybrary.it/video/introduction-8/) Provides both free and paid courses on hacking and security.
-- [BreakTheSecurity](http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html) Offers free hacking tutorials and resources.
 - [Guru99](https://www.guru99.com/) Provides tutorials on programming, machine learning, cybersecurity, and more.
 - [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
 - [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
@@ -101,10 +100,9 @@ Please note that pirating will not be supported, as many books are available for
 - [Berkeley Computer Security](http://www-inst.eecs.berkeley.edu/~cs161/sp11/) A computer security course from UC Berkeley
 - [UCLA Security Talks](http://security.ucla.edu/pages/Security_Talks) Provides security talks and presentations from UCLA
 - [RPI Computer Security](http://www.cs.rpi.edu/academics/courses/spring10/csci4971/) A computer security course from Rensselaer Polytechnic Institute.
-- [Daniel Bernstein Cryptography](http://cr.yp.to/2004-494.html)Provides information on cryptography by Daniel Bernstein
 - [CMU Computer Security](http://www.ece.cmu.edu/~dbrumley/courses/18732-f09/) A computer security course from Carnegie Mellon University
 - [Aalto Network Security](https://noppa.tkk.fi/noppa/kurssi/t-110.6220/luennot) A course on network security offered by Aalto University
-- [MIT Web Security](http://stuff.mit.edu/iap/2009/#websecurity)  Web Security Course given by the MIT University
+
 ### Capture the Flag (CTF) Challenges
 - [TryHackMe](https://tryhackme.com/) Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
 - [HackThisSite](https://www.hackthissite.org/) Focuses primarily on web exploit challenges.
@@ -140,14 +138,13 @@ Please note that pirating will not be supported, as many books are available for
 #### Password and Hash Cracking Tutorials
 - [Security and Password Exploitation Class](http://www.irongeek.com/i.php?page=videos/password-exploitation-class)
 - [Default Passwords for Various Vendors and Software](http://cirt.net/passwords)
-- [Tutorial on Cracking MS SQL Server Passwords](http://sinbadsecurity.blogspot.com/2008/10/ms-sql-server-password-recovery.html)
+
 - [Tutorial on Cracking Passwords Using Medusa](http://www.foofus.net/~jmk/medusa/medusa-smbnt.html)
 - [Tutorial on Cracking Hashes Using Medusa](http://www.foofus.net/?page_id=63)
 - [Blog About Cracking Hashes and Passwords](http://hashcrack.blogspot.com/)
 - [How to Find Passwords and Hashes in a System](http://www.nirsoft.net/articles/saved_password_location.html)
 - [Default Passwords](http://www.virus.org/default-password)
 - [Online Hash Cracker](http://www.phenoelit-us.org/dpl/dpl.html)
-- [Cloud-Based Hash Cracking](http://news.electricalchemy.net/2009/10/cracking-passwords-in-cloud.html)
 - [Cracking Hashes and Passwords with Ncrack](http://nmap.org/ncrack/)
 - [Hacking Tutorials Using Medusa](http://www.foofus.net/~jmk/medusa/medusa.html)
 - [Password Cracking with John the Ripper](http://www.openwall.com/john/)
@@ -169,7 +166,6 @@ Please note that pirating will not be supported, as many books are available for
 #### Pass the Hash
 * http://www.sans.org/reading_room/whitepapers/testing/pass-the-hash-attacks-tools-mitigation_33283
 * http://www.sans.org/reading_room/whitepapers/testing/crack-pass-hash_33219
-* http://carnal0wnage.blogspot.com/2008/03/using-pash-hash-toolkit.html
 #### MiTM (Man in the Middle) :
 * http://media.techtarget.com/searchUnifiedCommunications/downloads/Seven_Deadliest_UC_Attacks_Ch3.pdf - 7 Deadliest UC Attacks PDF.
 * http://www.blackhat.com/presentations/bh-europe-03/bh-europe-03-valleri.pdf - MITM BlackHat talk 
@@ -258,7 +254,6 @@ The cost is High (USD $1000-2500)
 - [RIPS Scanner](http://sourceforge.net/projects/rips-scanner/) - Scanner for vulnerable PHP apps
 - [Authforce](http://www.divineinvasion.net/authforce/) - Password cracking tool
 - [Software Exploitation Toolkit](http://andlabs.org/tools.html#sotf) - Software exploitation toolkit
-- [Browser Attack Guide](http://www.taddong.com/docs/Browser_Exploitation_for_Fun&Profit_Taddong-RaulSiles_Nov2010_v1.1.pdf) - Browser attack guide
 - [SQL Injection Digger](http://carnal0wnage.blogspot.com/2007/07/using-sqid-sql-injection-digger-to-look.html) - SQL Injection Digger search guide
 - [Pinata CSRF Tool](http://code.google.com/p/pinata-csrf-tool/) - Cross-Site Request Forgery exploration and exploitation tool
 - [XSSer Introduction](http://xsser.sourceforge.net/#intro) - Cross-site Scripting attack tool
@@ -273,19 +268,16 @@ A vulnerability that permits attackers to manipulate SQL queries to gain unautho
 - [SQL Injection Intro](http://sqlzoo.net/hack/)
 - [SQL Server Versions](http://www.sqlteam.com/article/sql-server-versions) 
 - [Testing for MS Access](http://www.owasp.org/index.php/Testing_for_MS_Access)
-- [MS Access SQL Injection Cheat Sheet](http://web.archive.org/web/20080822123152/http://www.webapptest.org/ms-access-sql-injection-cheat-sheet-EN.html)
 - [SQL Injection Video Tutorial](http://www.youtube.com/watch?v=WkHkryIoLD0)
 
 ### Upload Tricks
 Upload web vulnerabilities refer to security flaws that allow malicious users to upload and execute unauthorized files, potentially leading to server compromise or unauthorized access to the system.
 - [Bypassing Upload File Type](http://www.google.com/#hl=en&q=bypassing+upload+file+type&start=40&sa=N&fp=a2bb30ecf4f91972)
-- [Stupid .htaccess Tricks](http://perishablepress.com/press/2006/01/10/stupid-htaccess-tricks/)
 - [Tricks & Tips: Bypassing Image Uploaders](http://ex.ploit.net/f20/tricks-tips-bypassing-image-uploaders-t3hmadhatt3r-38/)
 - [Raven PHP Scripts: File Upload Vulnerability](http://www.ravenphpscripts.com/article2974.html)
 - [Cross-site Scripting Scanner](http://www.acunetix.com/cross-site-scripting/scanner.htm)
 - [Microsoft Security Advisory: File Upload](http://msdn.microsoft.com/en-us/library/aa478971.aspx)
 - [TangoCMS Issue 237](http://dev.tangocms.org/issues/237)
-- [Full Disclosure - Jun 2006](http://seclists.org/fulldisclosure/2006/Jun/508)
 - [Cross-Site File Upload Attacks](http://www.gnucitizen.org/blog/cross-site-file-upload-attacks/)
 - [File Upload Security](http://shsc.info/FileUploadSecurity)
 - [TikiWiki Script File Upload Security Bypass Vulnerability](http://www.ipolicynetworks.com/technology/files/TikiWiki_jhot.php_Script_File_Upload_Security_Bypass_Vulnerability.html)
@@ -293,27 +285,20 @@ Upload web vulnerabilities refer to security flaws that allow malicious users to
 ### LFI/RFI (Local File Inclusion/Remote File Inclusion)
 Allows an attacker to include files from the target system or remote servers, potentially leading to unauthorized access or code execution.
 - [Online Source Code for LFI/RFI Vulnerability](http://pastie.org/840199)
-- [Exploring PHP File Inclusion Vulnerabilities](http://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
-- [Executing Remote Root on LFI](http://www.notsosecure.com/folder2/2010/08/20/lfi-code-exec-remote-root/?utm_source=twitterfeed&utm_medium=twitter)
 - [Understanding File-access Denial Exploits](http://www.digininja.org/blog/when_all_you_can_do_is_read.php)
 
 ### XSS (Cross-site Scripting)
 An attack where malicious scripts are injected into web pages, affecting users who visit the page and potentially stealing their data or taking control of their accounts.
 - [Cross-site Scripting Tutorial](http://www.infosecwriters.com/hhworld/hh8/csstut.htm)
 - [Basic Tutorial on XSS](http://www.technicalinfo.net/papers/CSS.html)
-- [Exploiting Maliciously Crafted URLs](http://msmvps.com/blogs/alunj/archive/2010/07/07/1773441.aspx)
 - [Comprehensive Guide to XSS Attack and Defense](http://forum.intern0t.net/web-hacking-war-games/112-cross-site-scripting-attack-defense-guide.html)
-- [IE8 XSS Filters Presentation](https://media.blackhat.com/bh-eu-10/presentations/Lindsay_Nava/BlackHat-EU-2010-Lindsay-Nava-IE8-XSS-Filters-slides.pdf)
-- [Favorite XSS Filters and How to Attack Them](http://sirdarckcat.blogspot.com/2009/08/our-favorite-xss-filters-and-how-to.html)
 - [Filter Evasion Houdini on the Wire](http://www.securityaegis.com/filter-evasion-houdini-on-the-wire/)
 - [Javascript-based XSS Cheat Sheet](http://heideri.ch/jso/#javascript)
 - [Subreddit for XSS](http://www.reddit.com/r/xss/)
 - [XSS Discussions](http://sla.ckers.org/forum/list.php?2)
 
 ### Metasploit
-- [Reverse Pivots with Metasploit: How Not to get Caught](http://www.indepthdefense.com/2009/02/reverse-pivots-with-metasploit-how-not.html)
 - [WmapNikto - Metasploit](http://code.google.com/p/msf-hack/wiki/WmapNikto)
-- [Metasploit Visual Basic Payloads](http://www.indepthdefense.com/2009/01/metasploit-visual-basic-payloads-in.html)
 - [Metasploit Mailing List](http://seclists.org/metasploit/)
 - [Meterpreter](http://meterpreter.illegalguy.hostzi.com/)
 - [Metasploit Video Tutorial](http://www.securitytube.net/video/711)
@@ -348,9 +333,7 @@ An attack where malicious scripts are injected into web pages, affecting users w
 - [Web Vulnerability Scanner](http://code.google.com/p/fm-fsf/)
 - [Burp Suite](http://www.portswigger.net/burp/) - Web vulnerability scanner and testing tool.
 - [Belch](http://sourceforge.net/projects/belch/files/) - Web vulnerability scanner.
-- [Burp Intruder: Fuzzing Approach to Credentials Discovery](http://www.sans.org/reading_room/whitepapers/testing/fuzzing-approach-credentials-discovery-burp-intruder_33214)
-- [Constricting the Web: The GDS Burp API](http://www.gdssecurity.com/l/b/2010/08/10/constricting-the-web-the-gds-burp-api/)
-
+- [Burp Intruder: Fuzzing Approach to Credentials Discovery](http://www.sans.org/reading_room/whitepapers/testing/fuzzing-approach-credentials-discovery-burp-intruder_33214
 ### Net Scanners and Scripts
 - [Nmap](http://nmap.org/) - Network mapping and port scanning tool
 - [SambaScan2](http://asturio.gmxhome.de/software/sambascan2/i.html) - Windows-based shell script for discovering LanMan/NTLM authentication information
@@ -497,7 +480,6 @@ Common Linux Distros
 * [http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/](http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/)
 *  http://cirt.net/ports_dl.php?export=services - Lists of port services definitions
 * http://www.cheat-sheets.org/ - Compilation of cheatsheets for a variety of topics
-* http://blog.securitymonks.com/2009/08/15/whats-in-your-folder-security-cheat-sheets/ - Collection of security-related cheatsheets
 ## Communities and Conferences:
 * [Defcon](https://www.defcon.org/)  one of the largest worldwide Hacking conferences  in the world  
 * [Blackhat](https://blackhat.com/)  large worldwide conference all over the globe 
