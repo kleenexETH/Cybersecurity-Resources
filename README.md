@@ -78,14 +78,24 @@ Please note that pirating will not be supported, as many books are available for
 
 
 ### Courses
+#### 	Courses from various parts of the internet 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) A JavaScript course that provides in-depth knowledge about JavaScript programming.
 - [Hoppers Roppers Academy](https://www.roppers.org/collections) Offers a collection of resources and courses related to cybersecurity and hacking.
 - [Hack The Box Academy](https://academy.hackthebox.eu/)  An educational platform by Hack The Box offering courses on various cybersecurity topics.
 - [Cyber Aces](https://www.cyberaces.org/) Offers free online cybersecurity courses.
+- [EDX Introduction to Linux](https://www.edx.org/course/introduction-to-linux) Intro to Linux from The Linux Foundation
+- [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
+- [Cybrary](https://www.cybrary.it/video/introduction-8/) Provides both free and paid courses on hacking and security.
+- [BreakTheSecurity](http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html) Offers free hacking tutorials and resources.
+- [Guru99](https://www.guru99.com/) Provides tutorials on programming, machine learning, cybersecurity, and more.
+- [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
+- [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
+- [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
 - [Springboard Cybersecurity Foundations](https://www.springboard.com/resources/learning-paths/cybersecurity-foundations/) A cybersecurity foundations course offered by Springboard.
 - [FutureLearn Introduction to Cybersecurity](https://www.futurelearn.com/courses/introduction-to-cyber-security)A course on introduction to cybersecurity offered on FutureLearn.
 - [Cryptocity Penetration Testing](http://pentest.cryptocity.net/)A website that provides resources and information related to penetration testing.
 - [Irongeek Network Sniffers Class](http://www.irongeek.com/i.php?page=videos/network-sniffers-class) Offers a class on network sniffers by Irongeek
+#### Free University Courses
 - [UCSB Computer Security](http://www.cs.ucsb.edu/~vigna/courses/cs279/)A computer security course offered by UCSB
 - [Stanford Cryptography](http://crypto.stanford.edu/cs142/)A course on cryptography from Stanford University.
 - [Stanford Network Security](http://crypto.stanford.edu/cs155/)A course on network security from Stanford University
@@ -97,14 +107,6 @@ Please note that pirating will not be supported, as many books are available for
 - [CMU Computer Security](http://www.ece.cmu.edu/~dbrumley/courses/18732-f09/)A computer security course from Carnegie Mellon University
 - [Aalto Network Security](https://noppa.tkk.fi/noppa/kurssi/t-110.6220/luennot)A course on network security offered by Aalto University
 - [MIT Web Security](http://stuff.mit.edu/iap/2009/#websecurity)  Web Security Course given by the MIT University
-- [edX Introduction to Linux](https://www.edx.org/course/introduction-to-linux) Intro to Linux from The Linux Foundation
-- [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
-- [Cybrary](https://www.cybrary.it/video/introduction-8/) Provides both free and paid courses on hacking and security.
-- [BreakTheSecurity](http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html) Offers free hacking tutorials and resources.
-- [Guru99](https://www.guru99.com/) Provides tutorials on programming, machine learning, cybersecurity, and more.
-- [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
-- [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
-- [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
 ### Capture the Flag (CTF) Challenges
 - [TryHackMe](https://tryhackme.com/) Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
 - [HackThisSite](https://www.hackthissite.org/) Focuses primarily on web exploit challenges.
