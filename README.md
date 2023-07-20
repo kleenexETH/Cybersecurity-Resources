@@ -41,17 +41,13 @@ Please note that pirating will not be supported, as many books are available for
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA): Labs and capture-the-flag tutorials, HackTheBox, etc.
 - [Peter Yaworski](https://www.youtube.com/user/yaworsk1?app=desktop): Web-application hacking tips and interviews.
 - [Bugcrowd](https://www.youtube.com/c/Bugcrowd): Bug bounty methodology and interviews.
-                                                                   Bug Bounty and Ethical Hacking
 - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): Ethical hacking, web application hacking, hardware tutorials, tech reviewer.
 - [Nahamsec](https://www.youtube.com/c/Nahamsec/featured): Educational hacking and bug bounty videos and career advice.
 - [Simply Cyber](https://www.simplycyber.io/): Helps people with cybersecurity career development, and has a daily cybersecurity news video.
-                                                                        Conferences and Talks
 - [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT): Technical cybersecurity conferences.
 - [DEFCON](https://www.youtube.com/user/DEFCONConference): Technical Cybersecurity Conference.
-                                                                          Forensics and Incident Response
 - [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q): Videos on tools, forensics, and incident response.
 - [BlackPerl](https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ): Malware analysis, forensics, and incident response.
-                                                                                General Cybersecurity
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos): Programming, programming concepts, tech concepts, networking, programming and hacking, Linux.
 - [Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg): Interviews with cybersecurity figures.
 - [SecurityNow](https://twit.tv/shows/security-now): Cybercrime news, hacking, and web application security.
@@ -59,7 +55,6 @@ Please note that pirating will not be supported, as many books are available for
 - [InfoSec Live](https://www.youtube.com/c/infoseclive): Everything cybersecurity related from tutorials to interviews.
 - [The PC Security Channel](https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg): Windows security, malware news, and tutorials.
 - [David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w): Everything cybersecurity related.
-.
 #### Tech Reviewers/PC Building/Consumer Tech
 - [Barnacules Nerdgasm](https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ) Tech reviewer, hardware tutorials.
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) Hardware tutorials, tech reviewer, PC building.
@@ -79,8 +74,6 @@ Please note that pirating will not be supported, as many books are available for
 - [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw) Linux tutorials and stuff Linux related.
 - [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer) Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials
 ## Hacking and Security Challenges
-
-
 ### Courses
 #### 	Courses from various parts of the internet 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) A JavaScript course that provides in-depth knowledge about JavaScript programming.
