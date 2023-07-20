@@ -226,7 +226,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Apple Certified Macintosh Technician](https://www.thenewit.com/go-apple-technician-training/apple-certified-mac-technician) Apple-specific hardware certification Cost High (USD $2,800)
 ### Networking
 - [CompTIA Network+](https://www.comptia.org/certifications/network) Networking certification           
-the Cost is Low/Mid
+the Cost is Low/Mid (USD $300-400)
 - [Professor Messer Network+ Course](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G) Free YouTube course by Professor Messer on Network+ certification.  
 - [Udemy Network+ Course](https://www.udemy.com/course/comptia-network-n10-008/) Paid course on Udemy for Network+ certification. The Cost is Low (USD $20-30)
 ### Linux
