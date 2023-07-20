@@ -27,7 +27,7 @@ This guide aims to provide easy-to-access resources for individuals interested i
 Please note that pirating will not be supported, as many books are available for free in a legal way.
 ### Educational Channels
 #### Hacking/Cybersecurity Youtubers:
-Capture The Flag (CTFs) and Hacking Tutorials:
+- [Capture The Flag (CTFs) and Hacking Tutorials]
 - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ): Hacking hardware, cybersecurity news, hacking tech, and general hacking tutorials.
 - [Webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg): Hacking tutorials, CTFS, Linux.
 - [Sstec](https://www.youtube.com/c/SSTecTutorials/playlists): Hacking tutorials, CTFS, and projects.
@@ -42,17 +42,17 @@ Capture The Flag (CTFs) and Hacking Tutorials:
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA): Labs and capture-the-flag tutorials, HackTheBox, etc.
 - [Peter Yaworski](https://www.youtube.com/user/yaworsk1?app=desktop): Web-application hacking tips and interviews.
 - [Bugcrowd](https://www.youtube.com/c/Bugcrowd): Bug bounty methodology and interviews.
-    Bug Bounty and Ethical Hacking:
+- [Bug Bounty and Ethical Hacking]
 - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): Ethical hacking, web application hacking, hardware tutorials, tech reviewer.
 - [Nahamsec](https://www.youtube.com/c/Nahamsec/featured): Educational hacking and bug bounty videos and career advice.
 - [Simply Cyber](https://www.simplycyber.io/): Helps people with cybersecurity career development, and has a daily cybersecurity news video.
-Conferences and Talks:
+  [Conferences and Talks]
 - [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT): Technical cybersecurity conferences.
 - [DEFCON](https://www.youtube.com/user/DEFCONConference): Technical Cybersecurity Conference.
-Forensics and Incident Response:
+- [Forensics and Incident Response]
 - [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q): Videos on tools, forensics, and incident response.
 - [BlackPerl](https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ): Malware analysis, forensics, and incident response.
-General Cybersecurity:
+- [General Cybersecurity]
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos): Programming, programming concepts, tech concepts, networking, programming and hacking, Linux.
 - [Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg): Interviews with cybersecurity figures.
 - [SecurityNow](https://twit.tv/shows/security-now): Cybercrime news, hacking, and web application security.
@@ -60,7 +60,7 @@ General Cybersecurity:
 - [InfoSec Live](https://www.youtube.com/c/infoseclive): Everything cybersecurity related from tutorials to interviews.
 - [The PC Security Channel](https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg): Windows security, malware news, and tutorials.
 - [David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w): Everything cybersecurity related.
-Networking and Tech Reviews:
+- [Networking and Tech Reviews]
 - [Network Chuck](https://networkchuck.com/): All-around cybersecurity and networking YouTuber.
 #### Tech Reviewers/PC Building/Consumer Tech
 - [Barnacules Nerdgasm](https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ) Tech reviewer, hardware tutorials.
