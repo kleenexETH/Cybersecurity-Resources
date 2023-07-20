@@ -128,9 +128,15 @@ Please note that pirating will not be supported, as many books are available for
 - [OldApps](http://www.oldapps.com/) Provides archived versions of software applications for compatibility or nostalgic purposes.
 - [OldVersion](http://www.oldversion.com/) Provides archived versions of software applications for compatibility or nostalgic purposes.
 ### Hacking Techniques
-#### Metasploit:
-- [Metasploit Exploitation Framework](http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training) - Exploiting with the power of the Metasploit framework
-- [Irongeek Metasploit Course](http://www.irongeek.com/i.php?page=videos/metasploit-class) - Introduction to exploitation with Metasploit
+#### Google Hacking and Dorking:
+* http://www.stachliu.com/index.php/resources/tools/google-hacking-diggity-project/ - Google Hacking and Dorking software
+* http://midnightresearch.com/projects/search-engine-assessment-tool/#downloads - Search engine vulnerability assessment
+* http://sqid.rubyforge.org/#next - SQL Injection Digger
+* http://voidnetwork.org/5ynL0rd/darkc0de/python_script/dorkScan.html - Python dork scanning tool
+#### Wireless
+* http://code.google.com/p/pyrit/
+* http://www.oact.inaf.it/ws-ssri/Costa.pdf - Wireless Network Hacking PDF.
+* http://packetstormsecurity.org/papers/wireless/cracking-air.pdf - Cracking the Wireless Encryption PDF
 #### Password and Hash Cracking Tutorials
 - [Security and Password Exploitation Class](http://www.irongeek.com/i.php?page=videos/password-exploitation-class)
 - [Default Passwords for Various Vendors and Software](http://cirt.net/passwords)
@@ -170,15 +176,12 @@ Please note that pirating will not be supported, as many books are available for
 * http://www.irongeek.com/i.php?page=videos/ettercap-plugins-find-ip-gw-discover-isolate - Ettercap Plugins video.
 * http://www.irongeek.com/i.php?page=videos/ettercapfiltervid1 - Tutorial on Ettercap Filters video
 * http://articles.manugarg.com/arp_spoofing.pdf - ARP Spoofing paper
-#### Google Hacking and Dorking:
-* http://www.stachliu.com/index.php/resources/tools/google-hacking-diggity-project/ - Google Hacking and Dorking software
-* http://midnightresearch.com/projects/search-engine-assessment-tool/#downloads - Search engine vulnerability assessment
-* http://sqid.rubyforge.org/#next - SQL Injection Digger
-* http://voidnetwork.org/5ynL0rd/darkc0de/python_script/dorkScan.html - Python dork scanning tool
-#### Wireless
-* http://code.google.com/p/pyrit/
-* http://www.oact.inaf.it/ws-ssri/Costa.pdf - Wireless Network Hacking PDF.
-* http://packetstormsecurity.org/papers/wireless/cracking-air.pdf - Cracking the Wireless Encryption PDF.
+#### Active Directory
+[Deep dive into Active directory](https://zer1t0.gitlab.io/posts/attacking_ad/) Attacking Active Directory: 0 to 0.9
+[Active Directory Mindmap](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg) In-depth active directory Mindmap by orange-cyberdefense
+#### Metasploit:
+- [Metasploit Exploitation Framework](http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training) - Exploiting with the power of the Metasploit framework
+- [Irongeek Metasploit Course](http://www.irongeek.com/i.php?page=videos/metasploit-class) - Introduction to exploitation with Metasploit
 ## Programming
 - [edX](https://www.edx.org/) Provides various free programming courses from universities.
 - [freeCodeCamp](https://www.freecodecamp.org/) A free website for learning web development and Python.
