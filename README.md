@@ -167,37 +167,13 @@ Please note that pirating will not be supported, as many books are available for
 * http://www.sans.org/reading_room/whitepapers/testing/crack-pass-hash_33219
 * http://carnal0wnage.blogspot.com/2008/03/using-pash-hash-toolkit.html
 #### MiTM (Man in the Middle) :
-* http://www.giac.org/certified_professionals/practicals/gsec/0810.php - GIAC Security Essentials challenge exam URL.
-* http://www.linuxsecurity.com/docs/PDF/dsniff-n-mirror.pdf - dsniff & Network Mirroring Overview PDF.
-* http://www.cs.uiuc.edu/class/sp08/cs498sh/slides/dsniff.pdf - dsniff Slides PDF.
-* http://www.techvibes.com/blog/a-hackers-story-let-me-tell-you-just-how-easily-i-can-steal-your-personal-data - Hackers Story blog.
-* http://www.mindcenter.net/uploads/ECCE101.pdf - Understanding Network Attacks PDF.
-* http://toorcon.org/pres12/3.pdf - Exploiting Bluetooth Devices presentation.
 * http://media.techtarget.com/searchUnifiedCommunications/downloads/Seven_Deadliest_UC_Attacks_Ch3.pdf - 7 Deadliest UC Attacks PDF.
-* http://packetstormsecurity.org/papers/wireless/cracking-air.pdf - Cracking the Wireless Encryption PDF.
-* http://www.blackhat.com/presentations/bh-europe-03/bh-europe-03-valleri.pdf - Network Attack with Cisco IOS presentation.
-* http://www.oact.inaf.it/ws-ssri/Costa.pdf - Wireless Network Hacking PDF.
-* http://www.defcon.org/images/defcon-17/dc-17-presentations/defcon-17-sam_bowne-hijacking_web_2.0.pdf - Hijacking Web 2.0 presentation.
-* http://mcafeeseminar.com/focus/downloads/Live_Hacking.pdf - Live Hacking from McAfee PDF.
-* http://www.seanobriain.com/docs/PasstheParcel-MITMGuide.pdf - Pass The Parcel MITM Guide PDF.
-* http://www.more.net/sites/default/files/2010JohnStrandKeynote.pdf - Keynote by John Strand PDF.
-* http://www.leetupload.com/database/Misc/Papers/Asta%20la%20Vista/18.Ettercap_Spoof.pdf - Ettercap ARP Spoofing paper.
-* http://bandwidthco.com/whitepapers/netforensics/arp/EtterCap%20ARP%20Spoofing%20&%20Beyond.pdf - Ettercap ARP Spoofing & Beyond PDF.
-* http://bandwidthco.com/whitepapers/netforensics/arp/Fun%20With%20EtterCap%20Filters.pdf - Fun with Ettercap Filters PDF.
-* http://www.iac.iastate.edu/iasg/libarchive/0910/The_Magic_of_Ettercap/The_Magic_of_Ettercap.pdf - The Magic of Ettercap PDF.
-* http://articles.manugarg.com/arp_spoofing.pdf - ARP Spoofing paper.
-* http://academy.delmar.edu/Courses/ITSY2430/eBooks/Ettercap(ManInTheMiddleAttack-tool).pdf - Ettercap Man in the Middle Attack-tool PDF.
-* http://www.ucci.it/docs/ICTSecurity-2004-26.pdf - ICT Security 2004 PDF.
-* http://web.mac.com/opticrealm/iWeb/asurobot/My%20Cyber%20Attack%20Papers/My%20Cyber%20Attack%20Papers_files/ettercap_Nov_6_2005-1.pdf - Ettercap Nov 6 2005 PDF.
-* http://blog.spiderlabs.com/2010/12/thicknet.html - ThickNet blog post.
-* http://www.hackyeah.com/2010/10/ettercap-filters-with-metasploit-browser_autopwn/ - Ettercap filters with Metasploit blog post.
-* http://www.go4expert.com/forums/showthread.php?t=11842 - Ettercap forum post.
-* http://www.irongeek.com/i.php?page=security/ettercapfilter - Ettercap Filter Tutorial page.
-* http://openmaniak.com/ettercap_filter.php - Ettercap Filter Tutorial.
-* http://www.irongeek.com/i.php?page=videos/dns-spoofing-with-ettercap-pharming - DNS Spoofing with Ettercap Pharming video.
+* http://www.blackhat.com/presentations/bh-europe-03/bh-europe-03-valleri.pdf - MITM BlackHat talk 
 * http://www.irongeek.com/i.php?page=videos/ettercap-plugins-find-ip-gw-discover-isolate - Ettercap Plugins video.
-* http://www.irongeek.com/i.php?page=videos/ettercapfiltervid1 - Tutorial on Ettercap Filters video.
-* http://spareclockcycles.org/2010/06/10/sergio-proxy-released/ - Release of Sergio Proxy blog post.
+* http://www.irongeek.com/i.php?page=videos/ettercapfiltervid1 - Tutorial on Ettercap Filters video
+* http://www.oact.inaf.it/ws-ssri/Costa.pdf - Wireless Network Hacking PDF.
+* http://packetstormsecurity.org/papers/wireless/cracking-air.pdf - Cracking the Wireless Encryption PDF.
+* http://articles.manugarg.com/arp_spoofing.pdf - ARP Spoofing paper
 #### Google Hacking and Dorking:
 * http://www.stachliu.com/index.php/resources/tools/google-hacking-diggity-project/ - Google Hacking and Dorking software
 * http://midnightresearch.com/projects/search-engine-assessment-tool/#downloads - Search engine vulnerability assessment
