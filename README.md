@@ -173,8 +173,8 @@ Please note that pirating will not be supported, as many books are available for
 * http://www.irongeek.com/i.php?page=videos/ettercapfiltervid1 - Tutorial on Ettercap Filters video
 * http://articles.manugarg.com/arp_spoofing.pdf - ARP Spoofing paper
 #### Active Directory
-[Deep dive into Active directory](https://zer1t0.gitlab.io/posts/attacking_ad/) Attacking Active Directory: 0 to 0.9
-[Active Directory Mindmap](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg) In-depth active directory Mindmap by orange-cyberdefense
+* [Deep dive into Active directory](https://zer1t0.gitlab.io/posts/attacking_ad/) Attacking Active Directory: 0 to 0.9
+* [Active Directory Mindmap](https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg) In-depth active directory Mindmap by orange-cyberdefense
 #### Metasploit:
 - [Metasploit Exploitation Framework](http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training) - Exploiting with the power of the Metasploit framework
 - [Irongeek Metasploit Course](http://www.irongeek.com/i.php?page=videos/metasploit-class) - Introduction to exploitation with Metasploit
