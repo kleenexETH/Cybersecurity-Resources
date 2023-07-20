@@ -171,8 +171,6 @@ Please note that pirating will not be supported, as many books are available for
 * http://www.blackhat.com/presentations/bh-europe-03/bh-europe-03-valleri.pdf - MITM BlackHat talk 
 * http://www.irongeek.com/i.php?page=videos/ettercap-plugins-find-ip-gw-discover-isolate - Ettercap Plugins video.
 * http://www.irongeek.com/i.php?page=videos/ettercapfiltervid1 - Tutorial on Ettercap Filters video
-* http://www.oact.inaf.it/ws-ssri/Costa.pdf - Wireless Network Hacking PDF.
-* http://packetstormsecurity.org/papers/wireless/cracking-air.pdf - Cracking the Wireless Encryption PDF.
 * http://articles.manugarg.com/arp_spoofing.pdf - ARP Spoofing paper
 #### Google Hacking and Dorking:
 * http://www.stachliu.com/index.php/resources/tools/google-hacking-diggity-project/ - Google Hacking and Dorking software
@@ -181,6 +179,8 @@ Please note that pirating will not be supported, as many books are available for
 * http://voidnetwork.org/5ynL0rd/darkc0de/python_script/dorkScan.html - Python dork scanning tool
 #### Wireless
 * http://code.google.com/p/pyrit/
+* http://www.oact.inaf.it/ws-ssri/Costa.pdf - Wireless Network Hacking PDF.
+* http://packetstormsecurity.org/papers/wireless/cracking-air.pdf - Cracking the Wireless Encryption PDF.
 ## Programming
 - [edX](https://www.edx.org/) Provides various free programming courses from universities.
 - [freeCodeCamp](https://www.freecodecamp.org/) A free website for learning web development and Python.
