@@ -221,25 +221,30 @@ Please note that pirating will not be supported, as many books are available for
 - [Network Chuck Networking Course/CCNA Training](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) Networking course by Network Chuck/CCNA training course.
 ## Certifications
 ### Hardware
-- [CompTIA A+](https://www.comptia.org/certifications/a) General hardware certification with a wide range of job offerings.
-- [Professor Messer A+ Course](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC) YouTube course by Professor Messer on A+ certification.
-- Apple Certified Macintosh Technician: Apple-specific hardware certification.
+- [CompTIA A+](https://www.comptia.org/certifications/a) General hardware certification with a wide range of job offerings   Cost Low/Mid (USD $300-400)
+- [Professor Messer A+ Course](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC) YouTube course by Professor Messer on A+ certification. 
+- [Apple Certified Macintosh Technician](https://www.thenewit.com/go-apple-technician-training/apple-certified-mac-technician) Apple-specific hardware certification Cost High (USD $2,800)
 ### Networking
-- [CompTIA Network+](https://www.comptia.org/certifications/network): Networking certification.
-- [Professor Messer Network+ Course](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G): Free YouTube course by Professor Messer on Network+ certification.
-- [Udemy Network+ Course](https://www.udemy.com/course/comptia-network-n10-008/): Paid course on Udemy for Network+ certification.
+- [CompTIA Network+](https://www.comptia.org/certifications/network) Networking certification           
+the Cost is Low/Mid
+- [Professor Messer Network+ Course](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G) Free YouTube course by Professor Messer on Network+ certification.  
+- [Udemy Network+ Course](https://www.udemy.com/course/comptia-network-n10-008/) Paid course on Udemy for Network+ certification. The Cost is Low (USD $20-30)
 ### Linux
-- CompTIA Linux+ Certification: Linux certification.
+- [CompTIA Linux+](https://www.comptia.org/certifications/linux) CompTia Certification for Linux Cost is Low/Mid  (USD $300-400)
 ### Security - Entry Level
-- CompTIA Security+: Entry-level security certification.
-- CEH: Certified Ethical Hacker certification.
+- [CompTIA Security+](https://www.comptia.org/certifications/security) Comptia Entry-level security certification Cost is Low/Mid (USD $300-400)
+- [CEH](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/) Certified Ethical Hacker certification       Cost is High (USD $1200)
 ### Security - Management Level
-- CISSP: Certified Information Systems Security Professional.
+- [CISSP](https://www.isc2.org/Certifications/CISSP) Certified Information Systems Security Professional Cost Mid ($USD 700-800)
 ### Penetration Testing
-- CompTIA PenTest+: Certification focusing on penetration testing methodology.
-- PNPT: Hands-on exam from TheCyberMentor (Heath Adams) covering active directory external penetration testing and privilege escalation.
-- EJPT: Practical exam for penetration testing.
-- OSCP: Highly recognized penetration testing certification with a focus on manual testing techniques.
+- [CompTIA PenTest+](https://www.comptia.org/certifications/pentest) Certification focusing on penetration testing methodology
+The Cost is Low/Mid (USD $300-400)
+- [PNPT](https://certifications.tcm-sec.com/pnpt/)  Hands-on exam from TheCyberMentor (Heath Adams) covering active directory external penetration testing and privilege escalation
+ Cost Low/Mid (USD $300-400)
+- [EJPT](https://elearnsecurity.com/product/ejpt-certification/) Practical exam for penetration testing 
+The Cost is Low/Mid (USD $300-400)
+- [OSCP](https://www.offsec.com/courses/pen-200/) Highly recognized penetration testing certification with a focus on manual testing techniques 
+The cost is High (USD $1000-2500)
 ## Web Application Security
 ### Exploitation Frameworks and Tools
 - [BeEF](http://www.bindshell.net/tools/beef) - Browser Exploitation Framework
