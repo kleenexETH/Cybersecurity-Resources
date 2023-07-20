@@ -42,7 +42,7 @@ Capture The Flag (CTFs) and Hacking Tutorials:
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA): Labs and capture-the-flag tutorials, HackTheBox, etc.
 - [Peter Yaworski](https://www.youtube.com/user/yaworsk1?app=desktop): Web-application hacking tips and interviews.
 - [Bugcrowd](https://www.youtube.com/c/Bugcrowd): Bug bounty methodology and interviews.
-Bug Bounty and Ethical Hacking:
+    Bug Bounty and Ethical Hacking:
 - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): Ethical hacking, web application hacking, hardware tutorials, tech reviewer.
 - [Nahamsec](https://www.youtube.com/c/Nahamsec/featured): Educational hacking and bug bounty videos and career advice.
 - [Simply Cyber](https://www.simplycyber.io/): Helps people with cybersecurity career development, and has a daily cybersecurity news video.
