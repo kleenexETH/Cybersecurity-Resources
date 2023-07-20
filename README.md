@@ -4,6 +4,7 @@ This guide aims to provide easy-to-access resources for individuals interested i
 ## Table of Contents
 - [Getting Started](https://github.com/themixedcoder/test/blob/main/README.md#getting-started)
 - [Hacking and Security Challenges](https://github.com/themixedcoder/test/blob/main/README.md#hacking-and-security-challenges)
+- [Hacking Techniques](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#hacking-techniques)
 - [Programming](https://github.com/themixedcoder/test/blob/main/README.md#programming)
 - [Linux](https://github.com/themixedcoder/test/blob/main/README.md#linux)
 - [Networking](https://github.com/themixedcoder/test#networking)
