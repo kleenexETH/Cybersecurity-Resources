@@ -26,8 +26,7 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [Free Programming eBooks on GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md)
 Please note that pirating will not be supported, as many books are available for free in a legal way.
 ### Educational Channels
-#### Hacking/Cybersecurity Youtubers:
-                                                                      Capture The Flag (CTFs) and Hacking Tutorials
+#### Hacking/Cybersecurity Youtubers:                                                                 
 - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ): Hacking hardware, cybersecurity news, hacking tech, and general hacking tutorials.
 - [Webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg): Hacking tutorials, CTFS, Linux.
 - [Sstec](https://www.youtube.com/c/SSTecTutorials/playlists): Hacking tutorials, CTFS, and projects.
