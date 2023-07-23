@@ -65,38 +65,8 @@ Please note that pirating will not be supported, as many books are available for
 - [Joe Collins](https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA)Everything Linux related, including tutorials and guides
 - [Network Chuck](https://networkchuck.com/): All-around networking YouTuber
 - [Professor Messer](https://www.youtube.com/c/professormesser) Hardware Networking and Security Certifications Youtubers. Has extensive resources on CompTia certifications
-#### Programming YouTubers:
-
 
 ## Hacking and Security Challenges
-### Courses
-#### 	Courses from various parts of the internet 
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md) A JavaScript course that provides in-depth knowledge about JavaScript programming.
-- [Hoppers Roppers Academy](https://www.roppers.org/collections) Offers a collection of resources and courses related to cybersecurity and hacking.
-- [Hack The Box Academy](https://academy.hackthebox.eu/)  An educational platform by Hack The Box offering courses on various cybersecurity topics.
-- [Cyber Aces](https://www.cyberaces.org/) Offers free online cybersecurity courses.
-- [EDX Introduction to Linux](https://www.edx.org/course/introduction-to-linux) Intro to Linux from The Linux Foundation
-- [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
-- [Cybrary](https://www.cybrary.it/video/introduction-8/) Provides both free and paid courses on hacking and security.
-- [Guru99](https://www.guru99.com/) Provides tutorials on programming, machine learning, cybersecurity, and more.
-- [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
-- [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
-- [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
-- [Springboard Cybersecurity Foundations](https://www.springboard.com/resources/learning-paths/cybersecurity-foundations/) A cybersecurity foundations course offered by Springboard.
-- [FutureLearn Introduction to Cybersecurity](https://www.futurelearn.com/courses/introduction-to-cyber-security) A course on introduction to cybersecurity offered on FutureLearn.
-- [Cryptocity Penetration Testing](http://pentest.cryptocity.net/) A website that provides resources and information related to penetration testing.
-- [Irongeek Network Sniffers Class](http://www.irongeek.com/i.php?page=videos/network-sniffers-class) Offers a class on network sniffers by Irongeek
-#### Free University Courses
-- [UCSB Computer Security](http://www.cs.ucsb.edu/~vigna/courses/cs279/) A computer security course offered by UCSB
-- [Stanford Cryptography](http://crypto.stanford.edu/cs142/) A course on cryptography from Stanford University.
-- [Stanford Network Security](http://crypto.stanford.edu/cs155/) A course on network security from Stanford University
-- [UCSD Network Security](http://cseweb.ucsd.edu/classes/wi09/cse227/) A network security course offered by UCSD
-- [Berkeley Computer Security](http://www-inst.eecs.berkeley.edu/~cs161/sp11/) A computer security course from UC Berkeley
-- [UCLA Security Talks](http://security.ucla.edu/pages/Security_Talks) Provides security talks and presentations from UCLA
-- [RPI Computer Security](http://www.cs.rpi.edu/academics/courses/spring10/csci4971/) A computer security course from Rensselaer Polytechnic Institute.
-- [CMU Computer Security](http://www.ece.cmu.edu/~dbrumley/courses/18732-f09/) A computer security course from Carnegie Mellon University
-- [Aalto Network Security](https://noppa.tkk.fi/noppa/kurssi/t-110.6220/luennot) A course on network security offered by Aalto University
-
 ### Capture the Flag (CTF) Challenges
 - [TryHackMe](https://tryhackme.com/) Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
 - [HackThisSite](https://www.hackthissite.org/) Focuses primarily on web exploit challenges.
@@ -112,6 +82,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Synack](https://www.synack.com/) Hybrid platform that combines human and AI-powered security testing. Offers continuous monitoring and has a private network of skilled researchers
 - [Open Bug Bounty](https://www.openbugbounty.org/) Unique platform with a focus on responsible disclosure. Allows researchers to report vulnerabilities to websites without fear of legal consequences
 - [YesWeHack](https://www.yeswehack.com/) European bug bounty platform with a wide range of programs and collaboration with cybersecurity experts. Offers a Responsible Disclosure program for non-monetary rewards
+- [Zerodium](https://zerodium.com/program.html) Zerodium pays BIG bounties to security researchers to acquire their original and previously unreported zero-day research
 ### Vulnerable Software:
 - [VulnHub](https://www.vulnhub.com/) Virtual machines available for download to practice hacking.
 - [Exploit-DB](http://www.exploit-db.com/webapps/) Database of exploits and vulnerability information.
@@ -411,7 +382,7 @@ this section is still in progress
 * [Kali Linux](https://www.kali.org) is the most common operating system used for ethical hacking. 
   Best for all levels has the most tutorials and support and the largest community. Note various cybersecurity courses assume you are utilizing Kali including offensive security and pnpt/tcm
 * [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as Kali 
-* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, a very steep learning curve but is still very powerful
+* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, an very steep learning curve but is still very powerful
 * For more info on individual Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
 ### ISOS
 An ISO is a virtual "box" that contains all the necessary files and data to set up a computer system or an operating system. ISO files are typically used to distribute software, including operating systems like Windows or Linux. 
