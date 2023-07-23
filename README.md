@@ -383,7 +383,7 @@ this section is still in progress
 * [Kali Linux](https://www.kali.org) is the most common operating system used for ethical hacking. 
   Best for all levels has the most tutorials and support and the largest community. Note various cybersecurity courses assume you are utilizing Kali including offensive security and pnpt/tcm
 * [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as Kali 
-* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, an very steep learning curve but is still very powerful
+* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, a very steep learning curve but is still very powerful
 * For more info on individual Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
 ### ISOS
 An ISO is a virtual "box" that contains all the necessary files and data to set up a computer system or an operating system. ISO files are typically used to distribute software, including operating systems like Windows or Linux. 
@@ -395,7 +395,7 @@ An ISO is a virtual "box" that contains all the necessary files and data to set 
 Common Linux Distros 
 * [Debian](https://www.debian.org/CD/http-ftp/) Stable and open-source OS with vast software repositories
 * [Ubuntu](https://ubuntu.com/download)User-friendly Linux OS based on Debian with frequent updates
-* [Linux Mint](https://linuxmint.com/download.php)Accessible OS, great for beginners, based on Ubuntu
+* [Linux Mint](https://linuxmint.com/download.php) Accessible OS, great for beginners, based on Ubuntu
 * [Arch](https://archlinux.org/download/)Lightweight and customizable Linux OS, preferred by experienced users
 * For more info on other Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
 ### Virtual machine software and virtualization
