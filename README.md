@@ -403,6 +403,33 @@ section in progress
 this section is still in progress
 ## Digital Forensics
 this section is still in progress 
+
+## Operating systems 
+* [Kali Linux](https://www.kali.org) is the most common operating system used for ethical hacking. 
+  Best for all levels has the most tutorials and support and the largest community. Note various cybersecurity courses assume you are utilizing Kali including offensive security and pnpt/tcm
+* [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as Kali 
+* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, a very steep learning curve but is still very powerful
+* For more info on individual Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
+### ISOS
+An ISO is a virtual "box" that contains all the necessary files and data to set up a computer system or an operating system. ISO files are typically used to distribute software, including operating systems like Windows or Linux. 
+#### Windows ISO images from Microsoft
+* [Windows 10 iso image](https://www.microsoft.com/en-us/software-download/windows10)
+* [Windows 8 iso image](https://www.microsoft.com/en-us/software-download/windows8ISO)
+* [Windows 7 iso image](https://www.microsoft.com/en-us/software-download/windows7)
+#### Linux ISO images
+Common Linux Distros 
+* [Debian](https://www.debian.org/CD/http-ftp/) Stable and open-source OS with vast software repositories
+* [Ubuntu](https://ubuntu.com/download)User-friendly Linux OS based on Debian with frequent updates
+* [Linux Mint](https://linuxmint.com/download.php)Accessible OS, great for beginners, based on Ubuntu
+* [Arch](https://archlinux.org/download/)Lightweight and customizable Linux OS, preferred by experienced users
+* For more info on other Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
+### Virtual machine software and virtualization
+* [VirtualBox](https://www.virtualbox.org/) windows mac and Linux
+* [Vmware](https://www.vmware.com/) Vmware workstation windows mac and Linux
+* [Wine](https://www.winehq.org/) emulator for running windows applications on Linux, macOS, & BSD (not a virtual machine) 
+  Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on the fly,
+  eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
+
 ## Osint 
 OSINT (Open Source Intelligence) -The practice of collecting information from published or otherwise publicly available sources 
 ### People and Organizational
@@ -443,31 +470,6 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * https://www.shodan.io/ - IoT device search engine
 * http://www.exploit-db.com/google-dorks/ - Vulnerability search engine
 * http://www.hackersforcharity.org/ghdb/ - Security knowledgebase
-## Operating systems 
-* [Kali Linux](https://www.kali.org) is the most common operating system used for ethical hacking. 
-  Best for all levels has the most tutorials and support and the largest community. Note various cybersecurity courses assume you are utilizing Kali including offensive security and pnpt/tcm
-* [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as Kali 
-* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, a very steep learning curve but is still very powerful
-* For more info on individual Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
-### ISOS
-An ISO is a virtual "box" that contains all the necessary files and data to set up a computer system or an operating system. ISO files are typically used to distribute software, including operating systems like Windows or Linux. 
-#### Windows ISO images from Microsoft
-* [Windows 10 iso image](https://www.microsoft.com/en-us/software-download/windows10)
-* [Windows 8 iso image](https://www.microsoft.com/en-us/software-download/windows8ISO)
-* [Windows 7 iso image](https://www.microsoft.com/en-us/software-download/windows7)
-#### Linux ISO images
-Common Linux Distros 
-* [Debian](https://www.debian.org/CD/http-ftp/) Stable and open-source OS with vast software repositories
-* [Ubuntu](https://ubuntu.com/download)User-friendly Linux OS based on Debian with frequent updates
-* [Linux Mint](https://linuxmint.com/download.php)Accessible OS, great for beginners, based on Ubuntu
-* [Arch](https://archlinux.org/download/)Lightweight and customizable Linux OS, preferred by experienced users
-* For more info on other Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
-### Virtual machine software and virtualization
-* [VirtualBox](https://www.virtualbox.org/) windows mac and Linux
-* [Vmware](https://www.vmware.com/) Vmware workstation windows mac and Linux
-* [Wine](https://www.winehq.org/) emulator for running windows applications on Linux, macOS, & BSD (not a virtual machine) 
-  Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on the fly,
-  eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
 ## References and Cheatsheets
 * [http://en.wikipedia.org/wiki/IPv4_subnetting_reference](http://en.wikipedia.org/wiki/IPv4_subnetting_reference)
 * [http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/](http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/)
