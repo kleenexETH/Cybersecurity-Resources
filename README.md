@@ -487,7 +487,7 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [Hackin9](http://hakin9.org/)
 ## Security Research
 * [https://www.shodan.io/](https://www.shodan.io/): network monitoring and analytics platform. 
-* [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database) (google dorking): exploit database search engine.
+* [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database) google search term exploit database
 * [http://www.exploit-db.com/](http://www.exploit-db.com/): exploited and vulnerable software vulnerabilities database. 
 * [http://www.cvedetails.com/](http://www.cvedetails.com/): comprehensive database of security vulnerabilities. 
 * [https://cxsecurity.com/](https://cxsecurity.com/): security vulnerability database.
