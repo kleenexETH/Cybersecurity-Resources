@@ -19,6 +19,7 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [Communities and Conferences](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#communities-and-conferences)
 - [Blogs, Wikis, Magazines, and Forums](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#blogs-wikis-magazines-and-forums)
 - [Security Research](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#security-research)
+- [Glossary](emptylink) Various terms are used in this article. A glossary of cybersecurity terms is provided
 - [Contributions](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#contributions)
 ## Getting Started 
 ### Books and PDFs
@@ -499,11 +500,10 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [http://secdocs.lonerunners.net/](http://secdocs.lonerunners.net/): security document search engine.
 * [http://www.phenoelit-us.org/whatSAP/index.html](http://www.phenoelit-us.org/whatSAP/index.html): SAP security exploit database.
 * [http://secunia.com/](http://secunia.com/): online IT security vulnerability resource.
-* [http://cve.mitre.org/](http://cve.mitre.org/): database of publicly known security vulnerabilities.
+* [http://cve.mitre.org/](http://cve.mitre.org/): database of publicly known security vulnerabilities
+  ## Glossary 
   ## Contributions
 Special thanks to all the contributors who have helped compile and curate this comprehensive list of resources. Your valuable contributions have made this collection possible and will undoubtedly assist many in their pursuit of knowledge and understanding in the world of cybersecurity and information technology. Together, we strive to improve and share knowledge, making the digital landscape safer for all.
-
-
 In no particular order thank you 
 * [theo2612](https://github.com/theo2612)
 * butterfly Discord id butterfly6
