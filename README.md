@@ -506,7 +506,7 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
   - [NICCS glossary of terms](https://niccs.cisa.gov/cybersecurity-career-resources/vocabulary)
   - [NIST Glossary](https://csrc.nist.gov/glossary)
   - [Skillsoft list](https://www.globalknowledge.com/us-en/topics/cybersecurity/glossary-of-terms/)
-  - for more terms see [Cybersecurity ventures article](https://cybersecurityventures.com/cybersecurity-glossary/)
+  - For more terms see [Cybersecurity ventures article](https://cybersecurityventures.com/cybersecurity-glossary/)
   ## Contributions
 Special thanks to all the contributors who have helped compile and curate this comprehensive list of resources. Your valuable contributions have made this collection possible and will undoubtedly assist many in their pursuit of knowledge and understanding in the world of cybersecurity and information technology. Together, we strive to improve and share knowledge, making the digital landscape safer for all.
 In no particular order thank you 
