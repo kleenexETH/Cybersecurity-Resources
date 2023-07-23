@@ -397,7 +397,7 @@ Common Linux Distros
 * [Ubuntu](https://ubuntu.com/download)User-friendly Linux OS based on Debian with frequent updates
 * [Linux Mint](https://linuxmint.com/download.php) Accessible OS, great for beginners, based on Ubuntu
 * [Arch](https://archlinux.org/download/) Lightweight and customizable Linux OS, preferred by experienced users
-* [For more info on other Operating Systems](https://distrowatch.com/](https://distrowatch.com/)
+* [For more info on other Operating Systems](https://distrowatch.com/)
 ### Virtual machine software and virtualization
 * [VirtualBox](https://www.virtualbox.org/) windows mac and Linux
 * [Vmware](https://www.vmware.com/) Vmware workstation windows mac and Linux
