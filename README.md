@@ -232,6 +232,7 @@ the Cost is Low/Mid (USD $300-400)
 - [CompTIA Linux+](https://www.comptia.org/certifications/linux) CompTia Certification for Linux Cost is Low/Mid  (USD $300-400)
 ### Security - Entry Level
 - [CompTIA Security+](https://www.comptia.org/certifications/security) Comptia Entry-level security certification Cost is Low/Mid (USD $300-400)
+- Stay Tuned for a Security + study guide
 - [CEH](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/) Certified Ethical Hacker certification       Cost is High (USD $1200)
 ### Security - Management Level
 - [CISSP](https://www.isc2.org/Certifications/CISSP) Certified Information Systems Security Professional Cost Mid ($USD 700-800)
@@ -244,6 +245,7 @@ The Cost is Low/Mid (USD $300-400)
 The Cost is Low/Mid (USD $300-400)
 - [OSCP](https://www.offsec.com/courses/pen-200/) Highly recognized penetration testing certification with a focus on manual testing techniques 
 The cost is High (USD $1000-2500)
+- I will be writing an OSCP study guide soon. 
 ## Web Application Security
 
 ### Exploitation Frameworks and Tools
