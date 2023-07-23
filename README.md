@@ -308,7 +308,7 @@ An attack where malicious scripts are injected into web pages, affecting users w
 - [Web Vulnerability Scanner](http://code.google.com/p/fm-fsf/)
 - [Burp Suite](http://www.portswigger.net/burp/) - Web vulnerability scanner and testing tool.
 - [Belch](http://sourceforge.net/projects/belch/files/) - Web vulnerability scanner.
-- [Burp Intruder: Fuzzing Approach to Credentials Discovery](http://www.sans.org/reading_room/whitepapers/testing/fuzzing-approach-credentials-discovery-burp-intruder_33214
+- [Burp Intruder: Fuzzing Approach to Credentials Discovery](http://www.sans.org/reading_room/whitepapers/testing/fuzzing-approach-credentials-discovery-burp-intruder_33214)
 ### Net Scanners and Scripts
 - [Nmap](http://nmap.org/) - Network mapping and port scanning tool
 - [SambaScan2](http://asturio.gmxhome.de/software/sambascan2/i.html) - Windows-based shell script for discovering LanMan/NTLM authentication information
