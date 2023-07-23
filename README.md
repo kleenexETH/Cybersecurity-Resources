@@ -66,15 +66,8 @@ Please note that pirating will not be supported, as many books are available for
 - [Network Chuck](https://networkchuck.com/): All-around networking YouTuber
 - [Professor Messer](https://www.youtube.com/c/professormesser) Hardware Networking and Security Certifications Youtubers. Has extensive resources on CompTia certifications
 #### Programming YouTubers:
-- [TheNewBoston](https://www.youtube.com/user/thenewboston) Programming tutorials (web development - front end and back end, python, ruby).
-- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists) Front-end and Back-End web development tutorials
-- [Derek Banas](https://www.youtube.com/c/derekbanas/playlists) Tutorials on almost every kind of programming you can imagine.
-- [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists) Python, Web Development, and various programming tutorials
-- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) Programming Tutorials for various languages
-- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) Extensive web development videos
-#### Linux Youtubers
-- [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw) Linux tutorials and stuff Linux related.
-- [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer) Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials
+
+
 ## Hacking and Security Challenges
 ### Courses
 #### 	Courses from various parts of the internet 
@@ -181,7 +174,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Irongeek Metasploit Course](http://www.irongeek.com/i.php?page=videos/metasploit-class) - Introduction to exploitation with Metasploit
 ## Programming
 - [edX](https://www.edx.org/) Provides various free programming courses from universities.
-- [freeCodeCamp](https://www.freecodecamp.org/) A free website for learning web development and Python.
+- [freeCodeCamp](https://www.freecodecamp.org/) A free website for learning web development and Python. FOcuses extensively on Front end and back-end web development
 - [Udemy](https://www.udemy.com/) Offers career training courses, some of which are free.
 - [Khan Academy](https://www.khanacademy.org/) Provides courses on math, English, and computer programming in a fun gamified way for free.
 - [MIT OpenCourseWare](https://ocw.mit.edu/courses/intro-programming/) Free intro to programming course released by MIT.
@@ -191,7 +184,6 @@ Please note that pirating will not be supported, as many books are available for
 - [Hackerrank](https://www.hackerrank.com/) Coding challenges and competitions.
 - [Sololearn](https://www.sololearn.com/) Offers interactive coding lessons for various programming languages.
 - [Codecademy](https://www.codecademy.com/) Provides interactive coding lessons.
-- [Khan Academy](https://www.khanacademy.org/) Highly recommended resource with lots of free courses in programming, computer science, math, English, etc.
 - [Coursera](https://www.coursera.org/) Offers career development courses, both paid and free.
 - [DevDocs](https://devdocs.io/) Comprehensive documentation for various programming languages and technologies.
 - [W3Schools](https://www.w3schools.com/) Provides web development tutorials and references.
@@ -200,11 +192,15 @@ Please note that pirating will not be supported, as many books are available for
 - [CS50](https://cs50.harvard.edu/college/2020/fall/) Well-known free course for introduction to programming.
 - [HackerRank](https://www.hackerrank.com/) Offers coding challenges and competitions.
 - [SoloLearn](https://www.sololearn.com/) Provides interactive coding lessons for various programming languages.
-- [Codecademy](https://www.codecademy.com/) Offers interactive coding lessons.
 - [Khan Academy](https://www.khanacademy.org/) Highly recommended resource with lots of free courses in programming, computer science, math, English, etc.
-- [Coursera](https://www.coursera.org/) Offers career development courses, both paid and free.
 - [DevDocs](https://devdocs.io/) Comprehensive documentation for various programming languages and technologies.
 - [W3Schools](https://www.w3schools.com/) Provides web development tutorials and references.
+- [TheNewBoston](https://www.youtube.com/user/thenewboston) Programming tutorials (web development - front end and back end, python, ruby).
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists) Front-end and Back-End web development tutorials
+- [Derek Banas](https://www.youtube.com/c/derekbanas/playlists) Tutorials on almost every kind of programming you can imagine.
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists) Python, Web Development, and various programming tutorials
+- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) Programming Tutorials for various languages
+
 ## Linux
 - [Linux Training Academy](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/): Cheat sheet for useful command-line tools.
 - [TryHackMe](https://tryhackme.com/) Website for beginners and advanced users to learn about Linux and more.
@@ -216,6 +212,8 @@ Please note that pirating will not be supported, as many books are available for
 - [Linux for Ethical Hackers](https://www.youtube.com/watch?v=U1w4T03B30I) YouTube video series on Linux for ethical hackers.
 - [FreeCodeCamp Linux Crash Course](https://www.youtube.com/watch?v=ROjZy1WbCIA&t=3867s) YouTube beginner crash course in Linux.
 - [Linux Server Course](https://www.youtube.com/watch?v=WMy3OzvBWc0) YouTube course on Linux server system configuration and operation.
+- [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw) Linux tutorials and stuff Linux related.
+- [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer) Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials
 ## Networking
 - [Professor Messer's Network+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnksQpejrRxNZoRSo0pcKXkG) Highly recommended network+ training course on YouTube.
 - [FreeCodeCamp Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s) Networking course by freeCodeCamp and Network+ preparation.
