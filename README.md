@@ -13,6 +13,7 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [Cybersecurity Tools](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#cybersecurity-tools)
 - [Cloud Security](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#cloud-security)
 - [Digital Forensics](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#digital-forensics)
+- [Operating Systems](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#operating-systems)
 - [Osint](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#osint)
 - [References and Cheat sheets](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#references-and-cheatsheets)
 - [Communities and Conferences](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#communities-and-conferences)
