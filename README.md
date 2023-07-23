@@ -19,7 +19,7 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [Communities and Conferences](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#communities-and-conferences)
 - [Blogs, Wikis, Magazines, and Forums](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#blogs-wikis-magazines-and-forums)
 - [Security Research](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#security-research)
-- [Glossary](emptylink) Various terms are used in this article. A glossary of cybersecurity terms is provided
+- [Glossary and terms](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#glossary) Various terms are used in this article. A glossary of cybersecurity terms is provided below
 - [Contributions](https://github.com/Striving-to-learn/Cybersecurity-Resources/blob/main/README.md#contributions)
 ## Getting Started 
 ### Books and PDFs
