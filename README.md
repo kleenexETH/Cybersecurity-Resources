@@ -321,7 +321,7 @@ An attack where malicious scripts are injected into web pages, affecting users w
  ## Content Management System (CMS) Hacking
 Content Management Systems (CMS) are popular platforms used to manage, create, and modify digital content on websites and web applications. While they provide convenience and flexibility, improper configuration and vulnerabilities can lead to security risks. Ethical hacking (penetration testing) of CMSs is essential to identify weaknesses and implement robust security measures. However, it is crucial to obtain proper authorization before conducting any testing. Here's an overview of popular CMS platforms and resources for ethical hacking:
 ### WordPress:
--   **WordPress**: A widely used open-source CMS for websites and blogs.
+-   [**WordPress**](https://wordpress.com/) A widely used open-source CMS for websites and blogs.
 -   **WPScan**: WordPress vulnerability scanner.
 -   **WordPress Security Codex**: Official security guide by WordPress.
 -   **OWASP WordPress Security Implementation Guideline**: OWASP WordPress Security Cheat Sheet.
