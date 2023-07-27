@@ -294,8 +294,12 @@ An attack where malicious scripts are injected into web pages, affecting users w
 ### Shells
 - [Yokoso](http://sourceforge.net/projects/yokoso/)
 - [AjaxShell](http://sourceforge.net/projects/ajaxshell/)
-- [R57](https://r57.gen.tr/)
-- [Revshells](https://www.revshells.com/) 
+- [Kacak ASP](https://www.r57shell.net/single.php?id=29)
+- [WSO Mini](https://www.r57shell.net/single.php?id=33)
+- [Symlink](https://www.r57shell.net/single.php?id=2)
+- [0byt3](https://www.r57shell.net/single.php?id=21)
+- [b374k](https://www.r57shell.net/single.php?id=18)
+- [Revshells - Generate](https://www.revshells.com/) 
 ### Attack Strings
 - [FuzzDB](http://code.google.com/p/fuzzdb/)
 - [OWASP Fuzzing Code Database](http://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database#tab=Statements)
