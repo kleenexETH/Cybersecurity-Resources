@@ -434,7 +434,6 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * https://searchdns.netcraft.com/ - DNS lookup provider
 * https://securityheaders.com/ - Secure HTTP response headers scanner
 * http://uptime.netcraft.com/ - Website uptime checking
-* http://www.serversniff.net/ - Website information checker
 * http://www.domaintools.com/ - Domain information provider
 * http://centralops.net/co/ - DNS and IP information lookup
 * http://hackerfantastic.com/ - Website security scanning
