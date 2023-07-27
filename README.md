@@ -294,7 +294,10 @@ An attack where malicious scripts are injected into web pages, affecting users w
 ### Shells
 - [Yokoso](http://sourceforge.net/projects/yokoso/)
 - [AjaxShell](http://sourceforge.net/projects/ajaxshell/)
-- [Revshells](https://www.revshells.com/)
+- [R57](https://r57.gen.tr/down/c99.zip)
+- [C99](https://r57.gen.tr/down/c99.zip)
+- [AK74](https://r57.gen.tr/down/ak74.zip)
+- [B4tm4n](https://r57.gen.tr/down/b4tm4n.zip)
 
 ### Attack Strings
 - [FuzzDB](http://code.google.com/p/fuzzdb/)
