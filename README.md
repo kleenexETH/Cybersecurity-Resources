@@ -294,6 +294,7 @@ An attack where malicious scripts are injected into web pages, affecting users w
 ### Shells
 - [Yokoso](http://sourceforge.net/projects/yokoso/)
 - [AjaxShell](http://sourceforge.net/projects/ajaxshell/)
+- [Revshells](https://www.revshells.com/)
 
 ### Attack Strings
 - [FuzzDB](http://code.google.com/p/fuzzdb/)
@@ -355,8 +356,8 @@ Content Management Systems (CMS) are popular platforms used to manage, create, a
 -   [**Umbraco**](https://umbraco.com/) An open-source CMS based on Microsoft's ASP.NET framework.
 -   [**Umbraco Security**](https://umbraco.com/blog/category/security/) Security information and guidelines from Umbraco.
 ### Ghost:
--   **Ghost**: A CMS designed for bloggers and writers.
--   **Ghost Security**: Security concepts and practices for Ghost.
+-   [**Ghost**](https://ghost.org/) A CMS designed for bloggers and writers.
+-   [**Ghost Security**](https://ghost.org/docs/security/) Security concepts and practices for Ghost.
 ## Cybersecurity Tools
 section in progress 
 ## Cloud Security
@@ -381,8 +382,8 @@ this section is still in progress
 * [Kali Linux](https://www.kali.org) is the most common operating system used for ethical hacking. 
   Best for all levels has the most tutorials and support and the largest community. Note various cybersecurity courses assume you are utilizing Kali including offensive security and pnpt/tcm
 * [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as Kali 
-* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, a very steep learning curve but is still very powerful
-* For more info on individual Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
+* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, with a very steep learning curve but is still very powerful
+* For more info on individual Operating Systems see [distrowatch](https://distrowatch.com/)
 ### ISOS
 An ISO is a virtual "box" that contains all the necessary files and data to set up a computer system or an operating system. ISO files are typically used to distribute software, including operating systems like Windows or Linux. 
 #### Windows ISO images from Microsoft
