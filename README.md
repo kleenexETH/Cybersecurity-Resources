@@ -346,14 +346,14 @@ Content Management Systems (CMS) are popular platforms used to manage, create, a
 -   [**Wix**](https://www.wix.com/) Cloud-based website builder with drag-and-drop tools.
 -   [**Wix Security**](https://www.wix.com/website-security) Wix's security measures and policies.
 ### Squarespace:
--   **Squarespace**: A website builder with visually appealing templates.
--   **Squarespace Security**: Security practices and protocols from Squarespace.
+-   [**Squarespace**](https://www.squarespace.com/) A website builder with visually appealing templates.
+-   [**Squarespace Security**](https://www.squarespace.com/security) Security practices and protocols from Squarespace.
 ### Typo3:
--   **Typo3**: An enterprise-level open-source CMS known for scalability.
--   **Typo3 Security**: Typo3 security guide.
+-   [**Typo3**](https://typo3.org/) An enterprise-level open-source CMS known for scalability.
+-   [**Typo3 Security**](https://typo3.org/community/teams/security) Typo3 security guide.
 ### Umbraco:
--   **Umbraco**: An open-source CMS based on Microsoft's ASP.NET framework.
--   **Umbraco Security**: Security information and guidelines from Umbraco.
+-   [**Umbraco**](https://umbraco.com/) An open-source CMS based on Microsoft's ASP.NET framework.
+-   [**Umbraco Security**](https://umbraco.com/blog/category/security/) Security information and guidelines from Umbraco.
 ### Ghost:
 -   **Ghost**: A CMS designed for bloggers and writers.
 -   **Ghost Security**: Security concepts and practices for Ghost.
