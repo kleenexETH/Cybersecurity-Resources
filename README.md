@@ -65,7 +65,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Elithecomputerguy](https://www.youtube.com/c/Elithecomputerguypage/playlists) Hardware tutorials, network tutorials, hardware reviewer, hacking tutorials, Linux tutorials, website development.
 - [Joe Collins](https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA)Everything Linux related, including tutorials and guides
 - [Network Chuck](https://networkchuck.com/): All-around networking YouTuber
-- [Professor Messer](https://www.youtube.com/c/professormesser) Hardware Networking and Security Certifications Youtubers. Has extensive resources on CompTia certifications
+- [Professor Messer](https://www.youtube.com/c/professormesser) Hardware Networking and Security Certifications Youtubers. Has extensive resources on CompTIA certifications
 
 ## Hacking and Security Challenges
 ### Capture the Flag (CTF) Challenges
@@ -76,6 +76,7 @@ Please note that pirating will not be supported, as many books are available for
 - [HackerOne](https://www.hackerone.com/) Web hacking challenges and bug bounty program platform.
 - [CyberSecLabs](https://www.cyberseclabs.co.uk/) An online platform offering cybersecurity challenges and labs for hands-on practice and learning.
 - [WebScanTest](http://www.webscantest.com/) A website/application that allows users to test and analyze the security of web applications through vulnerability assessments and penetration testing.
+- [PortSwigger](http://www.portswigger.net) Web hacking CTFs and challenges and extensive resources on learning web application security
 - [CrackMe](http://crackme.cenzic.com/Kelev/view/home.php) Contains various Small programs or applications to download designed to test a user's reverse engineering and software cracking skills.
 ### Bug Bounty Programs
 - [HackerOne](https://www.hackerone.com/)  One of the largest bug bounty platforms with diverse programs and well-known clients. Offers rewards for security vulnerabilities in various applications
@@ -322,31 +323,28 @@ An attack where malicious scripts are injected into web pages, affecting users w
 Content Management Systems (CMS) are popular platforms used to manage, create, and modify digital content on websites and web applications. While they provide convenience and flexibility, improper configuration and vulnerabilities can lead to security risks. Ethical hacking (penetration testing) of CMSs is essential to identify weaknesses and implement robust security measures. However, it is crucial to obtain proper authorization before conducting any testing. Here's an overview of popular CMS platforms and resources for ethical hacking:
 ### WordPress:
 -   [**WordPress**](https://wordpress.com/) A widely used open-source CMS for websites and blogs.
--   **WPScan**: WordPress vulnerability scanner.
--   **WordPress Security Codex**: Official security guide by WordPress.
--   **OWASP WordPress Security Implementation Guideline**: OWASP WordPress Security Cheat Sheet.
+-   [**WPScan**](https://wpscan.com/) WordPress vulnerability scanner.
+-   [**Securi Wordpress Guide**](https://sucuri.net/guides/wordpress-security/) Official security guide by WordPress.
+-   [**OWASP WordPress Security Implementation Guideline**](https://secure.wphackedhelp.com/blog/wordpress-security-checklist-guide/) OWASP WordPress Security Cheat Sheet.
 ### Drupal:
--   **Drupal**: An open-source CMS known for flexibility and scalability.
--   **Drupal Security**: Official security page for Drupal with advisories.
--   **Drupal Security Best Practices**: Drupal's documentation on security best practices.
+-   [**Drupal**](https://www.drupal.org/) An open-source CMS known for flexibility and scalability.
+-   [**Drupal Security**](https://www.drupal.org/security) Official security page for Drupal with advisories.
+-   [**Guide on Drupal Security**](https://www.keycdn.com/blog/drupal-security).
 ### ColdFusion:
--   **ColdFusion Directory Traversal FAQ (CVE-2010-2861)**: Information about ColdFusion vulnerability.
--   **Attacking ColdFusion**: Insights into attacking ColdFusion applications.
--   **Hacking ColdFusion**: Techniques for exploiting ColdFusion security flaws.
--   **Adobe ColdFusion's Directory Traversal Disaster**: A case study on ColdFusion's security issue.
--   **HackProofing ColdFusion**: Presentation on securing ColdFusion applications.
+-   [**ColdFusion Directory Traversal FAQ (CVE-2010-2861)**](https://www.exploit-db.com/exploits/14641)Information about major ColdFusion vulnerability.
+-   [**Attacking ColdFusion**](https://pentest.tonyng.net/attacking-adobe-coldfusion/) Insights into attacking ColdFusion applications.
 ### Joomla:
--   **Joomla**: A popular open-source CMS with extensibility features.
--   **Joomla Security**: Security checklist and guidelines from Joomla.
+-   [**Joomla**](https://www.joomla.org/) A popular open-source CMS with extensibility features.
+-   [**Joomla Security**](https://docs.joomla.org/Security_Checklist/Joomla!_Setup) Security checklist and guidelines from Joomla.
 ### Magento:
--   **Magento**: An e-commerce-focused open-source CMS.
--   **Magento Security Best Practices**: Security best practices from Magento.
+-   [**Magento**](https://business.adobe.com/products/magento/magento-commerce.html) An e-commerce-focused open-source CMS.
+-   [**Magento Security Best Practices**](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf) Security best practices from Magento.
 ### Shopify:
--   **Shopify**: A hosted CMS for e-commerce solutions.
--   **Shopify Security**: Security measures and guidelines provided by Shopify.
+-   [**Shopify**](https://www.shopify.com/) A hosted CMS for e-commerce solutions.
+-   [**Shopify Security**](https://help.shopify.com/en/manual/your-account/account-security) Security measures and guidelines provided by Shopify.
 ### Wix:
--   **Wix**: Cloud-based website builder with drag-and-drop tools.
--   **Wix Security**: Wix's security measures and policies.
+-   [**Wix**](https://www.wix.com/) Cloud-based website builder with drag-and-drop tools.
+-   [**Wix Security**](https://www.wix.com/website-security) Wix's security measures and policies.
 ### Squarespace:
 -   **Squarespace**: A website builder with visually appealing templates.
 -   **Squarespace Security**: Security practices and protocols from Squarespace.
@@ -364,7 +362,7 @@ section in progress
 ## Cloud Security
 ### Cloud Security Resources:
 - [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/) A non-profit organization focused on promoting best practices for cloud security and providing education and guidance.
-- [Microsoft Cloud Security](https://www.microsoft.com/en-us/trustcenter/security) Microsoft's official cloud security page, offering information on Azure security and compliance.
+- [Microsoft Cloud Security](https://www.microsoft.com/en-us/trustcenter/security) Microsoft's official cloud security page, offers information on Azure security and compliance.
 - [AWS Security](https://aws.amazon.com/security/) Amazon Web Services (AWS) security center, providing resources and best practices for securing cloud environments on AWS.
 - [Google Cloud Security](https://cloud.google.com/security) Google Cloud's security page, with information on securing applications and data on Google Cloud Platform.
 - [Cloud Security by Oracle](https://www.oracle.com/cloud/security/) Oracle Cloud's security resources, including whitepapers and best practices for securing cloud deployments.
